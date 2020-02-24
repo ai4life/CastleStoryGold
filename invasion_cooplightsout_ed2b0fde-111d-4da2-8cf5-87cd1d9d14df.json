@@ -1,0 +1,44 @@
+{
+	"__CODENAME" : "invasion_cooplightsout_ed2b0fde-111d-4da2-8cf5-87cd1d9d14df",
+	"__DISPLAYNAME" : "##mode_invasion_preset_coop_normallightsout",
+	"__DESCRIPTION" : "##mode_invasion_preset_coop_normallightsout_info",
+	"__PRESET_GAMEMODE" : "invasion",
+	"__PRESET_ORDER" : 4,
+	"__PRESET_ISDEFAULT" : false,
+	"__ASSETVERSION": 1,
+	"__PLAYABLECONTEXT" : 2,
+	
+	"MP_MinTeams" : 1,
+	"MP_MaxTeams" : 1,
+	"MP_MinPlayersPerTeam" : 1,
+	"MP_MaxPlayersPerTeam" : -1,
+	"MP_AllowSharingTeam" : true,
+	
+	"MP_MinFactions" : 1,
+	"MP_MaxFactions" : 1,
+	"MP_MinPlayersPerFaction" : 1,
+	"MP_MaxPlayersPerFaction" : -1,
+	"MP_AllowSharingFaction" : true,
+	
+	"displayTimeBeforeWave" : false,
+	"firstWaveDurationBonus" : 300,
+	"waveDuration" : 600,
+	
+	"firstWaveBudget" : 10,
+	"additionalWaveBudget" : 6,
+	"waveBudgetMultiplier" : 1.2,
+	"waveBudgetRandom" : 0,
+	
+	"canManualTriggerWaves" : false,
+	
+	"startingWorkersCount" : 5,
+	"startingKnightCount" : 0,
+	"startingArcherCount" : 0,
+	
+	"canDigGround" : true,
+	
+	"startingTimeOfDay" : 0,
+	"pauseTimeOfDay" : true,
+	"sunElevationMin": 0,
+	"sunElevationMax": 0
+}

@@ -1,25 +1,25 @@
 {
 	"__CODENAME" : "invasion_hard_201badec-a51a-4130-b5ea-c1cccdfbd343",
-	"__DISPLAYNAME" : "##mode_invasion_preset_very_hard",
-	"__DESCRIPTION" : "##mode_invasion_preset_hard_info",
+	"__DISPLAYNAME" : "##mode_invasion_preset_nightmare",
+	"__DESCRIPTION" : "##mode_invasion_preset_nightmare_info",
 	"__PRESET_GAMEMODE" : "invasion",
-	"__PRESET_ORDER" : 3,
+	"__PRESET_ORDER" : 5,
 	"__PRESET_ISDEFAULT" : false,
 	"__ASSETVERSION": 1,
 	"__PLAYABLECONTEXT" : 1,
 
 	"displayTimeBeforeWave" : false,
 	"firstWaveDurationBonus" : 0,
-	"waveDuration" : 360,
+	"waveDuration" : 300,
 	
 	"firstWaveBudget" : 17,
 	"additionalWaveBudget" : 8,
-	"waveBudgetMultiplier" : 3,
+	"waveBudgetMultiplier" : 4,
 	"waveBudgetRandom" : 0,
 	
 	"canManualTriggerWaves" : false,
 	
-	"startingWorkersCount" : 5,
+	"startingWorkersCount" : 3,
 	"startingKnightCount" : 0,
 	"startingArcherCount" : 0,
 	
