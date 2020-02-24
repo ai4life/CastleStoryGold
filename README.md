@@ -1,5 +1,7 @@
 # CasteStoryGold
 
+![Image of Very Hard Difficulty](https://github.com/ai4life/CasteStoryGold/blob/master/veryHard.png)
+
 ## Installation
 
 ### Add Difficulty Presets
