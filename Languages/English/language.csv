@@ -1,0 +1,2320 @@
+Keys,English (Canada)
+NEW GAME MENU,
+##mainmenu_newgame,New Game
+##mainmenu_start,Start
+##mainmenu_back,Back
+##mainmenu_cancel,Cancel
+##mainmenu_select,Select
+##mainmenu_selectmap,Select map
+##mainmenu_selectamap,Select a map
+##mainmenu_play,Play
+##mainmenu_edit,Edit
+##mainmenu_update,Update
+##mainmenu_nomap,No map
+,
+##mainmenu_update_waiting_title,Updating
+##mainmenu_update_waiting_content,Please wait.
+##mainmenu_update_waiting_cancel,Cancel
+,
+##mainmenu_update_timeout_title,Update timed out
+##mainmenu_update_timeout_content,Could not complete the update. Please try again or contact support.
+##mainmenu_update_timeout_ok,Ok
+,
+##mainmenu_update_success_title,Update successful
+##mainmenu_update_success_content,Awesome!\nA backup can be found in this folder:
+##mainmenu_update_success_ok,Ok
+,
+##mainmenu_update_failure_title,Update failure
+##mainmenu_update_failure_content,Could not complete the update. Please try again or contact support.
+##mainmenu_update_failure_ok,Ok
+,
+LOBBY,
+##mainmenu_lobby,Lobby
+##mainmenu_lobby_playername,Name
+##mainmenu_lobby_playername_info,Set your name
+##mainmenu_lobby_faction,Color
+##mainmenu_lobby_faction_info,Players of the same color share control
+##mainmenu_lobby_team,Team
+##mainmenu_lobby_team_info,Players of the same team are allies
+##mainmenu_lobby_waitingforhost,Waiting for host
+##mainmenu_lobby_waitingforplayers,Waiting for players
+##mainmenu_lobby_waitingforplayerdownloads,Waiting for downloads
+##mainmenu_lobby_waitingfordownload,Waiting for download
+##mainmenu_lobby_notready,Not ready
+##mainmenu_lobby_ready,Ready
+##mainmenu_lobby_ready_info_host,You must be ready to start the game or allow clients to download a map
+##mainmenu_lobby_ready_info_client,You must be ready to allow the host to start the game.
+##mainmenu_lobby_downloading,Downloading...
+##mainmenu_lobby_close,Close
+##mainmenu_lobby_close_info,This will kick out all players
+##mainmenu_lobby_leave,Leave
+##mainmenu_lobby_start,Start
+##mainmenu_lobby_playerwaskicked,#x has been kicked by the host.
+,
+##mainmenu_newgame_header_official,Official
+##mainmenu_newgame_header_official_info,Maps made by Sauropod Studio
+##mainmenu_newgame_header_usergenerated,User Generated
+##mainmenu_newgame_header_usergenerated_info,Maps made by users
+##mainmenu_newgame_header_steamworkshop,Steam Workshop
+##mainmenu_newgame_header_steamworkshop_info,Maps you are subscribed to
+,
+##mainmenu_newgame_steambtn_info,Download\nplayer-made maps!
+##mainmenu_newgame_steambtn_title,Steam Workshop
+##mainmenu_newgame_steambtn_description,Browse
+,
+##mainmenu_language_steambtn_title,Browse
+##mainmenu_language_steambtn_description,Steam Workshop
+##mainmenu_language_steambtn_send,Send to workshop
+##mainmenu_language_steambtn_resend,Resend to Workshop
+##mainmenu_language_steambtn_go,Open on Workshop
+##mainmenu_language_unnamed,<Unnamed localization>
+,
+MAPS,
+##map,Map
+##map_noneselected,None selected
+,
+##map_creditisland_name,Credit Island
+##map_creditisland_description,"Forged by the goodwill and generosity of nearly 30,000 souls - the legend says that digging under the crust of Credit Island will release the gentle souls trapped there for years."
+##map_colibri_name,Colibri
+##map_colibri_description,Two bricktron villages in bird's eye view of each other connected by meandering paths. Thread carefully.
+##map_komorebi_name,Komorebi
+##map_komorebi_description,Quickly! The enemy is close by! Will you overcome your foes in the forest-peppered island of Komorebi?
+##map_orosivalley_name,Orosi Valley
+##map_orosivalley_description,Deep trenches scar the land of this region like the stark divides of the local bricktron settlements.
+##map_tortuga_name,Tortuga
+##map_tortuga_description,"Aeons ago, a mysterious power created an explosion at the center of this once great landmass, leaving a crater and a few small islands orbiting each other."
+##map_plateau_name,Plateau Mont-Royal
+##map_plateau_description,"At the center lies a plain where Bricktrons of all cultures congregate. Not all gatherings are peaceful, however."
+##map_riverains_name,Riverains
+##map_riverains_description,Two bricktron villages on the banks watch across with suspicion. Who will dare claim the center?
+##map_tresmuertos_name,Tres Muertos
+##map_tresmuertos_description,Spooky Spooky!!!
+##map_troubledheaps_name,Troubled Heaps
+##map_troubledheaps_description,This map was released with 0.2 that introduced Invasion mode. It is meant to stage a central point of defense.
+##map_zuma_name,Zuma
+##map_zuma_description,"Bricktrons bravely defend their land, but these twisted treeline are teeming with Corruptrons."
+##map_arecibo_name,Arecibo
+##map_arecibo_description,"Nested in the central crater of Arecibo, the enemies could come from anywhere - with no obvious chokepoints to defend. Will your castle stand this ultimate test?"
+##map_pineburg_name,Pineburg
+##map_pineburg_description,"This map was featured in the Kickstarter Trailer. It features a pre-built castle to explore, and several secondary build areas."
+##map_steppingstones_name,Stepping Stones
+##map_steppingstones_description,High-perched Bricktrons look down upon their inferior brethrens. Will the lowly Bricktrons revolt?
+##map_bigisland_name,Big Island
+##map_bigisland_description,A square kilometer surface to challenge the limits of your construction abilities. Requires high performance PC.
+##map_exile_name,Exile
+##map_exile_description,The tortuous landscape of this inhospitable island is a goulag for Bricktrons.
+##map_nova_name,Nova
+##map_nova_description,The inhabitants of Nova were masterful bridge builders. This archipelago is no welcoming place for Bricktrons afraid of heights.
+##map_invictus_name,Invictus
+##map_invictus_description,"Perched on your heightened plateau, fend off attacks from three different fronts."
+##map_kairos_name,Kairos
+##map_kairos_description,The crater in the middle of these twisted landmasses has served as the arena to many battles.
+##map_quasar_name,Quasar
+##map_quasar_description,"Several slopes at varying altitude make this the perfect island to build tall, vertical castles."
+##map_void_name,Void
+##map_void_description,There is nothing here.
+##map_newmap,New Map
+##map_newmap_description,Empty Map
+##map_newmap_forest,New Map Forest
+##map_newmap_forest_description,Empty Map with a Forest Biome.
+##map_newmap_desert,New Map Desert
+##map_newmap_desert_description,Empty Map with a Desert Biome.
+##map_newmap_winter,New Map Winter
+##map_newmap_winter_description,Empty Map with a Winter Biome.
+##map_apex_name,Apex
+##map_apex_description,"Delicate flowers grow on the slopes of this mountain, honoring ancient warriors who once fought glorious battles here."
+##map_pioneerpass_name,Pioneer Pass
+##map_pioneerpass_description,Brave bricktron pioneers find themselves in unfamiliar new lands. What danger awaits them on the other side of this winding passage?
+##map_helix_name,Helix
+##map_helix_description,"A great mountain stands tall in the center of this frozen land, looming over the bricktrons below. Will they dare to climb it and claim its peak?"
+,
+LOAD GAME MENU,
+##mainmenu_loadgame,Load Game
+##mainmenu_loadgame_info,Continue a previously saved game
+,
+SINGLEPLAYER MENU,
+##mainmenu_singleplayer,Singleplayer
+##mainmenu_singleplayer_info,Play a game on your own
+,
+MULTIPLAYER MENU,
+##mainmenu_multiplayer,Multiplayer
+##mainmenu_multiplayer_enterlobby,Enter lobby
+##mainmenu_multiplayer_selectgame,Select game
+##mainmenu_multiplayer_info,Play a game with others
+##mainmenu_multiplayer_joingame,Join
+##mainmenu_multiplayer_joingame_info,Join a game
+##mainmenu_multiplayer_hostgame,Host
+##mainmenu_multiplayer_hostgame_info,Host a game
+##mainmenu_multiplayer_hostnewgame,Host (New Game)
+##mainmenu_multiplayer_hostloadgame,Host (Load Game)
+##mainmenu_multiplayer_backtolobby,Back to lobby
+,
+##mainmenu_multiplayer_localservers,Local Server List
+##mainmenu_multiplayer_localservers_info,Join a game in your local area network
+##mainmenu_multiplayer_publicservers,Public Server List
+##mainmenu_multiplayer_publicservers_info,Browse public games online
+##mainmenu_multiplayer_noservers,No servers found.
+##mainmenu_multiplayer_customaddress,Custom Address
+##mainmenu_multiplayer_customaddress_info,Connect to a specific address
+##mainmenu_multiplayer_customaddress_ip,IP Address
+##mainmenu_multiplayer_customaddress_none,None
+##mainmenu_multiplayer_customaddress_port,Port
+##mainmenu_multiplayer_join,Join
+##mainmenu_multiplayer_cancel,Cancel
+##mainmenu_multiplayer_players,Players
+##mainmenu_multiplayer_showfull,Show full
+##mainmenu_multiplayer_showfull_info,Shows or hides servers that are full
+,
+##mainmenu_multiplayer_customaddress_ip,IP Address
+##mainmenu_multiplayer_customaddress_port,Port
+##mainmenu_multiplayer_error,Multiplayer Error
+##mainmenu_multiplayer_error_join_failure,Could not connect to server.
+##mainmenu_multiplayer_error_host_failure,Could not start server. Port #x already occupied.
+##mainmenu_multiplayer_error_client_failure,Server has stopped.
+##mainmenu_multiplayer_error_ok,Ok
+,
+##mainmenu_multiplayer_lobby,Lobby
+##mainmenu_multiplayer_lobby_ashost,Lobby (As Host)
+##mainmenu_multiplayer_lobby_asclient,Lobby (As Client)
+##mainmenu_multiplayer_host,Host
+##mainmenu_multiplayer_playerjoined,#x has joined the game.
+##mainmenu_multiplayer_playerleft,#x has left the game.
+##mainmenu_multiplayer_playerrenamed,#x1 has renamed from #x2.
+##mainmenu_multiplayer_startgame,Start Game
+##mainmenu_multiplayer_leave,Leave
+##mainmenu_multiplayer_privacy,Privacy
+##mainmenu_multiplayer_privacy_private,Private
+##mainmenu_multiplayer_privacy_friendsonly,Friends only
+##mainmenu_multiplayer_privacy_public,Public
+##mainmenu_multiplayer_lobby_leaving,Leaving lobby
+##mainmenu_multiplayer_lobby_leaving_info,Please wait...
+##mainmenu_multiplayer_lobby_player_kicked, has been kicked by the host.
+##mainmenu_multiplayer_chatbox_intro,"Press ""Enter"" to chat with other players."
+##mainmenu_multiplayer_chatbox_player_left,has left the game.
+##mainmenu_multiplayer_chatbox_entertext,Enter text...
+,
+##mainmenu_multiplayer_error_playerkicked,You were kicked by the host.\n(NetworkError.PlayerKicked)
+##mainmenu_multiplayer_error_badmessage,Not a data message.\n(NetworkError.BadMessage)
+##mainmenu_multiplayer_error_crcmismatch,The ConnectionConfig does not match the other endpoint.\n(NetworkError.CRCMismatch)
+##mainmenu_multiplayer_error_dnsfailure,The address supplied to connect to was invalid or could not be resolved.\n(NetworkError.DNSFailure)
+##mainmenu_multiplayer_error_messagetoolong,The message is too long to fit the buffer.\n(NetworkError.MessageTooLong)
+##mainmenu_multiplayer_error_noresources,Not enough resources are available to process this request.\n(NetworkError.NoResources)
+##mainmenu_multiplayer_error_timeout,Connection timed out.\n(NetworkError.Timeout)
+##mainmenu_multiplayer_error_usageerror,A function was called with inappropriate parameter values.\n(NetworkError.UsageError)
+##mainmenu_multiplayer_error_versionmismatch,The protocol versions are not compatible. Bad library versions?\n(NetworkError.VersionMismatch)
+##mainmenu_multiplayer_error_wrongchannel,The specified channel doesn't exist.\n(NetworkError.WrongChannel)
+##mainmenu_multiplayer_error_wrongconnection,The specified connectionId doesn't exist.\n(NetworkError.WrongConnection)
+##mainmenu_multiplayer_error_wronghost,The specified host not available.\n(NetworkError.WrongHost)
+##mainmenu_multiplayer_error_wrongoperation,Operation is not supported.\n(NetworkError.WrongOperation)
+##mainmenu_multiplayer_error_ok,Ok
+,
+##mainmenu_multiplayer_hosting,Hosting Game
+##mainmenu_multiplayer_abort,Abort
+,
+##mainmenu_creditisland,Credit Island
+##mainmenu_creditisland_info,In honor of our backers!
+,
+WORLD EDITOR,
+##mode_worldeditor_terrain,Terrain
+##mode_worldeditor_terrain_island,Island
+##mode_worldeditor_terrain_island_help,"Adds, levels or removes island."
+##mode_worldeditor_terrain_island_islandbrush,Island Brush
+##mode_worldeditor_terrain_island_islandbrush_dontcreate,Don't create
+##mode_worldeditor_terrain_island_islandbrush_dontlower,Don't lower
+##mode_worldeditor_terrain_island_islandbrush_dontraise,Don't raise
+,
+##mode_worldeditor_terrain_underside,Underside
+##mode_worldeditor_terrain_underside_help,Generates island underside.
+##mode_worldeditor_terrain_underside_actions,Underside Actions
+##mode_worldeditor_terrain_underside_actions_generate,Generate Underside
+##mode_worldeditor_terrain_underside_options,Underside Options
+##mode_worldeditor_terrain_underside_options_thickness,Thickness
+##mode_worldeditor_terrain_underside_options_randomness,Randomness
+##mode_worldeditor_terrain_underside_options_level,Level:
+##mode_worldeditor_terrain_underside_options_level_fromcamera,From Camera
+##mode_worldeditor_terrain_underside_options_level_fromgrid,From Grid
+##mode_worldeditor_terrain_underside_options_level_custom,Custom
+##mode_worldeditor_terrain_underside_options_calculatedbounds,Calculated Bounds
+##mode_worldeditor_terrain_underside_options_alignment,Alignment
+##mode_worldeditor_terrain_underside_options_alignment_none,None
+##mode_worldeditor_terrain_underside_options_alignment_top,Top
+##mode_worldeditor_terrain_underside_options_alignment_middle,Middle
+##mode_worldeditor_terrain_underside_options_alignment_bottom,Bottom
+##mode_worldeditor_terrain_terraintype,Terrain Type
+##mode_worldeditor_terrain_grass,Grass
+##mode_worldeditor_terrain_snow,Snow
+##mode_worldeditor_terrain_pavement,Pavement
+##mode_worldeditor_terrain_thickgrass,Thick Grass
+##mode_worldeditor_terrain_clover,Clover
+##mode_worldeditor_terrain_parchedearth,Parched Earth
+##mode_worldeditor_terrain_coarsesand,Coarse Sand
+##mode_worldeditor_terrain_sand,Sand
+##mode_worldeditor_terrain_finesand,Fine Sand
+##mode_worldeditor_terrain_compactedsnow,Frosted Path
+##mode_worldeditor_terrain_powderysnow,Blizzard Dunes
+##mode_worldeditor_terrain_crunchysnow,Packed Powder
+##mode_worldeditor_terrain_stickysnow,Fresh Snow
+,
+##mode_worldeditor_terrain_elevation,Elevation
+##mode_worldeditor_terrain_elevation_help,Adds or remove island volume.
+##mode_worldeditor_terrain_elevation_brush,Elevation Brush
+,
+##mode_worldeditor_terrain_plateau,Plateau
+##mode_worldeditor_terrain_plateau_help,Plateau's island volume.
+##mode_worldeditor_terrain_plateau_brush,Plateau Brush
+##mode_worldeditor_terrain_plateau_brush_lockheight,Lock Height
+,
+##mode_worldeditor_terrain_smooth,Smooth
+##mode_worldeditor_terrain_smooth_help,Smoothes island volume.
+##mode_worldeditor_terrain_smooth_brush,Smooth Brush
+,
+##mode_worldeditor_terrain_grass,Grass
+##mode_worldeditor_terrain_grass_help,Adds or removes grass.
+##mode_worldeditor_terrain_grass_brush,Grass Brush
+,
+##mode_worldeditor_terrain_tree,Tree
+##mode_worldeditor_terrain_tree_help,Adds or removes trees.
+##mode_worldeditor_terrain_tree_brush,Tree Brush
+,
+##mode_worldeditor_terrain_plant,Plant
+##mode_worldeditor_terrain_plant_help,Adds or removes plants.
+##mode_worldeditor_terrain_plant_brush,Plant Brush
+##mode_worldeditor_terrain_plant_brush_onlyongrass,Only on grass
+##mode_worldeditor_terrain_planttype,Plant Type
+##mode_worldeditor_terrain_plant1,Siderasis
+##mode_worldeditor_terrain_plant2,Polygatum
+##mode_worldeditor_terrain_plant3,Monstera
+##mode_worldeditor_terrain_plant4,Trillium
+##mode_worldeditor_terrain_plant5,Hosta
+##mode_worldeditor_terrain_plant6,Aloe
+##mode_worldeditor_terrain_desertplant1,Siderasis
+##mode_worldeditor_terrain_desertplant2,Opuntia
+##mode_worldeditor_terrain_desertplant3,Salicornia
+##mode_worldeditor_terrain_desertplant4,Trillium
+##mode_worldeditor_terrain_desertplant5,Hosta
+##mode_worldeditor_terrain_desertplant6,Aloe
+##mode_worldeditor_terrain_winterplant1,Siderasis
+##mode_worldeditor_terrain_winterplant2,Busserole
+##mode_worldeditor_terrain_winterplant3,Artemisia
+##mode_worldeditor_terrain_winterplant4,Trillium
+##mode_worldeditor_terrain_winterplant5,Cerastium
+##mode_worldeditor_terrain_winterplant6,Aloe
+,
+##mode_worldeditor_terrain_boulder,Boulder
+##mode_worldeditor_terrain_boulder_help,Adds or removes boulders.
+##mode_worldeditor_terrain_boulder_brush,Boulder Brush
+,
+##mode_worldeditor_terrain_iron,Iron
+##mode_worldeditor_terrain_iron_help,Adds or removes iron.
+##mode_worldeditor_terrain_iron_brush,Iron Brush
+,
+##mode_worldeditor_terrain_brimstone,Brimstone
+##mode_worldeditor_terrain_brimstone_help,Adds or removes brimstone.
+##mode_worldeditor_terrain_brimstone_brush,Brimstone Brush
+,
+##mode_worldeditor_terrain_brush_size,Size
+##mode_worldeditor_terrain_brush_intensity,Intensity
+##mode_worldeditor_terrain_brush_leveloverride,Level override
+##mode_worldeditor_terrain_brush_useoverride,Use level override
+##mode_worldeditor_terrain_brush_edgedistance,Edge distance
+,
+##mode_worldeditor_markers,Markers
+##mode_worldeditor_markers_player,Player
+##mode_worldeditor_markers_player_spawns,Player Spawns
+##mode_worldeditor_markers_player_marker,Crystal - Player Spawn
+##mode_worldeditor_markers_player_help,Adds or removes players spawns
+,
+##mode_worldeditor_markers_crystal,Crystal
+##mode_worldeditor_markers_crystal_locations,Crystals
+##mode_worldeditor_markers_crystal_marker,Shard
+##mode_worldeditor_markers_crystal_help,Adds or removes crystals
+,
+##mode_worldeditor_markers_enemy,Enemy
+##mode_worldeditor_markers_enemy_spawns,Enemy Spawns
+##mode_worldeditor_markers_enemy_marker,Corruptron Spawn Point
+##mode_worldeditor_markers_enemy_help,Adds or removes Corruptron spawns.
+,
+##mode_worldeditor_time,Time
+##mode_worldeditor_time_pause,Pause
+##mode_worldeditor_time_now,Now
+,
+##mode_worldeditor_map,Map
+##mode_worldeditor_map_preview,Preview
+,
+##mode_worldeditor_grid,Grid
+##mode_worldeditor_grid_visible,Visible
+##mode_worldeditor_grid_opacity,Opacity
+##mode_worldeditor_grid_heightlocks,Height locks to camera
+##mode_worldeditor_grid_height,Height
+,
+##mode_worldeditor_modes,Modes
+##mode_worldeditor_modes_requirements,Requirements
+##mode_worldeditor_modes_playerstart,Player Starting Point
+##mode_worldeditor_modes_corruptronspawn,Corruptron Spawn Point
+,
+##mode_worldeditor_save,Save
+##mode_worldeditor_save_title,Title & Description
+##mode_worldeditor_save_update,Update
+,
+##mode_worldeditor_workshop_steam,Steam Workshop
+##mode_worldeditor_workshop,Workshop
+##mode_worldeditor_workshop_notes,Steam Workshop: Release Notes
+##mode_worldeditor_workshop_notes_info,Type in your changes to this version of the item.
+##mode_worldeditor_workshop_csonsteam,Castle Story on Steam
+##mode_worldeditor_workshop_info,Info
+##mode_worldeditor_workshop_info_text,Use the Steam Workshop to easily share and update your maps created using the world editor.
+##mode_worldeditor_workshop_visibility,Visibility
+##mode_worldeditor_workshop_visibility_private,Private
+##mode_worldeditor_workshop_visibility_friends,Friends
+##mode_worldeditor_workshop_visibility_public,Public
+##mode_worldeditor_workshop_savecreate,"Save, Create and publish"
+##mode_worldeditor_workshop_savepublish,Save and Publish
+##mode_worldeditor_workshop_publishmenu_publish,Publish
+##mode_worldeditor_workshop_publishmenu_cancel,Cancel
+##mode_worldeditor_workshop_publishmenu_warnings,Warnings
+##mode_worldeditor_workshop_publishmenu_cannotpublish,Cannot save:
+##mode_worldeditor_workshop_publishmenu_invalidtitle,Invalid title.
+##mode_worldeditor_workshop_disabled_error,Error
+##mode_worldeditor_workshop_disabled_error_text,Open Steam and login to your account to publish on the Workshop.
+##mode_worldeditor_workshop_steamworkshop_gotoitem,Go to item on Workshop
+##mode_worldeditor_workshop_steamworkshop_done,Done
+##mode_worldeditor_workshop_none,None
+##mode_worldeditor_workshop_error,Error
+##mode_worldeditor_workshop_error_eula_info,"Could not send item to Workshop.\n<b>Steam is requesting that you agree to their legal agreement (EULA).</b>\n\nIf the button below does not work, please go to:\nhttp://steamcommunity.com/workshop/workshoplegalagreement/?appid=227860"
+##mode_worldeditor_workshop_error_eula_open,Open the EULA in Steam
+##mode_worldeditor_workshop_error_eula_ok,Ok
+##mode_worldeditor_workshop_item_open,Open the item page in Steam
+##mode_worldeditor_workshop_item,Item
+##mode_worldeditor_workshop_publish_info,Please wait...\nYour item is being created on and published to the Steam Workshop.
+##mode_worldeditor_workshop_saved,Saved to disk.
+##mode_worldeditor_workshop_created,Created on Workshop.
+##mode_worldeditor_workshop_creating,Creating on Workshop...
+##mode_worldeditor_workshop_published,Published on Workshop.
+##mode_worldeditor_workshop_publishing,Publishing on Workshop...
+##mode_worldeditor_workshop_error_timeoutcreate,Error: Could not create
+##mode_worldeditor_workshop_error_timeoutcreate_info,Timeout while creating (> #xs).
+##mode_worldeditor_workshop_error_timeoutpublish,Error: Could not publish
+##mode_worldeditor_workshop_error_timeoutpublish_info,Timeout while publishing (> #xs).
+##mode_worldeditor_workshop_error_publish,Error: Could not publish
+##mode_worldeditor_workshop_error_publish_info,"Could not upload to Steam Workshop.\nReceived error: <b>#x</b>.\nCastle Story's workshop is still in beta, please send this error the the developers so we can help you."
+##mode_worldeditor_workshop_error_ok,Ok
+,
+##mode_worldeditor_letters,Letters
+,
+##mode_worldeditor_actions,Actions
+##mode_worldeditor_options,Options
+##mode_worldeditor_help,Help
+##mode_worldeditor_close,Close
+,
+OPTIONS,
+##mainmenu_options,Options
+##mainmenu_options_apply,Apply
+##mainmenu_options_back,Back
+##mainmenu_options_settings,Settings
+##mainmenu_options_settings_info,General options
+,
+##mainmenu_options_general,General
+##mainmenu_options_general_info,General game settings
+##mainmenu_options_general_welcomescreen,Welcome screen
+##mainmenu_options_general_welcomescreen_info,Show welcome screen at game start
+##mainmenu_options_general_showhelpatgamestart,Help Popups
+##mainmenu_options_general_showhelpatgamestart_info,Enable contextual help popups
+##mainmenu_options_general_pausegame,Pause when out of focus
+##mainmenu_options_general_pausegame_info,Pause game when window loses focus
+##mainmenu_options_general_specialassets,Special assets
+##mainmenu_options_general_specialassets_info,Show special thematic assets (eg. during the holidays)
+##mainmenu_options_general_gamemodes,Unsupported game modes
+##mainmenu_options_general_gamemodes_info,Show unsupported game modes
+##mainmenu_options_general_enabledebugmode,Debug mode
+##mainmenu_options_general_enabledebugmode_info,Enable Debug mode
+,
+##mainmenu_options_graphics,Graphics
+##mainmenu_options_graphics_info,Graphics game settings
+##mainmenu_options_graphics_fullscreen,Fullscreen
+##mainmenu_options_graphics_fullscreen_info,Fullscreen or windowed
+##mainmenu_options_graphics_screenresolution,Screen Resolution
+##mainmenu_options_graphics_screenresolution_info,Set your screen resolution
+##mainmenu_options_graphics_quality,Quality Settings
+##mainmenu_options_graphics_quality_standard,Standard
+##mainmenu_options_graphics_framecap,Framerate limit
+##mainmenu_options_graphics_framecap_info,Limit the game framerate to a specific FPS
+##mainmenu_options_graphics_framecap_unlimited,Unlimited
+##mainmenu_options_graphics_framecap_fps,FPS
+##mainmenu_options_graphics_levelofdetail,Level of Detail
+##mainmenu_options_graphics_levelofdetail_info,The distance at which the game will lower terrain detail
+##mainmenu_options_graphics_levelofdetail_low,Low
+##mainmenu_options_graphics_levelofdetail_medium,Medium
+##mainmenu_options_graphics_levelofdetail_high,High
+##mainmenu_options_graphics_terrain,Terrain Acceleration
+##mainmenu_options_graphics_terrain_info,Toggle GPU acceleration for terrain data
+##mainmenu_options_graphics_terrain_autodetect,Autodetect
+##mainmenu_options_graphics_terrain_autodetect_info,"In this mode, multi-threading will be used only when optimal system requirements are met."
+##mainmenu_options_graphics_terrain_never,Never
+##mainmenu_options_graphics_terrain_never_info,"In this mode, multi-threading will never be used to accelerate the processing of voxel terrain."
+##mainmenu_options_graphics_terrain_always,Always
+##mainmenu_options_graphics_terrain_always_info,"In this mode, multi-threading will always be used to accelerate the processing of voxel terrain. If minimal system requirements are not met, you may experience unpredictable terrain behavior."
+##mainmenu_options_graphics_fogofwar,Fog of War Opacity
+##mainmenu_options_graphics_fogofwar_info,Set the fog of war opacity
+##mainmenu_options_graphics_canvasscale,UI Scale
+##mainmenu_options_graphics_canvasscale_info,Set the scale of the user interface (UI)
+##mainmenu_options_graphics_ssao,Ambient Occlusion
+##mainmenu_options_graphics_ssao_info,Set the quality of volume shadows screen space effect.
+##mainmenu_options_graphics_ssao_high,High
+##mainmenu_options_graphics_ssao_medium,Medium
+##mainmenu_options_graphics_ssao_low,Low
+##mainmenu_options_graphics_ssao_off,Off
+##mainmenu_options_graphics_bloom,Light Bloom
+##mainmenu_options_graphics_bloom_info,Enable or disable HDR light bloom screen effect.
+##mainmenu_options_graphics_colorcorrection,Color Correction
+##mainmenu_options_graphics_colorcorrection_info,Enable or disable color remapping screen effect.
+##mainmenu_options_graphics_shadowquality,Shadow Sharpness
+##mainmenu_options_graphics_shadowquality_info,Set the quality of shadow outlines (soft shadows are more expensive).
+##mainmenu_options_graphics_shadowquality_all,Hard and Soft
+##mainmenu_options_graphics_shadowquality_hardonly,Hard Only
+##mainmenu_options_graphics_shadowquality_disable,Disabled
+##mainmenu_options_graphics_shadowresolution,Shadow Resolution
+##mainmenu_options_graphics_shadowresolution_info,Set the resolution of shadow effects (higher resolution is more expensive).
+##mainmenu_options_graphics_shadowresolution_veryhigh,Very High
+##mainmenu_options_graphics_shadowresolution_high,High
+##mainmenu_options_graphics_shadowresolution_medium,Medium
+##mainmenu_options_graphics_shadowresolution_low,Low
+,
+##mainmenu_options_audio,Audio
+##mainmenu_options_audio_info,Audio game settings
+##mainmenu_options_audio_mastervolume,Master Volume
+##mainmenu_options_audio_mastervolume_info,Set the overall volume of all music and sounds
+##mainmenu_options_audio_muteallsounds,Mute all sounds
+##mainmenu_options_audio_muteallsounds_info,Toggle mute on all music and sounds
+##mainmenu_options_audio_userinterface,User interface
+##mainmenu_options_audio_userinterface_info,Set the sound level for UI
+##mainmenu_options_audio_soundeffects,Sound Effects
+##mainmenu_options_audio_soundeffects_info,Set the volume for SFX
+##mainmenu_options_audio_voices,Voices
+##mainmenu_options_audio_voices_info,Set the volume for voices
+##mainmenu_options_audio_environment,Environment
+##mainmenu_options_audio_environment_info,Set the volume for environmental sounds
+##mainmenu_options_audio_music,Music
+##mainmenu_options_audio_music_info,Set the music volume
+,
+##mainmenu_options_gameplay,Gameplay
+##mainmenu_options_gameplay_info,Gameplay settings
+,
+##mainmenu_options_networkport,Multiplayer port
+##mainmenu_options_networkport_info,Set your multiplayer port
+,
+##mainmenu_options_language,Language
+##mainmenu_options_language_info,Set your language
+##mainmenu_options_languages,Languages
+##mainmenu_options_language_ok,Ok
+##mainmenu_options_language_cancel,Cancel
+##mainmenu_options_language_english,English
+##mainmenu_options_language_english_english,English
+##mainmenu_options_language_french,French
+##mainmenu_options_language_french_english,French
+,
+##mainmenu_options_mouseinput,Mouse Input
+##mainmenu_options_mouseinput_scrollfactor,Mouse scroll factor
+##mainmenu_options_mouseinput_scrollfactor_info,Set the mouse scroll speed factor
+##mainmenu_options_mouseinput_invertscroll,Invert mouse scroll
+##mainmenu_options_mouseinput_invertscroll_info,Toggle inversion of mouse scroll
+##mainmenu_options_mouseinput_lockinside,Lock mouse
+##mainmenu_options_mouseinput_lockinside_info,Lock mouse inside game window
+##mainmenu_options_mouseinput_edgenudge,Mouse screen edge nudge
+##mainmenu_options_mouseinput_edgenudge_info,Toggle mouse screen edge nudge
+,
+##mainmenu_options_keybindings,Key Bindings
+##mainmenu_options_keybindings_info,Set your key bindings
+,
+##mainmenu_options_keybindings_command,Global
+##mainmenu_options_keybindings_command_info,Camera and selection
+##mainmenu_options_keybindings_taskpanel,Task Panel
+##mainmenu_options_keybindings_taskpanel_info,Selecting a task
+##mainmenu_options_keybindings_blocks,Blocks
+##mainmenu_options_keybindings_blocks_info,Selecting a block
+##mainmenu_options_keybindings_structures,Structures
+##mainmenu_options_keybindings_structures_info,Selecting a structure
+##mainmenu_options_keybindings_worldeditor,World Editor
+##mainmenu_options_keybindings_worldeditor_info,Exclusive to the world editor
+##mainmenu_options_keybindings_crafting,Crafting
+##mainmenu_options_keybindings_crafting_info,Crafting stations related
+##mainmenu_options_keybindings_blueprint,Blueprint
+##mainmenu_options_keybindings_blueprint_info,Blueprint management mode
+##mainmenu_options_keybindings_taskselected,Task Selected
+##mainmenu_options_keybindings_taskselected_info,Generic task actions
+,
+##mainmenu_options_keybindings_primary,Primary
+##mainmenu_options_keybindings_alternate,Alternate
+##mainmenu_options_keybindings_moveforward,Move Camera Forward
+##mainmenu_options_keybindings_movebackward,Move Camera Backward
+##mainmenu_options_keybindings_moveleft,Move Camera Left
+##mainmenu_options_keybindings_moveright,Move Camera Right
+##mainmenu_options_keybindings_rotateup,Rotate Up
+##mainmenu_options_keybindings_rotatedown,Rotate Down
+##mainmenu_options_keybindings_rotateleft,Rotate Left
+##mainmenu_options_keybindings_rotateright,Rotate Right
+##mainmenu_options_keybindings_toggleautoground,Snap Camera to Ground
+##mainmenu_options_keybindings_zoomin,Zoom In
+##mainmenu_options_keybindings_zoomout,Zoom Out
+##mainmenu_options_keybindings_moveup,Move Camera Up
+##mainmenu_options_keybindings_movedown,Move Camera Down
+##mainmenu_options_keybindings_mousemovement,Camera Free Movement
+##mainmenu_options_keybindings_mousealtaction,Mouse Action Modifier 1
+##mainmenu_options_keybindings_mousesecondary,Mouse Action Modifier 2
+##mainmenu_options_keybindings_displayoverheads,Display Overheads
+##mainmenu_options_keybindings_togglebuildmode,Toggle Build Mode
+##mainmenu_options_keybindings_mouseaction1,Mouse Action 1
+##mainmenu_options_keybindings_mouseaction2,Mouse Action 2
+##mainmenu_options_keybindings_mouserotate,Camera Free Rotate
+##mainmenu_options_keybindings_bricktronhold,Bricktron: Hold
+##mainmenu_options_keybindings_bricktronstop,Stop
+##mainmenu_options_keybindings_bricktronstance,Toggle Stance
+##mainmenu_options_keybindings_pause,Pause the Game
+##mainmenu_options_keybindings_selectproject1,Select Project 1
+##mainmenu_options_keybindings_selectproject2,Select Project 2
+##mainmenu_options_keybindings_selectproject3,Select Project 3
+##mainmenu_options_keybindings_selectproject4,Select Project 4
+##mainmenu_options_keybindings_selectproject5,Select Project 5
+##mainmenu_options_keybindings_selectproject6,Select Project 6
+##mainmenu_options_keybindings_selectproject7,Select Project 7
+##mainmenu_options_keybindings_selectproject8,Select Project 8
+##mainmenu_options_keybindings_selectproject9,Select Project 9
+##mainmenu_options_keybindings_selectproject10,Select Project 10
+##mainmenu_options_keybindings_openchat,Open Chat
+##mainmenu_options_keybindings_createproject,Create Project
+##mainmenu_options_keybindings_createharvest,Create Harvest Task
+##mainmenu_options_keybindings_createharvestwood,Create Harvest Wood Task
+##mainmenu_options_keybindings_createharvestboulder,Create Harvest Boulder Task
+##mainmenu_options_keybindings_createharvestiron,Create Harvest Iron Task
+##mainmenu_options_keybindings_createharvestbrimstone,Create Harvest Brimstone Task
+##mainmenu_options_keybindings_createharvestplant,Create Harvest Plant Task
+##mainmenu_options_keybindings_createcleaning,Create Cleaning Task
+##mainmenu_options_keybindings_createquarry,Create Quarry Task
+##mainmenu_options_keybindings_createrepair,Create Repair Task
+##mainmenu_options_keybindings_createbuild,Create Build Task
+##mainmenu_options_keybindings_createlandscape,Create Flatten Task
+##mainmenu_options_keybindings_createtunnel,Create Tunnel Task
+##mainmenu_options_keybindings_raisepriority,Raise Task Priority
+##mainmenu_options_keybindings_lowerpriority,Lower Task Priority
+,
+##mainmenu_options_keybindings_openblueprints,Open Blueprint Management
+##mainmenu_options_keybindings_taskactionslot1,Task Action 1
+##mainmenu_options_keybindings_taskactionslot2,Task Action 2
+##mainmenu_options_keybindings_taskactionslot3,Task Action 3
+##mainmenu_options_keybindings_taskactionslot4,Task Action 4
+##mainmenu_options_keybindings_taskactionslot5,Task Action 5
+##mainmenu_options_keybindings_taskactionslot6,Task Action 6
+##mainmenu_options_keybindings_deletetask,Delete Task
+##mainmenu_options_keybindings_queueslot1,Crafting Queue Slot 1
+##mainmenu_options_keybindings_queueslot2,Crafting Queue Slot 2
+##mainmenu_options_keybindings_queueslot3,Crafting Queue Slot 3
+##mainmenu_options_keybindings_queueslot4,Crafting Queue Slot 4
+##mainmenu_options_keybindings_queueslot5,Crafting Queue Slot 5
+##mainmenu_options_keybindings_toggleloop,Crafting Toggle Loop
+##mainmenu_options_keybindings_clearqueue,Clear Crafting Queue
+,
+##mainmenu_options_keybindings_blueprints_duplicate,Duplicate Selected Blueprints
+##mainmenu_options_keybindings_blueprints_delete,Delete Selected Blueprints
+##mainmenu_options_keybindings_blueprints_expand,Expand Selected Blueprints
+##mainmenu_options_keybindings_blueprints_clear,Clear Selected Blueprints
+,
+##mainmenu_options_keybindings_calltoarms,Call-to-Arms
+##mainmenu_options_keybindings_backtowork,Back to Work
+##mainmenu_options_keybindings_buildstructures,Build Structures
+##mainmenu_options_keybindings_stockpile,Select Stockpile
+##mainmenu_options_keybindings_weaponrack,Select Weaponrack
+##mainmenu_options_keybindings_workbench,Select Workbench
+##mainmenu_options_keybindings_loom,Select Loom
+##mainmenu_options_keybindings_choppingblock,Select Chopping Block
+##mainmenu_options_keybindings_forge,Select Forge
+##mainmenu_options_keybindings_machineshop,Select Machine Shop
+##mainmenu_options_keybindings_altar,Select Altar
+##mainmenu_options_keybindings_laboratory,Select Laboratory
+##mainmenu_options_keybindings_ropebridge,Select Rope Bridge
+##mainmenu_options_keybindings_furnace,Select Furnace
+##mainmenu_options_keybindings_catapult,Select Catapult
+##mainmenu_options_keybindings_door,Select Door
+##mainmenu_options_keybindings_pylonward,Select Pylon Ward
+##mainmenu_options_keybindings_sentinelward,Select Sentinel Ward
+##mainmenu_options_keybindings_healingward,Select Healing Ward
+##mainmenu_options_keybindings_captureward,Select Capture Ward
+##mainmenu_options_keybindings_lanternward,Select Lantern Ward
+##mainmenu_options_keybindings_explosivebarrel,Select Explosive Barrel
+##mainmenu_options_keybindings_beartrap,Select Bear Trap
+##mainmenu_options_keybindings_buildblocks,Build Blocks
+##mainmenu_options_keybindings_doublebrick,Select Double Brick
+##mainmenu_options_keybindings_stairbrick,Select Stairs
+##mainmenu_options_keybindings_halfstair,Select Half Stair
+##mainmenu_options_keybindings_stairspiralleft,Select Spiral Stair Left
+##mainmenu_options_keybindings_stairspiralright,Select Spiral Stair Right
+##mainmenu_options_keybindings_staircornerleft,Select Stair Corner Left
+##mainmenu_options_keybindings_staircornerright,Select Stair Corner Right
+##mainmenu_options_keybindings_staircornersimple,Select Stair Corner Simple
+##mainmenu_options_keybindings_plugbrick,Select Plug Brick
+##mainmenu_options_keybindings_plugh,Select H Plug
+##mainmenu_options_keybindings_plugl,Select L Plug
+##mainmenu_options_keybindings_plugt,Select T Plug
+##mainmenu_options_keybindings_plugx,Select X Plug
+##mainmenu_options_keybindings_archbrick,Select Arch Brick
+##mainmenu_options_keybindings_pillar,Select Pillar
+##mainmenu_options_keybindings_roundbrick,Select Round Brick
+##mainmenu_options_keybindings_roundright,Select Round Brick Right
+##mainmenu_options_keybindings_roundleft,Select Round Brick Left
+##mainmenu_options_keybindings_roundhalf,Select Round Brick Half
+##mainmenu_options_keybindings_parapet,Select Parapet
+##mainmenu_options_keybindings_parapet2,Select Parapet2
+##mainmenu_options_keybindings_parapet3,Select Parapet3
+##mainmenu_options_keybindings_halfbrick,Select Half Brick
+##mainmenu_options_keybindings_plank,Select Plank
+##mainmenu_options_keybindings_corbel,Select Corbel
+##mainmenu_options_keybindings_corbel2,Select Corbel2
+##mainmenu_options_keybindings_woodenramp,Select Wood Ramp
+##mainmenu_options_keybindings_log,Select Log
+##mainmenu_options_keybindings_brace,Select Brace
+##mainmenu_options_keybindings_rampjunction,Select Ramp Junction
+##mainmenu_options_keybindings_woodcolumn,Select Wood Column
+##mainmenu_options_keybindings_woodbeam,Select Wood Beam
+##mainmenu_options_keybindings_merlon,Select Merlon
+##mainmenu_options_keybindings_merlondouble,Select Merlon Double
+##mainmenu_options_keybindings_merloncorner,Select Merlon Convex
+##mainmenu_options_keybindings_merlonconcave,Select Merlon Concave
+,
+##mainmenu_options_keybindings_terrain_menutoggle,Toggle terrain menu
+##mainmenu_options_keybindings_markers_menutoggle,Toggle markers menu
+##mainmenu_options_keybindings_time_menutoggle,Toggle time menu
+##mainmenu_options_keybindings_map_menutoggle,Toggle map menu
+##mainmenu_options_keybindings_grid_menutoggle,Toggle grid menu
+##mainmenu_options_keybindings_modes_menutoggle,Toggle modes menu
+##mainmenu_options_keybindings_saves_menutoggle,Toggle save menu
+##mainmenu_options_keybindings_workshop_menutoggle,Toggle workshop menu
+##mainmenu_options_keybindings_letters_menutoggle,Toggle letters menu
+##mainmenu_options_keybindings_grid_toggle,Toggle grid
+,
+##mainmenu_options_keybindings_tool_underside,Underside brush
+##mainmenu_options_keybindings_tool_create,Create island brush
+##mainmenu_options_keybindings_tool_raise,Raise brush
+##mainmenu_options_keybindings_tool_flatten,Flatten brush
+##mainmenu_options_keybindings_tool_smooth,Smooth brush
+##mainmenu_options_keybindings_tool_grass,Grass brush
+##mainmenu_options_keybindings_tool_tree,Tree brush
+##mainmenu_options_keybindings_tool_plant,Plant brush
+##mainmenu_options_keybindings_tool_boulder,Boulder brush
+##mainmenu_options_keybindings_tool_iron,Iron brush
+##mainmenu_options_keybindings_tool_brimstone,Brimstone brush
+,
+##mainmenu_options_keybindings_tool_player,Player brush
+##mainmenu_options_keybindings_tool_enemy,Enemy brush
+##mainmenu_options_keybindings_tool_crystal,Crystal brush
+,
+##mainmenu_options_key_space,Space
+##mainmenu_options_key_leftshift,Left Shift
+##mainmenu_options_key_rightshift,Right Shift
+##mainmenu_options_key_leftalt,Left Alt
+##mainmenu_options_key_rightalt,Right Alt
+##mainmenu_options_key_leftctrl,Left Ctrl
+##mainmenu_options_key_rightctrl,Right Ctlr
+##mainmenu_options_key_leftarrow,Left Arrow
+##mainmenu_options_key_rightarrow,Right Arrow
+##mainmenu_options_key_uparrow,Up Arrow
+##mainmenu_options_key_downarrow,Down Arrow
+##mainmenu_options_key_delete,Delete
+##mainmenu_options_key_insert,Insert
+##mainmenu_options_key_home,Home
+##mainmenu_options_key_end,End
+##mainmenu_options_key_mwu,Mouse Wheel Up
+##mainmenu_options_key_mwd,Mouse Wheel Down
+##mainmenu_options_key_mw,MouseWheel
+##mainmenu_options_key_lmb,Left Mouse Button
+##mainmenu_options_key_rmb,Right Mouse Button
+##mainmenu_options_key_mmb,Middle Mouse Button
+##mainmenu_options_key_xxxmb,#xxx Mouse Button
+,
+##mainmenu_options_assignkeybind,Assign Key Binding
+##mainmenu_options_assignkeybind_message,Press any key to assign or press #xxx to unassign.
+##mainmenu_options_assignkeybind_conflict,Conflict
+##mainmenu_options_assignkeybind_unbindwarning,Clicking Ok will unbind conflicting keys.
+##mainmenu_options_assignkeybind_ok,Ok
+##mainmenu_options_assignkeybind_cancel,Cancel
+##mainmenu_options_assignkeybind_none,None
+,
+##mainmenu_options_revert,Revert
+##mainmenu_options_revert_message,Are you sure you want to discard all of your custom settings?
+##mainmenu_options_revert_message_ok,Yes - Revert to factory settings
+##mainmenu_options_revert_message_cancel,No - Cancel
+,
+##mainmenu_options_unsaved,Unsaved changes
+##mainmenu_options_unsaved_message,You are about to leave.\nApply unsaved changes?
+##mainmenu_options_unsaved_apply,"Yes, apply."
+##mainmenu_options_unsaved_discard,"No, discard."
+##mainmenu_options_unsaved_cancel,Decide later - Go back to the options menu
+,
+##mainmenu_options_enabled,Enabled
+##mainmenu_options_disabled,Disabled
+,
+##mainmenu_ok,Ok
+##mainmenu_cancel,Cancel
+,
+##mainmenu_exit,Exit
+##mainmenu_exit_message,Are you sure you want to exit the application?
+##mainmenu_exit_confirmexit,Exit
+##mainmenu_exit_cancelexit,Cancel
+,
+##mainmenu_wiki,Wiki
+##mainmenu_home,Home
+##mainmenu_news,Latest News
+,
+LOADING,
+##loading_title_waitingplayers,Waiting for other players
+##loading_title_waitinghost,Waiting for host
+##loading_title_step1,Initializing scripts
+##loading_title_step2,Physicalizing landform
+##loading_title_step3,Planting trees
+##loading_title_step4,Growing crystals
+##loading_title_step5,Entering world...
+##loading_title_error,Error
+##loading_title_tips,Tips and Tricks
+##loading_title_warning,Warning
+##loading,Loading
+##loading_abort_message,":( A problem occurred during loading. Please try again! If this keeps happening, you may have corrupted files. Uninstall the game, delete local files and reinstall the game. You can also contact us on support.castlestory.net "
+##loading_ok,Ok
+##loading_abort,Abort
+##loading_cancel,Cancel
+##loading_back,Back to main menu
+,
+GAME MENU,
+##gamemenu,Menu
+##gamemenu_help,Help
+##gamemenu_return,Back to game
+##gamemenu_savegame,Save game
+##gamemenu_savegame_info,Save your progress
+##gamemenu_savegame_newsave,New save
+##gamemenu_savegame_similar,Similar
+##gamemenu_savegame_other,Other
+##gamemenu_savegame_preview,Preview
+##gamemenu_savegame_fromcamera,From Camera
+##gamemenu_savegame_fromsave,From Save
+##gamemenu_savegame_save,Save
+##gamemenu_savegame_overwrite,Save (Overwrite)
+##gamemenu_savegame_untitled_filename,Untitled
+##gamemenu_savegame_failure,Save Failure
+##gamemenu_savegame_failure_message,Could not save game. Please try again.
+##gamemenu_savegame_failure_ok,Ok
+##gamemenu_savegame_name,Name
+##gamemenu_savegame_name_info,Type in a name for your save
+,
+##gamemenu_cancel,Cancel
+##gamemenu_quit,Quit
+##gamemenu_quit_info,Return to main menu
+##gamemenu_quit_game,Quit Game
+##gamemenu_quit_message,"Are you sure you want to quit the current game?
+<color=red>All unsaved changes will be lost.</color>"
+##gamemenu_quit_exitdesktop,Exit to desktop
+##gamemenu_quit_leavegame,Leave game
+,
+##gamemenu_score,Score
+##gamemenu_home,Home
+##gamemenu_paused,Game Paused
+##gamemenu_paused_text,Press P to unpause
+,
+,
+HELP POPUPS,
+##gamemenu_help_popup_intro,Getting Started
+##gamemenu_help_popup_intro_text,<color=#ffc50a>This is your Home Crystal</color>. Protect it at all costs!
+##gamemenu_help_popup_intro_tooltip,<color=#ffc50a>This is your Home Crystal</color>
+##gamemenu_help_popup_movecamera,Moving the Camera
+##gamemenu_help_popup_movecamera_text,"- Use the <color=#ffc50a>W, A, S and D</color> keys to move the camera around."
+##gamemenu_help_popup_rotatecamera,Rotating the Camera
+##gamemenu_help_popup_rotatecamera_text,"- Hold the <color=#ffc50a>Middle Mouse Button</color> to rotate the camera in any angle. \n
+- You can also use the <color=#ffc50a>Q, E, PgUp and PgDn</color> keys to rotate and zoom the camera."
+##gamemenu_help_popup_homecrystal,Home Crystal
+##gamemenu_help_popup_homecrystal_text,
+##gamemenu_help_popup_homecrystal_tooltip,This is your <color=#ffc50a>Home Crystal</color>. Protect it at all costs!
+##gamemenu_help_popup_harvestwood,Harvesting Wood
+##gamemenu_help_popup_harvestwood_text,"- Click on the <color=#ffc50a>Pickaxe</color> on the left side of your screen. \n
+- Select the <color=#ffc50a>Harvest Trees task</color>. \n
+- Place it on some trees. \n
+- Click on the <color=#00ff15>green checkmark</color> at the bottom left of your screen, or press <color=#ffc50a>""Tab""</color> to confirm. \n
+Your Bricktrons will automatically start harvesting some wood for you!"
+##gamemenu_help_popup_makechoppingblock,Making Planks
+##gamemenu_help_popup_makechoppingblock_text,"- Select the <color=#ffc50a>Structures tab</color> on the left side of your screen. \n 
+- In the <color=#ffc50a>Production</color> section, select the <color=#ffc50a>Chopping Block</color>. \n
+- Place it on the ground. \n
+You can <color=#ffc50a>delete blueprints</color> by <color=#ffc50a>ctrl + clicking</color> on the blueprint when in edit mode. \n
+- Click on the <color=#00ff15>green checkmark</color> at the bottom left of your screen, or press <color=#ffc50a>""Tab""</color> to confirm. \n
+Bricktrons will automatically begin to haul logs to the chopping block and <color=#ffc50a>produce planks</color>."
+##gamemenu_help_popup_buildstockpiles,Build Stockpiles
+##gamemenu_help_popup_buildstockpiles_text,"- Select the <color=#ffc50a>Structures tab</color> on the left side of your screen. \n 
+- In the <color=#ffc50a>Storage</color> section, select the <color=#ffc50a>Stockpile</color>. \n
+- Place several on the ground by clicking several times, or dragging across a flat surface. \n
+You can <color=#ffc50a>delete blueprints</color> by <color=#ffc50a>ctrl + clicking</color> on the blueprint when in build mode. \n
+- Click on the <color=#00ff15>green checkmark</color> at the bottom left of your screen, or press <color=#ffc50a>""Tab""</color> to confirm. \n
+If your Bricktrons won't work, make sure you have empty stockpiles."
+##gamemenu_help_popup_harveststone,Digging a Quarry
+##gamemenu_help_popup_harveststone_text,"- Click on the <color=#ffc50a>Pickaxe</color> on the left side of your screen. \n
+- Select the <color=#ffc50a>Quarry task</color>. \n
+- Place it on <color=##fc50a>empty ground</color>. \n
+- Click on the <color=#00ff15>green checkmark</color> at the bottom left of your screen, or press <color=#ffc50a>""Tab""</color> to confirm. \n
+When a stockpile is <color=#ffc50a>completely filled with stone</color>, the stone will turn into <color=#ffc50a>4 bricks</color>. \n"
+##gamemenu_help_popup_buildtips,Construction Tips
+##gamemenu_help_popup_buildtips_text,"Here are some useful construction tips. \n
+You can <color=#ffc50a>rotate blueprints</color> before placing them them by <color=#ffc50a>right-clicking</color>. \n
+You can <color=#ffc50a>delete blueprints</color> by <color=#ffc50a>ctrl + clicking</color> on the blueprint when in edit mode. \n
+You can ask Bricktrons to <color=#ffc50a>destroy a construction</color> by <color=#ffc50a>ctrl + clicking</color> on it when in a build task. \n
+You can <color=#ffc50a>duplicate, move, and manipulate blueprints</color> by using the Blueprints tool in the Plans tab on the left middle side of your screen when in a build task."
+##gamemenu_help_popup_buildfurnace,Build a Furnace
+##gamemenu_help_popup_buildfurnace_text,"- Select the <color=#ffc50a>Structures tab</color> on the left side of your screen. \n 
+- Select the <color=#ffc50a>Furnace</color>. \n
+- Place one by clicking on the ground. \n
+You can <color=#ffc50a>rotate blueprints</color> before placing them them by <color=#ffc50a>right-clicking</color>. \n
+- Click on the <color=#00ff15>green checkmark</color> at the bottom left of your screen, or press <color=#ffc50a>""Tab""</color> to confirm. \n
+With a furnace, you can now use iron ore and brimstone to obtain iron ingots."
+##gamemenu_help_popup_harvestbrimstoneiron,Iron & Brimstone
+##gamemenu_help_popup_harvestbrimstoneiron_text,"Iron and Brimstone are useful to produce iron ingots, wards and other items and structures. \n
+Harvest some iron AND brimstone. \n
+- Click on the <color=#ffc50a>Pickaxe</color> on the left side of your screen. \n
+- Select the <color=#ffc50a>Iron or Brimstone harvest task</color>. \n
+- Place it on a patch of iron or brimstone. \n
+- <color=#00ff15>Confirm</color>. \n
+You need to gather <color=#ffc50a>both iron and brimstone</color> to complete this objective. \n
+<b>Make sure to have available stockpiles!</b>"
+##gamemenu_help_popup_buildworkbench,Build a Workbench
+##gamemenu_help_popup_buildworkbench_text,"- Make sure you have planks in one of your stockpiles. \n
+- Select the <color=#ffc50a>Structures</color> tab. \n 
+- In the <color=#ffc50a>Crafting</color> section, select the <color=#ffc50a>Workbench</color>. \n
+- Place it on the ground. \n
+- <color=#00ff15>Confirm</color>. \n
+The workbench will allow you to craft archer and halberdier kits."
+##gamemenu_help_popup_queueironingots,Make Iron Ingots
+##gamemenu_help_popup_queueironingots_text,"- Select your <color=#ffc50a>furnace</color>. \n 
+- A pop-up menu will open at the bottom of your screen. \n
+- <color=#ffc50a>Click on the Iron ingot.</color> \n
+- You can queue multiple ingots. \n
+<color=#ffc50a> Make sure to have an empty stockpile to store your ingots.</color>"
+##gamemenu_help_popup_buildweaponrack,Build Weapon Rack
+##gamemenu_help_popup_buildweaponrack_text,"- Make sure you have planks in one of your stockpiles. \n
+- Select the <color=#ffc50a>Structures tab</color>. \n 
+- In the Storage section, select the <color=#ffc50a>Weapon Rack</color>. \n
+- Place it on the ground. \n
+- <color=#00ff15>Confirm</color>. \n
+The Bricktrons will store unused or newly crafted military equipment in the weapon rack."
+##gamemenu_help_popup_queuehalberdier,Queue Halberdier Kit
+##gamemenu_help_popup_queuehalberdier_text,"- <color=#ffc50a>Select your workbench.</color> \n
+- At the bottom of your screen, with the workbench pop-up, you can select what you want to craft. \n
+- Click on the <color=#ffc50a>Halberdier Kit</color> to begin production. \n
+- You can queue multiple kits by clicking on the Halberdier kit again. \n
+<color=#ffc50a> Make sure to have an empty weapon rack to store your kits.</color> \n
+A weapon racks can only hold <color=#ffc50a>4 military kits of a single type at once.</color>"
+##gamemenu_help_popup_equiphalberdier,Equip Halberdier Kit
+##gamemenu_help_popup_equiphalberdier_text,"- Select a <color=#ffc50a>Bricktron</color>. \n
+- <color=#ffc50a>Right-click</color> (don't hold right-click) on the <color=#ffc50a>weapon rack containing the Halberdier Kit</color>. \n
+To unequip the kit, select the Halberdier and right-click an empty weapon stand or one that contains 3 or less Halberdier kits."
+##gamemenu_help_popup_craftlantern,Craft a Lantern
+##gamemenu_help_popup_craftlantern_text,"The world of Castle Story has a <color=#ffc50a>Day / Night cycle</color>. \n
+Fortunately, you can build <color=#ffc50a>Lanterns</color> to provide light and vision. \n
+- Select the <color=#ffc50a>Workbench</color> and open the pie menu.
+- Choose the <color=#ffc50a>Lantern</color>. \n
+You will need an iron ingot and brimstone to craft a lantern."
+##gamemenu_help_popup_placelantern,Placing Lanterns
+##gamemenu_help_popup_placelantern_text,"Once you have stockpiled one or more <color=#ffc50a>Lanterns</color>, the easiest way to place them is with the <color=#ffc50a>Structures</color> tab. \n
+Place a lantern blueprint where you want your Bricktrons to build it. They will carry it from the stockpile to the blueprint. \n
+Optionally, link your lanterns to your home crystal with Pylons to make them shine brighter."
+##gamemenu_help_popup_buildingwall,Building a Wall
+##gamemenu_help_popup_buildingwall_text,"- Select the <color=#ffc50a>Stone Blocks</color> tab. \n
+- Select the <color=#ffc50a>Brick</color>. \n
+You can now place them on the ground or on top of each other to start building walls! Don't hesitate to use the other blocks to make more complex structures too."
+##gamemenu_help_popup_buildingwall_tooltip,<color=#ffa500ff>Build walls directly around your home crystal to protect it from Corruptrons.</color>
+##gamemenu_help_popup_plantsloom,Loom & Plants
+##gamemenu_help_popup_plantsloom_text,"The Loom will allow you to refine plant fiber into rope and fabric, which are useful for military kits. \n
+- Place a <color=#ffc50a>plant harvest task</color> over some plants and <color=#00ff15>confirm it</color>. \n
+<color=#ffc50a>Make sure you have empty stockpiles to store the plants.</color> \n
+- Place a <color=#ffc50a>loom blueprint</color> and <color=#00ff15>confirm it</color>. You'll find it under the structures tab under the Production section."
+##gamemenu_help_popup_fabricrope,Making Rope & Fabric
+##gamemenu_help_popup_fabricrope_text,"Now that you have plant fiber, lets make some rope and fabric. \n
+- Select the loom. \n
+- At the bottom of your screen, with the loom pop-up, you can select what you want to craft. \n
+- Click on the <color=#ffc50a>Rope</color> to craft one rope coil. \n
+Once you have some rope, select the loom again and click on the <color=#ffc50a>Fabric</color> to craft one fabric roll. \n
+<color=#ffc50a>Make sure you have empty stockpiles to store both the fabric and the rope.</color>"
+##gamemenu_help_popup_queuearcher,Queue Archer Kit
+##gamemenu_help_popup_queuearcher_text,"- Select your workbench. \n
+- At the bottom of your screen, with the workbench pop-up, you can select what you want to craft. \n
+- Click on the <color=#ffc50a>Archer Kit</color> to begin production. \n
+- You can queue multiple kits by clicking on the Archer kit again. \n
+<color=#ffc50a> Make sure to have an empty weapon rack to store your kits.</color> \n
+A weapon racks can only hold <color=#ffc50a>4 military kits of a single type at once.</color>"
+##gamemenu_help_popup_equiparcher,Equip Archer Kit
+##gamemenu_help_popup_equiparcher_text,"- Select a <color=#ffc50a>Bricktron</color>. \n
+- <color=#ffc50a>Right-click</color> (don't hold right-click) on the <color=#ffc50a>weapon rack containing the Archer Kit</color>. \n
+To unequip the kit, select the Archer and right-click an empty weapon rack or one that contains 3 or less Archer kits!"
+##gamemenu_help_popup_spawnbricktron,Spawning Bricktrons
+##gamemenu_help_popup_spawnbricktron_text,"To Spawn additionnal Bricktrons, you need to collect <color=#ffc50a>Wisps</color>. You can see your total number of wisps in the panel on the bottom left side of your screen. \n
+Once that bar is full, you will see a <color=#ffc50a>Yellow Wisp</color> floating around your main crystal. \n
+- To spawn a Bricktron, <color=#ffc50a>click</color> on the <color=#ffc50a>Bricktron icon</color> next to the progressing bar. \n"
+##gamemenu_help_popup_outro,Need More Help?
+##gamemenu_help_popup_outro_text,"If you need more help, check out the help panel by clicking on the question mark at the top right of your screen. \n
+You can also visit the official Castle Story wiki on <color=#ffc50a>http://wiki.castlestory.net</color> \n
+You can find other players to chat with on the official Castle Story Discord at <color=#ffc50a>http://castlestory.net/Discord</color>"
+##gamemenu_help_popup_nextsection,Coming Next
+##gamemenu_help_popup_nextsection_text,"This next section Will show you how to craft other military units and discuss more advanced aspects of the game. \n 
+<color=#ffc50a>You can end this tutorial at any moment by turning it off in the options menu (F10)</color>."
+##gamemenu_help_popup_startinvasion,Test your Might
+##gamemenu_help_popup_startinvasion_text,"You are now free to continue to explore the game! \n
+Want to put your Bricktrons to the test? Then press the <color=#ffc50a>Send Corruptron Wave button</color> on the <color=#ffc50a>left side of your screen</color>. \n
+This will send a wave of Corruptrons to attack your crystal. \n
+Try and see how many waves you can defeat!"
+,
+##gamemenu_help_popup_buildmorestockpiles,<color=#ff0064><size=12>You need more empty stockpiles!</size></color> Build additionnal stockpiles to continue harvesting resources.
+##gamemenu_help_popup_toomanytasks,<color=#ff0064><size=12>You have too many tasks!</size></color> Delete some of your existing tasks to place new ones.
+##gamemenu_help_popup_next,Continue
+##gamemenu_help_popup_todisable,"<i>To disable these help popups, go in general options by pressing F10</i>"
+,
+Insert new tutorial sidebar strings below,
+##help_sidebar_welcometocastlestory_title,Beginner's Guide
+##help_sidebar_welcometocastlestory_text1,Welcome to Castle Story!
+##help_sidebar_welcometocastlestory_text2,"In this tutorial, we will teach you the basics of playing the game.\n\nCastle Story is a complex game, so we recommend following it in it's entirety before diving deeper in other game modes. \n\n<color=#ffc50a>Let's get started!</color>\n"
+##help_sidebar_welcometocastlestory_text3,"<color=#ffc50a>Pro tip: </color>if you do not want to see this tutorial, open the main menu and disable the tutorial in <color=#ffc50a>options / general > disable tooltips.</color>"
+##help_sidebar_welcometocastlestory_button,Continue
+##help_sidebar_welcometocastlestory_tooltip_title,Home Crystal
+##help_sidebar_welcometocastlestory_tooltip_text,This is your Home Crystal. Defend it at all costs!
+##help_sidebar_meetthebricktrons_title,The Basics
+##help_sidebar_meetthebricktrons_text1,Meet the Bricktrons!
+##help_sidebar_meetthebricktrons_text2,The Bricktrons
+##help_sidebar_meetthebricktrons_text3,"<color=#ffc50a>Bricktrons</color> are friendly yellow creatures that will follow your orders. You can give them direct orders, or place down tasks that they will choose to do on their own."
+##help_sidebar_meetthebricktrons_text4,Your Home Crystal
+##help_sidebar_meetthebricktrons_text5,"The <color=#ffc50a>Home Crystal</color> is the heart of your civilization. You must defend it at all costs from marauding creatures or rival bricktron villages.\n\nThe Home Crystal is also <color=#ffc50a> your source of power</color>, and <color=#ffc50a>the only place to get more Bricktrons</color>."
+##help_sidebar_meetthebricktrons_button,Continue
+##help_sidebar_controllingthecamera_title,The Basics
+##help_sidebar_controllingthecamera_text1,Controlling the camera
+##help_sidebar_controllingthecamera_text2,Moving the camera
+##help_sidebar_controllingthecamera_text3,Use the <color=#ffc50a>#hotkeys</color> keys to move the camera horizontally.
+##help_sidebar_controllingthecamera_text4,<color=#ffc50a>Pro tip:</color> You can also enable screen edge nudge in options / gameplay
+##help_sidebar_controllingthecamera_text5,Rotating the camera
+##help_sidebar_controllingthecamera_text6,Use <color=#ffc50a>#hotkeys</color> or <color=#ffc50a>Middle Mouse Button</color> to rotate the camera around the pivot.
+##help_sidebar_controllingthecamera_text7,Zooming in & out
+##help_sidebar_controllingthecamera_text8,Use <color=#ffc50a>#hotkeys</color> or the <color=#ffc50a>Mouse Scroll Wheel</color> to zoom in and out.
+##help_sidebar_controllingthecamera_text9,Changing the elevation
+##help_sidebar_controllingthecamera_text10,Use <color=#ffc50a>Shift + Scroll Wheel</color> or <color=#ffc50a>#hotkeys</color> to change the elevation of the camera pivot.
+##help_sidebar_controllingthecamera_text11,<color=#ffc50a>Pro tip:</color> You can force <color=#ffc50a>auto-ground-hug by pressing #hotkeys</color>.
+##help_sidebar_controllingthecamera_button,Continue
+##help_sidebar_issuingorders_title,The Basics
+##help_sidebar_issuingorders_text1,Issuing Orders
+##help_sidebar_issuingorders_text2,Selecting Bricktrons
+##help_sidebar_issuingorders_text3,Use the <color=#ffc50a>Left Mouse Button</color> to select a Bricktron.\n\nYou can also <color=#ffc50a>Drag Select</color> to select multiple Bricktrons.\n\nOnce a Bricktron is selected a yellow circle will appear beneath its feet.
+##help_sidebar_issuingorders_text4,"<color=#ffc50a>Pro tip :</color> If you <color=#ffc50a>Double Click</color> on a Bricktron, it will select all the Bricktrons of the same class (ie: workers, archers, knights, etc.)"
+##help_sidebar_issuingorders_text5,Issuing Orders
+##help_sidebar_issuingorders_text6,"With a selected Bricktron, <color=#ffc50a>Right Click</color> on the ground to give it a <color=#ffc50a>Move Order</color>.\n\nIf you <color=#ffc50a>Control + Right Click</color> on the ground, this will issue a <color=#ffc50a>Dig Order</color>.\n\n<color=#ffc50a>Control + Right Click</color> on bricks or structures will issue a <color=#ffc50a>Destroy Order</color>."
+##help_sidebar_issuingorders_button,Continue
+##help_sidebar_gatheringstuff_title,Resources
+##help_sidebar_gatheringstuff_text1,Gathering Stuff
+##help_sidebar_gatheringstuff_text2,"In Castle Story, you gather resource by placing down tasks. Left to themselves, Bricktrons will choose tasks based on priority, but you can also reassign them.\n\n<color=#ffc50a>Wood is the first resource you will want to gather</color>.\n\nLet's cut some trees!"
+##help_sidebar_gatheringstuff_text3,Harvesting Wood
+##help_sidebar_gatheringstuff_text4,"<color=#ffc50a>Press the Tasks button</color> at the center left of the screen, and choose the <color=#ffc50a>Harvest Wood task</color>.\n\n<color=#ffc50a>Click on a patch of trees</color>. You should see a yellow circle appear, highlighting all the trees in it.\n\n<color=#ffc50a>Press Tab</color> or the <color=#00ff15>Green Checkmark</color> to activate the task."
+##help_sidebar_gatheringstuff_text5,<color=#ffc50a>Pro tip:</color> You can <color=#ffc50a>change the radius</color> of the harvest tasks by click-dragging the yellow circle or <color=#ffc50a>move the center</color> by dragging the pin in the middle.
+##help_sidebar_gatheringstuff_button,Create a harvest wood task to continue
+##help_sidebar_transformingrawresources_title,Resources
+##help_sidebar_transformingrawresources_text1,Transforming raw resources
+##help_sidebar_transformingrawresources_text2,"Now, you have a bunch of logs, but your Bricktrons don't know what to do with them.\n\nLet's create a <color=#ffc50a>Chopping Block</color> to transform them into <color=#ffc50a>planks</color>!"
+##help_sidebar_transformingrawresources_text3,Creating a Chopping Block
+##help_sidebar_transformingrawresources_text4,"<color=#ffc50a>Press the Structures button</color> at the center left of the screen, and choose the <color=#ffc50a>Chopping Block</color>.\n\n<color=#ffc50a>Click on the ground</color> to place your structure. You should see the blueprint of a Chopping Block appear on the ground.\n\n<color=#ffc50a>Press Tab</color> or the <color=#00ff15>Green Checkmark</color> to apply the blueprint.\n\nOne of your Bricktrons should immediately grab a log and place it on the blueprint to create the chopping block."
+##help_sidebar_transformingrawresources_button,Create a Chopping Block to continue
+##help_sidebar_stockpilingyourresources_title,Resources
+##help_sidebar_stockpilingyourresources_text1,Stockpiling Your Resources
+##help_sidebar_stockpilingyourresources_text2,"Most resources need to be stockpiled for Bricktrons to be able to use them.\n\nStockpiles are needed to do that. In fact, <color=#ffc50a>you will need A LOT of stockpiles to run a village efficiently</color>."
+##help_sidebar_stockpilingyourresources_text3,Creating stockpiles
+##help_sidebar_stockpilingyourresources_text4,"<color=#ffc50a>Press the Structures button</color>, and choose the <color=#ffc50a>Stockpile</color> in the storage section.\n\n<color=#ffc50a>Place some stockpiles</color> on the ground.\n\n<color=#ffc50a>Press Tab to confirm the new blueprints</color>."
+##help_sidebar_stockpilingyourresources_text5,<color=#ffc50a>Pro tip :</color> Several blueprints can be placed on the groud at once by <color=#ffc50a>click-dragging</color>. This is much more efficient than clicking them individually.
+##help_sidebar_stockpilingyourresources_text6,You can see that a stockpile <color=#ffc50a>requires 1 plank to build</color> and that it can <color=#ffc50a>contain up to 12 planks</color>.
+##help_sidebar_stockpilingyourresources_button,Create 6 Stockpiles to continue
+##help_sidebar_gatheringcraftingmaterials_title,Crafting
+##help_sidebar_gatheringcraftingmaterials_text1,Gathering crafting materials
+##help_sidebar_gatheringcraftingmaterials_text2,"Right now, your village is completely defenseless. This is a problem we should fix, don't you think?\n\n<color=#ffc50a>Let's create some weapons!</color>\n\nFor that <color=#ffc50a>we'll need metal</color>."
+##help_sidebar_gatheringcraftingmaterials_text3,Harvesting Iron & Brimstone
+##help_sidebar_gatheringcraftingmaterials_text4,"Just like harvesting trees, to get raw Iron, <color=#ffc50a>go to the task tab</color>, find the <color=#ffc50a>harvest iron task</color>, and, <color=#ffc50a>place it on a nearby patch of iron</color>.\n\n<color=#ffc50a>Press Tab</color> to confirm the task placement.\n\nWe will also need to melt that metal into ingots. Brimstone is the resource we need.\n\nGo to the <color=#ffc50a>task tab</color>, click on <color=#ffc50a>harvest brimstone</color>, and <color=#ffc50a>place it on a nearby patch of brimstone</color>.\n\n<color=#ffc50a>Press Tab</color> to confirm the task placement."
+##help_sidebar_gatheringcraftingmaterials_button,Gather Iron and Brimstone to continue
+##help_sidebar_thefurnace_title,Crafting
+##help_sidebar_thefurnace_text1,The Furnace
+##help_sidebar_thefurnace_text2,"To melt the iron using brimstone, we will need to build <color=#ffc50a>a Furnace</color>. Furnaces require stone bricks.\n\nLet's harvest stone to make bricks!"
+##help_sidebar_thefurnace_text3,Harvesting stone
+##help_sidebar_thefurnace_text4,"In the <color=#ffc50a>tasks tab</color>, click <color=#ffc50a>harvest stone</color>, and place it <color=#ffc50a>on a nearby patch of boulders</color>.\n\nYour bricktrons should now gather all the resources needed to build your furnace and produce iron ingots. Awesome!"
+##help_sidebar_thefurnace_text5,Building a furnace
+##help_sidebar_thefurnace_text6,"In the <color=#ffc50a>structures tab</color>, click on the <color=#ffc50a>furnace</color>, and place its blueprint on the ground anywhere.\n\n<color=#ffc50a>Press Tab</color> or click on the <color=#00ff15>Green Checkmark</color> to confirm the new blueprint."
+##help_sidebar_thefurnace_text7,<color=#ffc50a>Pro tip: A Furnace requires 4 bricks</color> to be built. Make sure you have filled at least one stockpile with stone.
+##help_sidebar_thefurnace_button,Build a furnace to continue
+##help_sidebar_smeltingiron_title,Crafting
+##help_sidebar_smeltingiron_text1,The Furnace
+##help_sidebar_smeltingiron_text2,Using a furnace
+##help_sidebar_smeltingiron_text3,"Once your furnace is built, <color=#ffc50a>click on it</color>.\n\nThe furnace tab should appear in the taskbar at the bottom of your screen."
+##help_sidebar_smeltingiron_text4,Click on the iron ingot button to add it the the queue. Click on it 5 times to <color=#ffc50a>queue 6 ingots</color>.
+##help_sidebar_smeltingiron_text5,"<color=#ffc50a>Pro tip :</color> If you want to produce an infinite quantity of ingots, <color=#ffc50a>click on the cycle</color> button to <color=#ffc50a>loop the current queue forever</color> until you have no more resources or your stockpiles are full."
+##help_sidebar_smeltingiron_button,Produce 3 ingots to continue
+##help_sidebar_smeltingiron_tooltip_title,Smelt Ingots
+##help_sidebar_smeltingiron_tooltip_text,Use the furnace to queue iron ingots.
+##help_sidebar_workbenches_title,Crafting
+##help_sidebar_workbenches_text1,Workbenches
+##help_sidebar_workbenches_text2,"<color=#ffc50a>The workbench</color> is the most basic crafting station, it can craft halberdier kits, archer kits and lanterns.\n\nLet's craft a halberdier kit!"
+##help_sidebar_workbenches_text3,Creating a workbench
+##help_sidebar_workbenches_text4,"In the <color=#ffc50a>structures tab</color>, click on <color=#ffc50a>workbench</color>, and place it <color=#ffc50a>on the ground anywhere</color>."
+##help_sidebar_workbenches_text5,"<color=#ffc50a>Pro tip :</color> If you want your workbench to face a specific direction, <color=#ffc50a>blueprints can be rotated with Right-Click</color>."
+##help_sidebar_workbenches_text6,"Before we move on and create the halberdier kit, we'll need to create a weapon rack to store it."
+##help_sidebar_workbenches_button,Create a workbench to continue
+##help_sidebar_weaponrack_title,Crafting
+##help_sidebar_weaponrack_text1,Weapon rack
+##help_sidebar_weaponrack_text2,"Before we create our <color=#ffc50a>halberdier kit</color>, we need a <color=#ffc50a>weapon rack</color> to store it."
+##help_sidebar_weaponrack_text3,Creating a weapon rack
+##help_sidebar_weaponrack_text4,"In the <color=#ffc50a>stuctures tab</color>, click on the <color=#ffc50a>weapon rack</color>, and place it <color=#ffc50a>on the ground anywhere</color>.\n\nEach weapon rack can contain up to <color=#ffc50a>4 kits of the same class.</color>"
+##help_sidebar_weaponrack_text5,"<color=#ffc50a>Pro tip:</color> To allow your Bricktrons to access the military kits faster, make sure to leave enough space on <color=#ffc50a>both sides of the weapon rack</color>!"
+##help_sidebar_weaponrack_button,Create a weapon rack to continue
+##help_sidebar_firstsoldier_title,Crafting
+##help_sidebar_firstsoldier_text1,Creating your first soldier
+##help_sidebar_firstsoldier_text2,Creating a halberdier kit
+##help_sidebar_firstsoldier_text3,"Find your <color=#ffc50a>workbench</color> and <color=#ffc50a>click on it.</color>\n
+In the taskbar popup, click on <color=#ffc50a>Halberdier Kit.</color> \n
+A Bricktron will soon start working on the kit. The worker will craft 2 pieces: <color=#ffc50a>a Halberd</color> and <color=#ffc50a>a Helmet.</color> The pieces will each be stored in the weapon rack."
+##help_sidebar_firstsoldier_text4,Pro tip: <color=#ffc50a>You need space in a weapon rack for the kit to be crafted.</color>
+##help_sidebar_firstsoldier_text5,Equipping the kit
+##help_sidebar_firstsoldier_text6,"Once those two pieces are stored in the weapon rack, <color=#ffc50a>select a Bricktron</color> and <color=#ffc50a>right-click on the rack</color>. Congratulations, you have your first soldier!"
+##help_sidebar_firstsoldier_text7,"<color=#ffc50a>Pro tip:</color> Soldiers cannot be assigned to tasks, and cannot carry stuff around."
+##help_sidebar_firstsoldier_button,Create a halberdier to continue
+##help_sidebar_firstsoldier_tooltip_title,Queue a Halberdier
+##help_sidebar_firstsoldier_tooltip_text,Use the Workbench to queue a halberdier kit.
+##help_sidebar_craftinganarcher_title,Crafting
+##help_sidebar_craftinganarcher_text1,Crafting an archer
+##help_sidebar_craftinganarcher_text2,"Let's craft an archer kit! <color=#ffc50a>We will need Rope, Fabric and Planks.</color>"
+##help_sidebar_craftinganarcher_text3,Gather some plants
+##help_sidebar_craftinganarcher_text4,Rope and fabric are made with plant fiber. Place a harvest plants task on a nerby patch of ferns.
+##help_sidebar_craftinganarcher_text5,<color=#ffc50a>Pro tip: make sure you have empty stockpiles for the plants</color>.
+##help_sidebar_craftinganarcher_text6,Create a loom
+##help_sidebar_craftinganarcher_text7,"The plants will need to be transformed into rope and fabric using a Loom. In the structures tabs, <color=#ffc50a>select a Loom,</color> and place it anywhere. \n\nOnce the loom is built, click on it, and <color=#ffc50a>queue 1 fabric roll, and 1 rope coil</color> in the taskbar popup."
+##help_sidebar_craftinganarcher_text8,Create an archer kit
+##help_sidebar_craftinganarcher_text9,"In the workbench, <color=#ffc50a>queue 1 archer kit.</color> If you have the required resources, a worker should get started immediately."
+##help_sidebar_craftinganarcher_button,Equip an archer kit to continue
+##help_sidebar_craftinganarcher_tooltip_title,Crafting an Archer
+##help_sidebar_craftinganarcher_tooltip_text,Use the workbench to queue an archer kit.
+##help_sidebar_spawningnewworkers_title,Building your Castle
+##help_sidebar_spawningnewworkers_text1,Spawning New Workers
+##help_sidebar_spawningnewworkers_text2,"<color=#ffc50a>Your home crystal generates energy passively.</color> This energy can be used to spawn new Bricktrons. \n
+You can see this energy in the form of <color=#3a7bff>blue wisps</color> orbiting your home crystal. Once you have enough blue wisps, they will merge together to create a <color=#ffc50a>bright yellow wisp.</color>\n\nYou can see how much energy you have and how much is needed for the next Bricktron in the taskbar to popup above your home crystal."
+##help_sidebar_spawningnewworkers_text3,Spawning a Bricktron
+##help_sidebar_spawningnewworkers_text4,<color=#ffc50a>Click on the spawn a new Bricktron button</color> in the taskbar popup. A worker should appear instantly near your Home Crystal
+##help_sidebar_spawningnewworkers_text5,<color=#ffc50a>Pro tip:</color> You can <color=#ffc50a>capture shards around the map</color> to help generate more energy.
+##help_sidebar_spawningnewworkers_button,Spawn a new Bricktron to continue
+##help_sidebar_spawningnewworkers_tooltip_title,Spawning Bricktrons
+##help_sidebar_spawningnewworkers_tooltip_text,Open up the pie menu on your crystal or select the Idle task to spawn a new Bricktron.
+##help_sidebar_makingbricks_title,Building your Castle
+##help_sidebar_makingbricks_text1,Making bricks
+##help_sidebar_makingbricks_text2,"Now that your village grew larger, let's create some walls to protect them. \n
+<color=#ffc50a>We will need stone to make bricks</color>, lots of them! Let's make a quarry to gather more stone."
+##help_sidebar_makingbricks_text3,Creating a Quarry
+##help_sidebar_makingbricks_text4,"In the new tasks menu, <color=#ffc50a>select Quarry.</color>\n\nNow <color=#ffc50a>click on an empty patch of ground</color> to place the quarry. A yellow outline of a hole in the ground will appear."
+##help_sidebar_makingbricks_text5,"<color=#ffc50a>Pro tip: Don't place your quarry on an existing structure or too close to your home crystal.</color> The Bricktons will either destroy the structures, or fail to dig the ground."
+##help_sidebar_makingbricks_text6,You can <color=#ffc50a>move or change the dimensions</color> of the quarry by dragging the handles on the sides of the volume.\nYou can <color=#ffc50a>rotate the placement of the strairwell</color> in the taskbar popup.\n<color=#ffc50a>Press Tab</color> or the <color=#00ff15>Green Checkmark</color> to activate the new quarry.
+##help_sidebar_makingbricks_button,Create a Quarry to continue
+##help_sidebar_yourfirstwall_title,Building your Castle
+##help_sidebar_yourfirstwall_text1,Making your first wall
+##help_sidebar_yourfirstwall_text2,Let's place down some blueprint to create a wall!
+##help_sidebar_yourfirstwall_text3,Creating a wall
+##help_sidebar_yourfirstwall_text4,Click on the <color=#ffc50a>Brick menu</color> at the center left of the screen. Choose <color=#ffc50a>Standard brick.</color>Hover on the ground with your mouse will reveal a blue outline of a brick. This is a <color=#ffc50a>blueprint</color> \n<color=#ffc50a>Left-Click</color> once to place the brick. \n<color=#ffc50a>Right-Click</color> to rotate your blueprint. \n<color=#ffc50a>Drag-Click</color> to place an entire row of bricks. \n<color=#ffc50a>Ctrl-Click</color> on a blueprint to remove it.
+##help_sidebar_yourfirstwall_text5,<color=#ffc50a>Pro tip:</color> You are in the blueprint mode while placing bricks. <color=#ffc50a>You cannot select Bricktrons or click on anything while in this mode</color>.
+##help_sidebar_yourfirstwall_text6,<color=#ffc50a>Press Tab</color> or the <color=#00ff15>Green Checkmark</color> to confirm the new blueprints and exit blueprint mode.
+##help_sidebar_yourfirstwall_button,Place some blueprints to continue
+##help_sidebar_yourfirstwall_tooltip_title,Building a Wall
+##help_sidebar_yourfirstwall_tooltip_text,Build a wall around your home crystal to protect it from Corruptrons!
+##help_sidebar_addingdoors_title,Building your Castle
+##help_sidebar_addingdoors_text1,Adding doors
+##help_sidebar_addingdoors_text2,"Walls are much better at defending your Bricktrons if you can't simply walk around them. So <color=#ffc50a>the best walls should have at least 2 bricks high,</color> and should have no holes in them. \n\nOf course, now your Bricktrons won't be able to come in and out of your castle. Let's add a door for them."
+##help_sidebar_addingdoors_text3,Creating a door
+##help_sidebar_addingdoors_text4,"To create a door, <color=#ffc50a>make sure you have Planks and Iron ingots.</color> \n
+Click on the <color=#ffc50a>structure button, choose the Door</color>, and place it where you want the castle's entrance to be."
+##help_sidebar_addingdoors_text5,"<color=#ffc50a>Pro tip:</color> If you must place a door in an existing blueprint wall, <color=#ffc50a>Ctrl+Click</color> on the blueprints to create a hole and then place the door."
+##help_sidebar_addingdoors_text6,"If needed, go back to the bricks tab and complete the wall around the door with bricks & half-bricks.\n\n<color=#ffc50a>Press Tab</color> or the <color=#00ff15>Green Checkmark</color> to confirm the new blueprints."
+##help_sidebar_addingdoors_button,Continue
+##help_sidebar_addinglanterns_title,Building your Castle
+##help_sidebar_addinglanterns_text1,Adding lanterns
+##help_sidebar_addinglanterns_text2,"It should be getting dark soon, if not already! You will want to illuminate your castle so you can keep working."
+##help_sidebar_addinglanterns_text3,Creating lanterns
+##help_sidebar_addinglanterns_text4,"<color=#ffc50a>Lanterns are crafted in the workbench.\n\nThey require 1 brimstones and 1 iron ingot.</color>\n\nOnce crafted they will be stored in a stockpile, so make sure you have an empty stockpile in your base!\n\nOpen the structure tab, select the lantern, and place a lantern blueprint anywhere."
+##help_sidebar_addinglanterns_text5,<color=#ffc50a>Pro tip:</color> Lanterns can be placed directly on walls or on the ground. The choice is yours!
+##help_sidebar_addinglanterns_text6,<color=#ffc50a>Press Tab</color> or the <color=#00ff15>Green Checkmark</color> to confirm the new blueprints.
+##help_sidebar_addinglanterns_button,Continue
+##help_sidebar_endofachapter_title,End
+##help_sidebar_endofachapter_text1,Adventure Awaits
+##help_sidebar_endofachapter_text2,"This is the end of this tutorial! \n\nThere are undoubtedly many more things you'd like to learn; the world of Castle Story is wide, complex and full of mysteries, secrets and intricate details. We do have some external references for you to learn more about the game.\n\nCheck out (and maybe contribute to?) the official Wiki: \n <color=#ffc50a>http://wiki.castlestory.net</color> \n\nOur Youtube channel's ""How To"" playlist also has helpful videos: \n <color=#ffc50a>http://youtube.com/SauropodStudio</color> \n\nYou can also ask fellow players in live chat on our official Discord: \n <color=#ffc50a>http://castlestory.net/Discord</color> \n\nHave fun exploring the great world of Castle Story!"
+,
+,
+##gamemenu_actionwheel_jumpoff,Jump Off
+##gamemenu_actionwheel_jumpoff_text,Make the Bricktron jump off a ledge.
+##gamemenu_actionwheel_cleanup,Cleanup Now
+##gamemenu_actionwheel_cleanup_text,Collect ressources lying on target location now.
+##gamemenu_actionwheel_cleanupsimilar,Cleanup Similar
+##gamemenu_actionwheel_cleanupsimilar_text,Collect only items of hovered type
+##gamemenu_actionwheel_digvoxel,Dig Voxel
+##gamemenu_actionwheel_digvoxel_text,Break an individual voxel and collect it's ressources.
+##gamemenu_actionwheel_moveattack,Move Attack
+##gamemenu_actionwheel_moveattack_text,Move to location and engage enemies.
+##gamemenu_actionwheel_detonate,Go Detonate
+##gamemenu_actionwheel_detonate_text,Send your bricktron to detonate this barrel.
+##gamemenu_actionwheel_holdfire,Hold Fire
+##gamemenu_actionwheel_holdfire_text,Refrain from shooting arrows.
+##gamemenu_actionwheel_holdfireoff,Auto Shoot
+##gamemenu_actionwheel_holdfireoff_text,Shoot at nearby enemies
+##gamemenu_actionwheel_holdposition,Hold Position
+##gamemenu_actionwheel_holdposition_text,Only move on player order
+##gamemenu_actionwheel_holdpositionoff,Auto Mode
+##gamemenu_actionwheel_holdpositionoff_text,Actively seek out work to do
+##gamemenu_actionwheel_defendon,Defensive Mode
+##gamemenu_actionwheel_defendon_text,Hold position and block incoming projectiles
+##gamemenu_actionwheel_defendoff,Aggressive Mode
+,
+,
+##gamemenu_actionwheel_artificer_heal,Healing Stance
+##gamemenu_actionwheel_artificer_heal_text,Activates aura to heal nearby friendly units
+##gamemenu_actionwheel_artificer_fire,Attack Stance
+##gamemenu_actionwheel_artificer_fire_text,Automaticaly cast magic at nearby enemies.
+##gamemenu_actionwheel_defendoff_text,Seek and attack nearby enemies
+##gamemenu_actionwheel_shootat,Shoot At
+##gamemenu_actionwheel_shootat_text,Shoot an arrow towards target location.
+##gamemenu_actionwheel_pickup,Pick Up
+##gamemenu_actionwheel_pickup_text,Move to item and attempt to pick it up.
+##gamemenu_actionwheel_dropload,Drop Load
+##gamemenu_actionwheel_dropload_text,Move and drop carried item at target location.
+##gamemenu_actionwheel_turntowards,Turn Towards
+##gamemenu_actionwheel_turntowards_text,Turn towards target location.
+##gamemenu_actionwheel_moveto,Move To
+##gamemenu_actionwheel_moveto_text,Walk or run to target location.
+##gamemenu_actionwheel_jointask,Join Task
+##gamemenu_actionwheel_jointask_text,Assign selected Bricktrons to this task.
+##gamemenu_actionwheel_takefrom,Take From
+##gamemenu_actionwheel_takefrom_text,Move to target and grab 1 item from it.
+##gamemenu_actionwheel_droploadinto,Drop Load Into
+##gamemenu_actionwheel_droploadinto_text,Move and drop carried item at target location.
+##gamemenu_actionwheel_equipfromrack,Equip Content
+##gamemenu_actionwheel_equipfromrack_text,Equip weapons and gear.
+##gamemenu_actionwheel_unequipintorack,Unequip Into
+##gamemenu_actionwheel_unequipintorack_text,Unequips currently worn equipment.
+##gamemenu_actionwheel_equiptools,Equip Tools
+##gamemenu_actionwheel_equiptools_text,Equip tool to gain abilities
+##gamemenu_actionwheel_unequiptools,Unequip Tools
+##gamemenu_actionwheel_unequiptools_text,Drop all tools to become a builder
+##gamemenu_actionwheel_breakobject,Break Object
+##gamemenu_actionwheel_breakobject_text,"Destroy this object, RAWRRR!"
+##gamemenu_actionwheel_cuttree,Cut Tree
+##gamemenu_actionwheel_cuttree_text,Cut this tree into 3 usable wooden logs.
+##gamemenu_actionwheel_harvestrocks,Harvest Rocks
+##gamemenu_actionwheel_harvestrocks_text,Harvest these rocks to obtain stone fragments
+##gamemenu_actionwheel_harvestcrystals,Harvest Crystals
+##gamemenu_actionwheel_harvestcrystals_text,Harvest these minerals to obtain crystal fragments.
+##gamemenu_actionwheel_harvestplants,Harvest Plants
+##gamemenu_actionwheel_harvestplants_text,Harvest these plants to obtain fibre.
+##gamemenu_actionwheel_armbeartrap,Arm Bear Trap
+##gamemenu_actionwheel_armbeartrap_text,Activates the spring locks on the trap.
+,
+##gamemenu_stockpilewheel_autoconvertstone,Auto Convert Stone
+##gamemenu_stockpilewheel_autoconvertstone_text,Rock will be automatically converted to stone blocks.
+##gamemenu_stockpilewheel_manualconvert,Manual Convert
+##gamemenu_stockpilewheel_acceptnone,Keep Empty
+##gamemenu_stockpilewheel_acceptnone_text,Bricktrons will ignore this stockpile
+##gamemenu_stockpilewheel_acceptall,Accept any
+##gamemenu_stockpilewheel_acceptall_text,Any resource can go in this stockpile
+,
+##gamemenu_stockpilewheel_exclusivity_hub,Accept only
+##gamemenu_stockpilewheel_exclusivity_hub_text,See all raw resources
+,
+##gamemenu_stockpilewheel_stone,Stone
+##gamemenu_stockpilewheel_stone_text,Only accept stone
+##gamemenu_stockpilewheel_brick,Brick
+##gamemenu_stockpilewheel_brick_text,Only accept bricks
+##gamemenu_stockpilewheel_wood,Wood
+##gamemenu_stockpilewheel_wood_text,Only accept wood
+##gamemenu_stockpilewheel_plank,Plank
+##gamemenu_stockpilewheel_plank_text,Only accept planks
+##gamemenu_stockpilewheel_plant,Plant
+##gamemenu_stockpilewheel_plant_text,Only accept plants
+##gamemenu_stockpilewheel_iron,Iron
+##gamemenu_stockpilewheel_iron_text,Only accept iron
+##gamemenu_stockpilewheel_brimstone,Brimstone
+##gamemenu_stockpilewheel_brimstone_text,Only accept brimstone
+##gamemenu_stockpilewheel_bluecrystal,Blue Crystal
+##gamemenu_stockpilewheel_bluecrystal_text,Only accept blue crystal
+##gamemenu_stockpilewheel_iron_ingot,Iron ingot
+##gamemenu_stockpilewheel_iron_ingot_text,Only accept iron ingots
+##gamemenu_stockpilewheel_rope,Rope
+##gamemenu_stockpilewheel_rope_text,Only accept rope
+##gamemenu_stockpilewheel_fabric,Fabric
+##gamemenu_stockpilewheel_fabric_text,Only accept fabric
+##gamemenu_stockpilewheel_glass,Glass
+##gamemenu_stockpilewheel_glass_text,Only accept glass
+##gamemenu_stockpilewheel_cog,Cog
+##gamemenu_stockpilewheel_cog_text,Only accept cogs
+##gamemenu_stockpilewheel_bomb,Bomb
+##gamemenu_stockpilewheel_bomb_text,Only accept bombs
+##gamemenu_stockpilewheel_explosivebarrel,Explosive Barrel
+##gamemenu_stockpilewheel_explosivebarrel_text,Only accept explosive barrel
+,
+##gamemenu_stockpilewheel_sentinel_ward,Sentinel Ward
+##gamemenu_stockpilewheel_sentinel_ward_text,Only accept sentinel wards
+##gamemenu_stockpilewheel_healing_ward,Healing Ward
+##gamemenu_stockpilewheel_healing_ward_text,Only accept healing wards
+##gamemenu_stockpilewheel_lantern_ward,Lantern Ward
+##gamemenu_stockpilewheel_lantern_ward_text,Only accept lantern wards
+##gamemenu_stockpilewheel_capture_ward,Capture Ward
+##gamemenu_stockpilewheel_capture_ward_text,Only accept capture wards
+##gamemenu_stockpilewheel_pylon_ward,Pylon Ward
+##gamemenu_stockpilewheel_pylon_ward_text,Only accept pylon
+##gamemenu_stockpilewheel_trap,Bear Trap
+##gamemenu_stockpilewheel_trap_text,Only accept traps
+,
+,
+##gamemenu_crystalwheel_spawnworker,Spawn Worker
+##gamemenu_crystalwheel_spawnworker_text,Use energy to create a Bricktron worker.
+##gamemenu_crystalwheel_recallworkers,Recall Workers
+##gamemenu_crystalwheel_recallworkers_text,Make workers hurry back to the home crystal.
+##gamemenu_crystalwheel_calltoarms,Call to Arms!
+##gamemenu_crystalwheel_calltoarms_text,Make workers arm themselves in a desperate gambit to fend off attackers
+##gamemenu_crystalwheel_backtowork,Back to Work
+##gamemenu_crystalwheel_backtowork_text,Order Bricktrons to drop their equipment at the nearest weapon racks
+,
+##gamemenu_doorwheel_lock,Lock
+##gamemenu_doorwheel_lock_text,Lock this door to protect your Bricktrons.
+##gamemenu_doorwheel_unlock,Unlock
+##gamemenu_doorwheel_unlock_text,Unlock this door to your Bricktrons through.
+,
+##gamemenu_catapultwheel_cleartarget,Clear Target
+##gamemenu_catapultwheel_cleartarget_text,Unschedule catapult's firing orders.
+##gamemenu_catapultwheel_settarget,Set Target
+##gamemenu_catapultwheel_settarget_text,Click on the terrain to aim this catapult.
+##gamemenu_catapultwheel_fire,Fire
+##gamemenu_catapultwheel_fire_text,Launch the catapult's projectile into the air.
+##gamemenu_catapultwheel_holdfire,Hold Fire
+##gamemenu_catapultwheel_holdfire_text,Do not fire until further notice
+##gamemenu_catapultwheel_fireonce,Fire Once
+##gamemenu_catapultwheel_fireonce_text,Fires a projectile once
+##gamemenu_catapultwheel_fireatwill,Fire at Will
+##gamemenu_catapultwheel_fireatwill_text,Reload and fire every reachable barrels
+##gamemenu_catapultwheel_assignto,Assign To
+##gamemenu_catapultwheel_assignto_text,Assign a Bricktron to operate this catapult.
+##gamemenu_catapultwheel_load,Load with Ammo
+##gamemenu_catapultwheel_load_text,Place ammo to be fired by the catapult.
+##gamemenu_catapultwheel_unload,Unload Ammo
+##gamemenu_catapultwheel_unload_text,Remove ammo from the catapult.
+##gamemenu_catapultwheel_work,Crank and Aim
+##gamemenu_catapultwheel_work_text,Get the catapult ready to fire.
+,
+##gamemenu_generictaskwheel_selectworkers,Select Workers
+##gamemenu_generictaskwheel_selectworkers_text,Select all Bricktrons doing this task.
+##gamemenu_generictaskwheel_removeworkers,Remove Workers
+##gamemenu_generictaskwheel_removeworkers_text,Unassign all Bricktrons from this task.
+##gamemenu_generictaskwheel_deletetask,Delete Task
+##gamemenu_generictaskwheel_deletetask_text,Deletes the currently selected task.
+,
+##gamemenu_toolrackwheel_exclusivityhub,Accept only
+##gamemenu_toolrackwheel_exclusive_none,Keep empty
+##gamemenu_toolrackwheel_exclusive_none_text,Bricktrons will ignore this weapon rack
+##gamemenu_toolrackwheel_exclusive_all,Accept any
+##gamemenu_toolrackwheel_exclusive_all_text,Remove weapon rack restriction
+##gamemenu_toolrackwheel_exclusive_knight,Knight
+##gamemenu_toolrackwheel_exclusive_knight_text,Only store knight kits
+##gamemenu_toolrackwheel_exclusive_archer,Archer
+##gamemenu_toolrackwheel_exclusive_archer_text,Only store archer kits
+##gamemenu_toolrackwheel_exclusive_arbalest,Arbalist
+##gamemenu_toolrackwheel_exclusive_arbalest_text,Only store arbalest kits
+##gamemenu_toolrackwheel_exclusive_geomancer,Artificer
+##gamemenu_toolrackwheel_exclusive_geomancer_text,Only store artificer kits
+##gamemenu_toolrackwheel_exclusive_alchemist,Alchemist
+##gamemenu_toolrackwheel_exclusive_alchemist_text,Only store alchemist kits
+##gamemenu_toolrackwheel_exclusive_halberdier,Halberdier
+##gamemenu_toolrackwheel_exclusive_halberdier_text,Only store halberdier kits
+,
+##gamemenu_selecttaskwheel_repairtask,Repair Task
+##gamemenu_selecttaskwheel_repairtask_text,Repair all bricks in the area.
+##gamemenu_selecttaskwheel_landscapetask,Flatten Task
+##gamemenu_selecttaskwheel_landscapetask_text,Flat out the area.
+##gamemenu_selecttaskwheel_constructiontask,Construction Task
+##gamemenu_selecttaskwheel_constructiontask_text,Build structures and place blocks.
+##gamemenu_selecttaskwheel_quarry,Quarry
+##gamemenu_selecttaskwheel_quarry_text,Gather stones from the ground to stockpile.
+##gamemenu_selecttaskwheel_harvestask,Harvest Task
+##gamemenu_selecttaskwheel_harvestask_text,Harvest ressources and bring them to stockpiles.
+##gamemenu_selecttaskwheel_cleaningtask,Cleaning Task
+##gamemenu_selecttaskwheel_cleaningtask_text,Collect ressources that are lying on the ground.
+##gamemenu_selecttaskwheel_tunnel,Tunnel
+##gamemenu_selecttaskwheel_tunnel_text,Gather stone from walls and cliffs.
+##gamemenu_selecttaskwheel_deselectgroup,Deselect Group
+##gamemenu_selecttaskwheel_deselectgroup_text,Deselect the current group.
+,
+##gamemenu_constructionwheel_brickshub,Bricks Hub
+##gamemenu_constructionwheel_brickshub_text,Build block variants such as stairs and pillars.
+##gamemenu_constructionwheel_brick,Brick
+##gamemenu_constructionwheel_brick_text,The standard 1 by 2 brick used to build walls.
+##gamemenu_constructionwheel_halfbrick,Half Brick
+##gamemenu_constructionwheel_halfbrick_text,A 1 by 1 block used to patch holes in walls.
+##gamemenu_constructionwheel_arch,Arch
+##gamemenu_constructionwheel_arch_text,Bricktrons travel on arches or can cross under them.
+##gamemenu_constructionwheel_stair,Stairs Brick
+##gamemenu_constructionwheel_stair_text,Use stairs bricks to build higher.
+##gamemenu_constructionwheel_stairsingle,Stairs Block
+##gamemenu_constructionwheel_stairsingle_text,Only the stairs half of a stairs brick.
+##gamemenu_constructionwheel_stairspiralleft,Left Spiral Stairs
+##gamemenu_constructionwheel_stairspiralleft_text,A spiral stairs brick.
+##gamemenu_constructionwheel_stairspiralright,Right Spiral Stairs
+##gamemenu_constructionwheel_stairspiralright_text,A spiral stairs brick.
+##gamemenu_constructionwheel_staircornerleft,Left Corner Stairs
+##gamemenu_constructionwheel_staircornerleft_text,A corner stairs brick.
+##gamemenu_constructionwheel_staircornerright,Right Corner Stairs
+##gamemenu_constructionwheel_staircornerright_text,A corner stairs brick.
+##gamemenu_constructionwheel_staircornersingle,Inward Corner Stairs Block
+##gamemenu_constructionwheel_staircornersingle_text,Only the stairs half of a corner stairs brick.
+##gamemenu_constructionwheel_invertstaircornersingle,Outward Corner Stairs Block
+##gamemenu_constructionwheel_invertstaircornersingle_text,A stairs corner brick for outward stairs
+##gamemenu_constructionwheel_curvedright,Curved Right
+##gamemenu_constructionwheel_curvedright_text,"A 1 by 2 brick used to build walls, curved right."
+##gamemenu_constructionwheel_curvedleft,Curved Left
+##gamemenu_constructionwheel_curvedleft_text,"A 1 by 2 brick used to build walls, curved left."
+##gamemenu_constructionwheel_curvedbrick,Curved Brick
+##gamemenu_constructionwheel_curvedbrick_text,"A 1 by 2 brick used to build walls, half-curved."
+##gamemenu_constructionwheel_stonecolumn_basic,Stone Column
+##gamemenu_constructionwheel_stonecolumn_basic_text,The go-to block for solid stone support.
+##gamemenu_constructionwheel_stonecolumn_fluted,Fluted Column
+##gamemenu_constructionwheel_stonecolumn_fluted_text,This fluted column's style is characteristic of the hellenistic period.
+##gamemenu_constructionwheel_stonecolumn_pillar,Stone Pillar
+##gamemenu_constructionwheel_stonecolumn_pillar_text,A roughly sculpted block of stone. Gets the job done.
+##gamemenu_constructionwheel_stonecolumn_round,Round Column
+##gamemenu_constructionwheel_stonecolumn_round_text,"Like the standard stone column, but rounded at the ends."
+##gamemenu_constructionwheel_stonecolumn_square,Square Column
+##gamemenu_constructionwheel_stonecolumn_square_text,Slimmer version of the stone pillar.
+##gamemenu_constructionwheel_roundbrick,Corner Brick
+##gamemenu_constructionwheel_roundbrick_text,A curved 1 by 1 block used to patch walls.
+##gamemenu_constructionwheel_plugx,Plug X
+##gamemenu_constructionwheel_plugx_text,Bricks for plugging wooden beams on.
+##gamemenu_constructionwheel_plugh,Plug H
+##gamemenu_constructionwheel_plugh_text,Bricks for plugging wooden beams on.
+##gamemenu_constructionwheel_plugl,Plug L
+##gamemenu_constructionwheel_plugl_text,Bricks for plugging wooden beams on.
+##gamemenu_constructionwheel_plugt,Plug T
+##gamemenu_constructionwheel_plugt_text,Bricks for plugging wooden beams on.
+##gamemenu_constructionwheel_plug,Plug
+##gamemenu_constructionwheel_plug_text,Bricks for plugging wooden beams on.
+##gamemenu_constructionwheel_merlon,Merlon
+##gamemenu_constructionwheel_merlon_text,A Merlon separates crenels in fortifications.
+##gamemenu_constructionwheel_merloncorner,Merlon Corner
+##gamemenu_constructionwheel_merloncorner_text,A Merlon corner.
+##gamemenu_constructionwheel_merlondouble,Double Merlon
+##gamemenu_constructionwheel_merlondouble_text,A wider Merlon.
+##gamemenu_constructionwheel_merlonconcave,Concave Merlon
+##gamemenu_constructionwheel_merlonconcave_text,A Merlon for a concave corner.
+##gamemenu_constructionwheel_corbel1,Corbel 1
+##gamemenu_constructionwheel_corbel1_text,An ornamental support block.
+##gamemenu_constructionwheel_corbel2,Corbel 2
+##gamemenu_constructionwheel_corbel2_text,An ornamental support block.
+##gamemenu_constructionwheel_parapet1,Parapet 1
+##gamemenu_constructionwheel_parapet1_text,Block with a small roof section attached.
+##gamemenu_constructionwheel_parapet2,Parapet 2
+##gamemenu_constructionwheel_parapet2_text,Block with a small roof section attached.
+##gamemenu_constructionwheel_parapet3,Parapet 3
+##gamemenu_constructionwheel_parapet3_text,Block with a small roof section attached.
+,
+,
+,
+##gamemenu_constructionwheel_craftinghub,Crafting Hub
+##gamemenu_constructionwheel_craftinghub_text,Build crafting stations.
+##gamemenu_constructionwheel_explosivebarrel,Explosive Barrel
+##gamemenu_constructionwheel_explosivebarrel_text,A barrel filled with brimstone that can detonated.
+##gamemenu_constructionwheel_beartrap,Bear Trap
+##gamemenu_constructionwheel_beartrap_text,A trap for bears. And corrupt rocks.
+##gamemenu_constructionwheel_structurehub,Structure Hub
+##gamemenu_constructionwheel_structurehub_text,Build doors and catapults.
+##gamemenu_constructionwheel_choppingblock,Chopping Block
+##gamemenu_constructionwheel_choppingblock_text,Used to transform wood into planks.
+##gamemenu_constructionwheel_workbench,Workbench
+##gamemenu_constructionwheel_workbench_text,Used to craft archer and halberdier kits
+##gamemenu_constructionwheel_furnace,Furnace
+##gamemenu_constructionwheel_furnace_text,Used to smelt raw materials into goods.
+##gamemenu_constructionwheel_toolrack,Weapon Rack
+##gamemenu_constructionwheel_toolrack_text,Store and equip weapons
+##gamemenu_constructionwheel_loom,Loom
+##gamemenu_constructionwheel_loom_text,Used to create rope and fabric.
+##gamemenu_constructionwheel_forge,Forge
+##gamemenu_constructionwheel_forge_text,Used to build knight's equipment.
+##gamemenu_constructionwheel_machineshop,Machine Shop
+##gamemenu_constructionwheel_machineshop_text,Used to make advanced apparatus like arbalist kits.
+##gamemenu_constructionwheel_altar,Altar
+##gamemenu_constructionwheel_altar_text,Used to make artificer's tools.
+##gamemenu_constructionwheel_laboratory,Laboratory
+##gamemenu_constructionwheel_laboratory_text,Temper with explosive substances using this crafting station.
+##gamemenu_constructionwheel_ropebridge,Rope Bridge
+##gamemenu_constructionwheel_ropebridge_text,Build a flexible bridge between two ledges.
+##gamemenu_constructionwheel_catapult,Catapult
+##gamemenu_constructionwheel_catapult_text,Catapults throw explosive barrels at enemies.
+##gamemenu_constructionwheel_door,Door
+##gamemenu_constructionwheel_door_text,Doors can be locked to block pathways.
+##gamemenu_constructionwheel_shakydoor,Rickety Door
+##gamemenu_constructionwheel_shakydoor_text,Roughly built door of questionable structural integrity.
+##gamemenu_constructionwheel_heavydoor,Reinforced Door
+##gamemenu_constructionwheel_heavydoor_text,Heavy duty door reinforced with metal hinges and supports.
+##gamemenu_constructionwheel_window,Window
+##gamemenu_constructionwheel_window_text,Lets the Bricktrons see outside their fortress.
+##gamemenu_constructionwheel_doublewindow,Double Window
+##gamemenu_constructionwheel_doublewindow_text,This bigger window lets even more light in.
+##gamemenu_constructionwheel_stockpile,Stockpile
+##gamemenu_constructionwheel_stockpile_text,Stockpiles hold bricks and logs for construction.
+##gamemenu_constructionwheel_healingward,Healing Ward
+##gamemenu_constructionwheel_healingward_text,"Cast a healing aura for any friendly being close by.
+<color=yellow> 1 iron ingot + 20 brimstone </color>"
+##gamemenu_constructionwheel_sentinelward,Sentinel Ward
+##gamemenu_constructionwheel_sentinelward_text,"Emit protective wisps to harm hostiles.
+<color=yellow> 1 iron ingot + 40 brimstone </color>"
+##gamemenu_constructionwheel_lanternward,Lantern Ward
+##gamemenu_constructionwheel_lanternward_text,Reveals the surrounding area and emits light. <color=yellow> 1 iron ingot + 5 brimstone </color>
+##gamemenu_constructionwheel_pylonward,Pylon Ward
+##gamemenu_constructionwheel_pylonward_text,Transmit energy from the home crystal to nearby wards. <color=yellow> 1 iron ingot + 10 brimstone </color>
+##gamemenu_constructionwheel_captureward,Capture Ward
+##gamemenu_constructionwheel_captureward_text,"Capture nearby crystals and shards in range
+<color=yellow> 1 iron ingot + 40 brimstone </color>"
+##gamemenu_constructionwheel_knightstatue,Knight Statue
+##gamemenu_constructionwheel_knightstatue_text,A finely sculpted effigy of bricktron tenacity and courage.
+##gamemenu_constructionwheel_paintingsmall,Small Painting
+##gamemenu_constructionwheel_paintingsmall_text,This castle is a testament to bricktron industriousness.
+##gamemenu_constructionwheel_paintingbig,Big Painting
+##gamemenu_constructionwheel_paintingbig_text,Landscape painted by famous painter Bricktron Ross.
+##gamemenu_constructionwheel_paintingwide,Wide Painting
+##gamemenu_constructionwheel_paintingwide_text,These massive statues have puzzled bricktron archeologists for decades.
+##gamemenu_constructionwheel_paintingtall,Tall Painting
+##gamemenu_constructionwheel_paintingtall_text,A Bricktron in its natural habitat.
+,
+##gamemenu_constructionwheel_woodhub,Wood Hub
+##gamemenu_constructionwheel_woodhub_text,Build logs and planks.
+##gamemenu_constructionwheel_scaffolding,Scaffolding
+##gamemenu_constructionwheel_log,Log
+##gamemenu_constructionwheel_log_text,Wooden colums form scaffolding for structures.
+##gamemenu_constructionwheel_brace,Brace
+##gamemenu_constructionwheel_brace_text,A brace extends beam effectiveness by 4 units.
+##gamemenu_constructionwheel_woodcolumn,Wood Column
+##gamemenu_constructionwheel_woodcolumn_text,Wooden columns form scaffolding for structures.
+##gamemenu_constructionwheel_beam,Beam
+##gamemenu_constructionwheel_beam_text,Beams allow support for longer plank platforms.
+##gamemenu_constructionwheel_plank,Plank
+##gamemenu_constructionwheel_plank_text,"Planks and colums make quick, solid platforms."
+##gamemenu_constructionwheel_ramp,Ramp
+##gamemenu_constructionwheel_ramp_text,Allows for height changes in wooden platforms.
+##gamemenu_constructionwheel_rampjunction,Ramp Junction
+##gamemenu_constructionwheel_rampjunction_text,Allows a transition between planks and ramps.
+##gamemenu_constructionwheel_applychanges,Apply Changes
+##gamemenu_constructionwheel_applychanges_text,Apply pending changes to current task
+,
+,
+##gamemenu_craftingwheel_nothing,Stop all Work
+##gamemenu_craftingwheel_nothing_text,Stop current and queued work at the station
+##gamemenu_craftingwheel_produce_planks,Produce planks
+##gamemenu_craftingwheel_produce_planks_text,Continually transform wood logs into woodplanks
+##gamemenu_craftingwheel_produce_iron,Produce Iron ingots
+##gamemenu_craftingwheel_produce_iron_text,Continually transform raw iron into iron ingots
+##gamemenu_craftingwheel_produce_glass,Produce Glass ingots
+##gamemenu_craftingwheel_produce_glass_text,Continually transform stone into glass ingots
+,
+##gamemenu_craftingwheel_queue_sword,Queue Sword
+##gamemenu_craftingwheel_queue_sword_text,Orders a Sword
+##gamemenu_craftingwheel_queue_helmet,Queue Helmet
+##gamemenu_craftingwheel_queue_helmet_text,Orders a Helmet
+##gamemenu_craftingwheel_queue_shield,Queue Shield
+##gamemenu_craftingwheel_queue_shield_text,Orders a Shield
+##gamemenu_craftingwheel_queue_bow,Queue Bow
+##gamemenu_craftingwheel_queue_bow_text,Orders a Bow
+##gamemenu_craftingwheel_queue_quiver,Queue Quiver
+##gamemenu_craftingwheel_queue_quiver_text,Orders a Quiver
+##gamemenu_craftingwheel_queue_cap,Queue Cap
+##gamemenu_craftingwheel_queue_cap_text,Orders a Cap
+##gamemenu_craftingwheel_queue_halberdierkit,Halberdier Kit
+##gamemenu_craftingwheel_queue_halberdierkit_text,"Fast melee unit with good damage
+<color=yellow> 1 iron ingots + 1 plank </color>"
+##gamemenu_craftingwheel_queue_knightkit,Knight Kit
+##gamemenu_craftingwheel_queue_knightkit_text,"Sturdy melee unit with good defensive capabilities
+<color=yellow> 5 iron ingots </color>"
+##gamemenu_craftingwheel_queue_archerkit,Archer Kit
+##gamemenu_craftingwheel_queue_archerkit_text,"A fast firing but fragile long range unit
+<color=yellow> 1 fabric + 2 planks + 1 rope </color>"
+##gamemenu_craftingwheel_queue_crossbowtronkit,Arbalist Kit
+##gamemenu_craftingwheel_queue_crossbowtronkit_text,"A short range, sturdy damage dealer<color=yellow> 2 iron + 2 cogs + 1 rope + 1 fabric</color>"
+##gamemenu_craftingwheel_queue_geomancerkit,Artificer Kit
+##gamemenu_craftingwheel_queue_geomancerkit_text,Healer <color=yellow> 1 iron + 80 brimstone + 2 fabric + 1 glass + 1 plank </color>
+##gamemenu_craftingwheel_queue_alchemistkit,Alchemist Kit
+##gamemenu_craftingwheel_queue_alchemistkit_text,Hurls bombs at the enemy. <color=yellow> 3 fabric + 30 brimstone  + 3 glass ingots</color>
+,
+##gamemenu_craftingwheel_produce_rope,Produce Rope
+##gamemenu_craftingwheel_produce_rope_text,"Continually transform plants into rope
+<color=yellow> 10 plants </color>"
+##gamemenu_craftingwheel_produce_fabric,Produce Fabric
+##gamemenu_craftingwheel_produce_fabric_text,"Continually transform plants into fabric
+<color=yellow> 10 plants </color>"
+##gamemenu_craftingwheel_produce_cog,Produce Cogs
+##gamemenu_craftingwheel_produce_cog_text,"Continually transform iron ingots into cogs
+<color=yellow> 1 iron ingot </color>"
+##gamemenu_craftingwheel_produce_bomb,Produce Bombs
+##gamemenu_craftingwheel_produce_bomb_text,"Continually craft bombs
+<color=yellow> 15 brimstone </color>"
+##gamemenu_craftingwheel_queue_beartrap,Bear Trap
+##gamemenu_craftingwheel_queue_beartrap_text,"A trap for bears. And corrupt rocks.
+<color=yellow> 1 iron ingot</color>"
+##gamemenu_craftingwheel_queue_explosivebarrel,Explosive Barrel
+##gamemenu_craftingwheel_queue_explosivebarrel_text,"Can be loaded into catapult or used as trap.
+<color=yellow> 1 plank + 10 brimstone</color>
+"
+,
+##gamemenu_craftingwheel_clearqueue,Clear Queue
+##gamemenu_craftingwheel_clearqueue_text,Remove all items in production
+##gamemenu_craftingwheel_assignto,Assign
+##gamemenu_craftingwheel_assignto_text,Operate this station
+##gamemenu_craftingwheel_work,Work
+##gamemenu_craftingwheel_work_text,Work on crafting production
+##gamemenu_craftingwheel_production,Grab Production
+##gamemenu_craftingwheel_production_text,Take crafting production in bag
+##gamemenu_craftingwheel_add,Add Ressources
+##gamemenu_craftingwheel_add_text,Add bag content to crafting station
+##gamemenu_craftingwheel_take,Grab Ressources
+##gamemenu_craftingwheel_take_text,Take crafting resources in bag
+,
+##cursortip_beartrap,Bear Trap
+##cursortip_explosivebarrel,Explosive Barrel
+##cursortip_catapult,Catapult
+##cursortip_door,Door
+##cursortip_stockpile,Stockpile
+##cursortip_weaponstand,Weapon Rack
+##cursortip_captureward,Capture Ward
+##cursortip_healingward,Healing Ward
+##cursortip_lanternward,Lantern Ward
+##cursortip_sentinelward,Sentinel Ward
+##cursortip_pylonward,Pylon Ward
+##cursortip_altar,Altar
+##cursortip_loom,Loom
+##cursortip_furnace,Furnace
+##cursortip_forge,Forge
+##cursortip_lab,Laboratory
+##cursortip_machineshop,Machine Shop
+##cursortip_choppingblock,Chopping Block
+##cursortip_workbench,Workbench
+##cursortip_ropebridge,Rope Bridge
+,
+TASKBAR,
+##gamemenu_taskbar_newtask,New Task
+##gamemenu_taskbar_tasknumber,Tasks:
+##gamemenu_taskbar_idle,Idle
+##gamemenu_taskbar_construction,Construction
+##gamemenu_taskbar_maintenancetasks,Maintenance Tasks
+##gamemenu_taskbar_miningtasks,Mining Tasks
+##gamemenu_taskbar_harvesttasks,Harvest Tasks
+##gamemenu_taskbar_constructiontasks,Construction Tasks
+##gamemenu_taskbar_harvest,Harvest
+##gamemenu_taskbar_cleaning,Cleaning
+##gamemenu_taskbar_tunnel,Tunnel
+##gamemenu_taskbar_repair,Repair
+##gamemenu_taskbar_landscape,Flatten
+##gamemenu_taskbar_quarry,Quarry
+##gamemenu_taskbar_blueprints,Blueprints
+##gamemenu_taskbar_storage,Storage
+##gamemenu_taskbar_production,Production
+##gamemenu_taskbar_crafting,Crafting
+##gamemenu_taskbar_structures,Structures
+##gamemenu_taskbar_wards,Wards
+##gamemenu_taskbar_decorations,Decorations
+##gamemenu_taskbar_woodblocks,Wood Blocks
+##gamemenu_taskbar_blocks,Blocks
+##gamemenu_taskbar_stoneblocks,Stone Blocks
+##gamemenu_taskbar_roundbricks,Round Bricks
+##gamemenu_taskbar_crenelations,Crenelations
+##gamemenu_taskbar_plugs,Plugs
+##gamemenu_taskbar_blueprints_operation,Operation
+##gamemenu_taskbar_blueprints_move,Move
+##gamemenu_taskbar_blueprints_copy,Copy
+##gamemenu_taskbar_blueprints_split,Split
+##gamemenu_taskbar_blueprints_delete,Delete
+##gamemenu_taskbar_blueprints_selection,Selection
+##gamemenu_taskbar_blueprints_expand,Expand
+##gamemenu_taskbar_blueprints_clear,Clear
+##gamemenu_taskbar_blueprintactions,Save current selection
+##gamemenu_taskbar_blueprintssaved,Blueprint library
+##gamemenu_taskbar_loadblueprint,Load blueprint
+##gamemenu_taskbar_publishblueprint,Publish to Workshop
+##gamemenu_taskbar_blueprintpublished,Published blueprint to Workshop
+##gamemenu_taskbar_blueprintdelete,Delete blueprint
+,
+##gamemenu_taskbar_goals,Goals
+##gamemenu_taskbar_stairs,Stairs
+##gamemenu_taskbar_boulders,Boulders
+##gamemenu_taskbar_iron,Iron
+##gamemenu_taskbar_brimstone,Brimstone
+##gamemenu_taskbar_trees,Trees
+##gamemenu_taskbar_plants,Plants
+##gamemenu_taskbar_raiseall,Raise All
+##gamemenu_taskbar_digall,Dig All
+##gamemenu_taskbar_stairs,Stairs
+##gamemenu_taskbar_tunnel_straight,Straight
+##gamemenu_taskbar_tunnel_up,Up
+##gamemenu_taskbar_tunnel_down,Down
+##gamemenu_taskbar_build,Build
+##gamemenu_taskbar_structures,Structures
+##gamemenu_taskbar_status_ok,Commit
+##gamemenu_taskbar_status_apply,Apply
+##gamemenu_taskbar_status_cancel,Cancel
+##gamemenu_taskbar_status_delete,Delete
+##gamemenu_taskbar_deletetask,Delete Task
+##gamemenu_taskbar_required,Required
+##gamemenu_taskbar_construction_topbar,Build Task
+##gamemenu_taskbar_construction,Build
+##gamemenu_taskbar_construction_text,"Click here to place new bricks, structures and stockpiles."
+##gamemenu_taskbar_constructioncrew,ConstructionCrew
+##gamemenu_taskbar_constructioncrew_text,"Click to select workers.
+Shift-Click to raise project priority.
+Ctrl-click to lower project priority."
+##gamemenu_taskbar_quarry_topbar,Quarry Task
+##gamemenu_taskbar_quarry,Quarry
+##gamemenu_taskbar_quarry_text,Click here to change the size of this quarry.
+##gamemenu_taskbar_quarrycrew,QuarryCrew
+##gamemenu_taskbar_quarrycrew_text,"Click to select workers.
+Shift-Click to raise project priority.
+Ctrl-click to lower project priority."
+##gamemenu_taskbar_cleanup_topbar,Cleanup Task
+##gamemenu_taskbar_cleanup,Cleanup
+##gamemenu_taskbar_cleanup_text,Click here to change the radius of this cleanup task.
+##gamemenu_taskbar_cleanupcrew,CleanupCrew
+##gamemenu_taskbar_cleanupcrew_text,"Click to select workers.
+Shift-Click to raise project priority.
+Ctrl-click to lower project priority."
+##gamemenu_taskbar_harvest_topbar,Harvest Task
+##gamemenu_taskbar_harvest,Harvest
+##gamemenu_taskbar_harvest_text,Click here to change the radius and choose which resources you want to harvest.
+##gamemenu_taskbar_harvestcrew,HarvestCrew
+##gamemenu_taskbar_harvestcrew_text,"Click to select workers.
+Shift-Click to raise project priority.
+Ctrl-click to lower project priority."
+##gamemenu_taskbar_repair_topbar,Repair Task
+##gamemenu_taskbar_repair,Repair
+##gamemenu_taskbar_repair_text,Click here to select which bricks you want to be repaired.
+##gamemenu_taskbar_repaircrew,RepairCrew
+##gamemenu_taskbar_repaircrew_text,"Click to select workers.
+Shift-Click to add new worker slots.
+Ctrl-click to remove slots."
+##gamemenu_taskbar_landscape_topbar,Flatten Task
+##gamemenu_taskbar_landscape,Flatten
+##gamemenu_taskbar_landscape_text,Click here to change where you want to flatten the ground.
+##gamemenu_taskbar_landscapecrew,FlattenCrew
+##gamemenu_taskbar_landscapecrew_text,"Click to select workers.
+Shift-Click to raise project priority.
+Ctrl-click to lower project priority."
+##gamemenu_taskbar_tunnel_topbar,Tunnel Task
+##gamemenu_taskbar_tunnel,Tunnel
+##gamemenu_taskbar_tunnel_text,Click here to create new tunnels you want to be excavated.
+##gamemenu_taskbar_tunnelcrew,TunnelCrew
+##gamemenu_taskbar_tunnelcrew_text,"Click to select workers.
+Shift-Click to raise project priority.
+Ctrl-click to lower project priority."
+##gamemenu_taskbar_idle,Workers
+##gamemenu_taskbar_idle_text,"Your workers are listed here. 
+Passive workers are on the left.
+Active workers are on the right."
+##gamemenu_taskbar_idlecrew,Passive Workers
+##gamemenu_taskbar_idlecrew_text,"Passive workers are listed here.
+If you give a worker a manual order, he becomes passive. Passive workers will get back to work after a few seconds."
+##gamemenu_taskbar_active,Active Workers
+##gamemenu_taskbar_active_text,"Active workers are listed here.
+They choose tasks to work on automatically."
+##gamemenu_taskbar_newtask,New Task
+##gamemenu_taskbar_newtask_text,"Click here to create new tasks.
+For bricks and stockpiles, use the build task. 
+To gather trees, metal and brimstone, use the harvest task."
+##gamemenu_taskbar_meleeunits,Melee
+##gamemenu_taskbar_meleeunits_text,"Your melee units are listed here.
+"
+##gamemenu_taskbar_rangedunits,Ranged
+##gamemenu_taskbar_rangedunits_text,Your ranged units are listed here.
+##gamemenu_taskbar_select,Select
+##gamemenu_taskbar_priority,Priority
+##gamemenu_taskbar_locked,Locked
+##gamemenu_taskbar_low,Low
+##gamemenu_taskbar_medium,Medium
+##gamemenu_taskbar_high,High
+##gamemenu_taskbar_edit,Edit
+##gamemenu_taskbar_close,Close
+##task_actions_lowerpriority,Lower priority
+##task_actions_lowerpriority_info,<color=#ffc50a>Lower priority</color>\n\nMakes the task less urgent
+##task_actions_raisepriority,Raise priority
+##task_actions_raisepriority_info,<color=#ffc50a>Raise priority</color>\n\nMakes the task more urgent
+,
+##gamemenu_topmenu_settings,Settings
+##gamemenu_topmenu_toggledebug,Toggle Debug Display
+##gamemenu_topmenu_fogofwar,Fog Of War
+##gamemenu_topmenu_mainmenu,Main Menu
+##gamemenu_topmenu_xray,Xray
+##gamemenu_topmenu_mute,Mute
+##gamemenu_topmenu_screenshot,ScreenShot
+##gamemenu_topmenu_quicksave,QuickSave
+##gamemenu_topmenu_pause,Pause
+##gamemenu_topmenu_Alerts,Alerts
+##gamemenu_topmenu_editorcamera,Editor Camera
+##gamemenu_topmenu_speedx2,Speed x2
+##gamemenu_topmenu_audiodebug,Audio Debug
+##gamemenu_topmenu_gc,Memory Collection
+,
+DEBUG,
+##gamemenu_debug_modedisplay,Debug Mode
+##gamemenu_debug_title,Debug
+##gamemenu_debug_disclaimer,Certain tools in this Debug panel may cause a drop in performance or break the game. Use it at your own risk and consider backing up your save file first.
+##gamemenu_debug_instantbuild,Instant Build Mode
+##gamemenu_debug_timex2,Time x2
+##gamemenu_debug_timeofday,Time of Day
+##gamemenu_debug_pausedaytime,Pause Daytime
+##gamemenu_debug_currenttime,Current Time
+##gamemenu_debug_spawnbricktrons,Spawn Bricktrons
+##gamemenu_debug_worker,Worker
+##gamemenu_debug_knight,Knight
+##gamemenu_debug_archer,Archer
+##gamemenu_debug_halberdier,Halberdier
+##gamemenu_debug_arbalist,Arbalist
+##gamemenu_debug_artificer,Artificer
+##gamemenu_debug_alchemist,Alchemist
+##gamemenu_debug_spawncorruptrons,Spawn Corruptrons
+##gamemenu_debug_minitron,Minitron
+##gamemenu_debug_corruptron,Corruptron
+##gamemenu_debug_biftron,Biftron
+##gamemenu_debug_magitron,Warlock
+,
+GENERIC SYSTEM STRINGS,
+##faction_blue,Blue
+##faction_red,Red
+##faction_green,Green
+##faction_orange,Orange
+##faction_corruptrons,Corruptrons
+##faction_spectators,Spectators
+##faction_neutral,Neutral
+,
+##team_a,Team A
+##team_b,Team B
+##team_c,Team C
+##team_d,Team D
+,
+##saved_map,Map Saved
+##saved_game,Game Saved
+,
+GAMEMODES,
+##mode,Mode
+##mode_sandbox,Sandbox
+##mode_sandbox_info,The game mode for creatives and pacifists. No enemies means you can build anything you want at your own pace.
+##mode_sandbox_intro,"This is <b>Sandbox mode</b>.
+
+In this mode, your creativity's the limit!
+There is no time limit and no Corruptrons, so you can build without worry.
+Use this time to explore the game and practice the art of castle building. 
+
+Have fun!"
+##mode_sandbox_intro_start,I'm ready!
+##mode_sandbox_intro_start_info,Start the game
+##mode_conquest,Conquest
+##mode_conquest_info,Hordes of marauding corruptrons roam the land. Can you muster enough forces to kick them off your island?
+##mode_conquest_intro,"The corruptrons have made landfall on this island. In no time,
+they will have spread their corrupting influence over all of the island's magical crystals.
+Only you can stop their advance.
+
+Are you up to the challenge?"
+##mode_conquest_intro_start,I'm ready!
+##mode_conquest_intro_start_info,Start the game
+##mode_conquest_victory,Victory!
+##mode_conquest_victory_info,You have crushed the opposing factions. Your masterful building and strategy have given your Bricktrons the upper hand and they now control the Islands. You will forever be remembered as a glorious leader.
+##mode_conquest_victory_quit,Quit
+##mode_conquest_victory_quit_info,Return to main menu
+##mode_conquest_defeat,Defeat!
+##mode_conquest_defeat_info,"Your enemies have conquered your home Crystal. 
+Most of your Bricktrons have been defeated and the surviving ones have been exiled. They now seek new horizons and a new island to call home."
+##mode_conquest_defeat_quit,Quit
+##mode_conquest_defeat_quit_info,Return to main menu
+##mode_conquest_defeat_continue,Spectate
+##mode_conquest_defeat_continue_info,Continue as spectator
+##mode_invasion,Invasion
+##mode_invasion_info,Corruptrons attack your castle in waves of increasing difficulty. How long will you last? Skill and determination are your best weapons.
+##mode_invasion_intro,"Your time is limited.
+
+Hordes of marauding Corruptrons are at your doorstep.
+Each wave of Corruptrons will get increasingly diffcult.
+Your only option is to erect fortifications around your home crystal and brace yourself.
+
+Good luck!"
+##mode_invasion_intro_start,I'm ready!
+##mode_invasion_intro_start_info,Start the game
+##mode_invasion_victory,Victory!
+##mode_invasion_victory_info,"You have demonstrated that you could withstand any reasonably sized corruptron assault. You have officially won the <b>Invasion</b> game mode. You can keep playing if you want, but the increasing number of ennemies will eventually impact the game performance and unravel the very fabric of the bricktron world."
+##mode_invasion_victory_quit,Quit
+##mode_invasion_victory_quit_info,Return to main menu
+##mode_invasion_victory_continue,Continue
+##mode_invasion_victory_continue_info,Keep playing
+##mode_invasion_defeat,Defeat!
+##mode_invasion_defeat_info,"Henceforth, The once glorious lands upon which the Bricktrons thrived becometh a territory governed by the ruthless Corruptrons."
+##mode_invasion_defeat_quit,Quit
+##mode_invasion_defeat_quit_info,Return to main menu
+##mode_invasion_nextwave,Next wave starts in:
+##mode_invasion_skip,Skip
+##mode_invasion_hidden,(Hidden)
+##mode_invasion_wave,Wave
+##mode_invasion_killcount,Kills: 
+##mode_invasion_wavesurvived_one,You have survived #waves_survived wave.
+##mode_invasion_wavesurvived_many,You have survived #waves_survived waves.
+##mode_worldeditor,World Editor
+##mode_worldeditor_info,Create a new map from scratch
+##mode_creditisland,Credit Island
+##mode_creditisland_intro,"Legend has it that these floating islands contain the lost souls of 30 000 backers. These souls, trapped within layers of solid rock, are awaiting the day where they will be set free!"
+##mode_creditisland_intro_start,I'm ready!
+##mode_creditisland_intro_start_info,Start the game
+##mode_unsupported,Unsupported
+##mode_noneselected,None selected
+##mode_nonesupported,None supported
+##mode_gtg,Grab the Gems
+##mode_gtg_info,Grab the Gems is a multiplayer game mode in which you must bring back gems to your home crystal. The team that brings back the most gems to their crystal wins!
+##mode_gtg_intro,"Grab the Gems is a gamemode where, in order to win, you must be the first faction to collect #gems_to_win gems and drop them at your home crystal.
+Pick up gems by selecting a worker and right-clicking a gem that has appeared in its patch. Drop the gem in your crystal by right-clicking it with the worker selected.
+Consider defending patches of gems and hunting down enemy workers who are hauling gems back to their base.
+Have fun and good luck!"
+##mode_gtg_intro_start,I'm ready!
+##mode_gtg_intro_start_info,Get grabbin'
+##mode_gtg_gemscollected_one,You have managed to collect #gem_count gem!
+##mode_gtg_gemscollected_many,You have managed to collect #gem_count gems!
+##mode_gtg_timebeforenextgem,Time before next gem:
+##mode_gtg_victory,Victory!
+##mode_gtg_victory_info,You are victorious! You were the first faction to collect all the needed gems. Fabulous! Outrageous!
+##mode_gtg_victory_quit,Quit game
+##mode_gtg_victory_quit_info,Return to main menu
+##mode_gtg_defeat,Defeat!
+##mode_gtg_defeat_info,"You have been defeated.\n
+Another faction has managed to collect the needed gems before you.\n
+May your powerless, gemless Bricktrons live in shame until you once again seize the opportunity to prove yourself!"
+##mode_gtg_defeat_quit,Quit game
+##mode_gtg_defeat_quit_info,Return to main menu
+,
+PRESETS,
+##mode_preset,Preset
+##mode_preset_noneselected,None selected
+##mode_sandbox_preset_lightsout,Lights Out
+##mode_sandbox_default,Default
+##mode_conquest_preset_easy,Easy
+##mode_conquest_preset_normal,Normal
+##mode_conquest_preset_hard,Hard
+##mode_conquest_preset_normallightsout,Normal Lights Out
+##mode_conquest_preset_versus,Versus
+##mode_conquest_preset_coopeasy,Coop Easy
+##mode_conquest_preset_coopnormal,Coop Normal
+##mode_conquest_preset_coophard,Coop Hard
+##mode_conquest_preset_coopnormallightsout,Coop Normal Lights Out
+##mode_invasion_preset_easy,Easy
+##mode_invasion_preset_normal,Normal
+##mode_invasion_preset_normallightsout,Normal Lights Out
+##mode_invasion_preset_hard,Hard
+##mode_invasion_preset_very_hard,Very Hard
+##mode_invasion_preset_coop_easy,Coop Easy
+##mode_invasion_preset_coop_normal,Coop Normal
+##mode_invasion_preset_coop_normallightsout,Coop Normal Lights Out
+##mode_invasion_preset_coop_hard,Coop Hard
+##mode_worldeditor_preset_default,Default
+##mode_creditisland_preset_default,Credit Island
+##mode_gtg_preset_default,Default
+##mode_gtg_preset_default_info,Default preset.
+##mode_gtg_preset_extended,Extended
+##mode_gtg_preset_extended_info,Gems will take more time to spawn
+,
+##mode_tutorial,Tutorial
+##mode_tutorial_info,An introduction to Castle Story
+##mode_tutorial_preset_default,Default
+##mode_tutorial_sendcorruptron,Send Corruptron Wave
+,
+##mapmenu_size,Size
+##mapmenu_size_small,Small
+##mapmenu_size_medium,Medium
+##mapmenu_size_large,Large
+,
+##mapmenu_maxplayers,Max Players
+,
+##gamemenu_corrupted,Corrupted
+##gamemenu_player,Player
+,
+##mapmenu_delete,Delete
+##mapmenu_delete_info,Delete the save file from your disk.
+##mapmenu_delete_confirmation,Delete Confirmation
+##mapmenu_delete_confirmation_message,You are about to delete this file forever.\nThis action cannot be undone.\nContinue?
+##mapmenu_delete_confirmation_confirm,Yes! Delete.
+##mapmenu_delete_confirmation_cancel,Cancel
+,
+##mainmenu_none,None
+,
+DATETIME,
+##datetime_dateformat,"#weekday, #month #monthday, #year"
+,
+##datetime_month_january,January
+##datetime_month_february,February
+##datetime_month_march,March
+##datetime_month_april,April
+##datetime_month_may,May
+##datetime_month_june,June
+##datetime_month_july,July
+##datetime_month_august,August
+##datetime_month_september,September
+##datetime_month_october,October
+##datetime_month_november,November
+##datetime_month_december,December
+,
+##datetime_weekday_sunday,Sunday
+##datetime_weekday_monday,Monday
+##datetime_weekday_tuesday,Tuesday
+##datetime_weekday_wednesday,Wednesday
+##datetime_weekday_thursday,Thursday
+##datetime_weekday_friday,Friday
+##datetime_weekday_saturday,Saturday
+,
+THOUGHTS,
+##thought_unknown,Hmm
+##thought_cant_repair,I can't repair this
+##thought_cant_transformlog,I cannot transform this log
+##thought_works_accounted,The others are doing fine
+##thought_reach_destination,Can't reach my destination
+##thought_cant_choptrees,Can't cut trees
+##thought_nothingtodo,Nothing to do
+##thought_thinking,Thinking...
+##thought_cant_break,I can't break a block right now
+##thought_looking_for_storage,Looking for storage
+##thought_could_not_find_storage,Could not find storage.
+##thought_inventory_empty,My inventory is empty
+##thought_storage_full,My destination storage became full
+##thought_storage_noexist,My destination storage no longer exists
+##thought_cant_find,Can't find what I need
+##thought_cant_collect_plants,I can't collect plants right now.
+##thought_inventory_full,I can't carry any more
+##thought_already_enough_workers_doing_goal,Already enough workers on the task
+##thought_job_notforme,This job is not right for me.
+##thought_enough_workers_in_project,No space left for me to join
+##thought_carrying_toomuch_todig,Carrying too much to dig
+##thought_not_grounded,Woaaahhhhh!
+##thought_target_is_too_far_away,Can't aim at target
+##thought_object_has_changed_container,Someone took my resource!
+##thought_object_was_converted,My resources got converted
+##thought_object_in_someone_else_bag,What I need is in someone else's bag
+##thought_will_not_betray_my_friends,I will not betray my friends
+##thought_target_is_dead,My target is already dead
+##thought_voxel_was_built_over,My voxel was built over
+##thought_area_is_too_dangerous,This area is too dangerous
+##thought_looking_for_path_to_tree,Trying to reach trees
+,
+##loading_tip_right_click_pie_menu,Hold right-click on various objects such as the furnace to get a contextual menu. The menu will offer different actions depending on what is selected or hovered.
+##loading_tip_move_attack,Shift + Right-Click with military units selected to order them to move-attack.
+##loading_tip_discord,Join the official Discord to find fellow Castle Story players! www.castlestory.net/Discord
+##loading_tip_alchemist_ammo,Replenish an Alchemist’s ammo by selecting the unit and right-clicking a stockpile with bombs.
+##loading_tip_bear_traps,Build bear traps on chokepoints to slow enemies down and allow ranged units to take them out before they reach your castle.
+##loading_tip_quarry_stairs,"You can only change the position of a quarry’s stairs before confirming the task, by clicking the button in the options panel at the bottom of your screen."
+##loading_tip_tunnels_direction,"You can make tunnels go upwards or downwards with the buttons in the options panel at the bottom of your screen, when in the Tunnel task."
+##loading_tip_xray,"Turn on X-Ray mode in the settings panel at the top right of your screen, then shift + scroll to see through buildings and mountains."
+##loading_tip_repair_task,Place a repair task on existing stone and wooden blocks to automatically have them repaired if they take damage.
+##loading_tip_missing_storage,"If your Bricktrons won’t work, make sure you have adequate storage ( empty stockpiles or weapon racks )."
+##loading_tip_toggle_artificer,Press H to toggle your Artificer between healing and attacking modes.
+##loading_tip_toggle_knight,"Press H to toggle your Knights between regular and defensive mode, where they can block projectiles."
+##loading_tip_funny_first_name,Bricktrons prefer to be called by their first name.
+##loading_tip_funny_reboot,"Once two bricktrons are friends, they are friends forever, or until you reboot your computer."
+##loading_tip_funny_courtship,Bricktrons have subtle yet refined courtship rituals.
+##loading_tip_funny_high_tower,Bricktrons lost the ability to talk intelligibly after they built a tower a little too high.
+##loading_tip_funny_mirror_image,Bricktrons don't recognize their image in a mirror.
+##loading_tip_funny_bycocket,"The type of hats worn by bricktron archers is historically known as a bycocket. No kidding, look it up."
+##loading_tip_archers_range,Archers and arbalists gain a range buff when higher. Place them on top of your walls.
+##loading_tip_piemenu_stockpiles,Use the pie menu on stockpiles to restrict which resources go on them.
+##loading_tip_landscape,You can use the flatten task to flatten uneven areas.
+##loading_tip_braces,You can build longer wood beams if you use braces beneath the beams.
+##loading_tip_funny_bougre,b0uGr3 waZ H3eR
+,
+RESOURCES,
+##resource_empty,Empty
+##resource_empty_info,Empty
+##resource_stoneblock,Brick
+##resource_stoneblock_info,Main building block for castles.
+##resource_woodblock,Log
+##resource_woodblock_info,Can be turned into planks at a chopping block.
+##resource_plankblock,Plank
+##resource_plankblock_info,Main resource used to build wooden structures.
+##resource_stones,Stones
+##resource_stones_info,Raw stone can be combined to form stone bricks or smelted into glass.
+##resource_iron,Iron Ingot
+##resource_iron_info,"Can be forged into various equipment, including weapons, armor and cogs."
+##resource_bluecrystal,Blue Crystal
+##resource_bluecrystal_info,Is it making a come back??
+##resource_orangecrystal,Brimstone
+##resource_orangecrystal_info,Serves as fuel for the furnace and is used in the concoction of explosives.
+##resource_sentinelward,Sentinel Ward
+##resource_sentinelward_info,This ward will attack nearby enemies.
+##resource_healingward,Healing Ward
+##resource_healingward_info,Any Bricktron in this ward's radius of influence will be healed over time.
+##resource_captureward,Capture Ward
+##resource_captureward_info,Placing this ward besides a shard will ensure it's capture.
+##resource_lanternward,Lantern Ward
+##resource_lanternward_info,This ward emits light. It will emit more light when connected to a power source.
+##resource_pylonward,Pylon Ward
+##resource_pylonward_info,This ward relays power to other wards.
+##resource_plant,Plant
+##resource_plant_info,The fiber from plants can be refined into rope or fabric.
+##resource_rope,Rope
+##resource_rope_info,Is used in the fabrication of rope bridges and bows.
+##resource_fabric,Fabric
+##resource_fabric_info,Is required for crafting most military equipment.
+##resource_rawiron,Raw Iron
+##resource_rawiron_info,Unrefined iron ore which can be smelted into ingots.
+##resource_glass,Glass
+##resource_glass_info,Used to craft the goods that come out of the laboratory.
+##resource_cog,Cog
+##resource_cog_info,Used to make the machine shop and crossbows.
+##resource_bomb,Bomb
+##resource_bomb_info,Serves as ammunition for the alchemist.
+##resource_explosivebarrel,Explosive Barrel
+##resource_explosivebarrel_info,Serves as ammunition for the catapult.
+,
+RECIPES,
+##recipe_requires,Requires
+##recipe_none,None
+##recipe_none_info,None
+##recipe_ironingot,Iron Ingot
+##recipe_ironingot_info,"Can be forged into various equipment, including weapons, armor and cogs."
+##recipe_glassingot,Glass
+##recipe_glassingot_info,Used to craft the goods that come out of the laboratory.
+##recipe_cog,Cog
+##recipe_cog_info,Used to make the machine shop and crossbows.
+##recipe_bomb,Bomb
+##recipe_bomb_info,Serves as ammunition for the alchemist.
+##recipe_beartrap,Bear Trap
+##recipe_beartrap_info,Bear traps will immobilize temporarily any enemy units that steps on it.
+##recipe_explosivebarrel,Explosive Barrel
+##recipe_explosivebarrel_info,Serves as ammunition for the catapult.
+##recipe_fabricpile,Fabric Roll
+##recipe_fabricpile_info,Is required for crafting most military equipment.
+##recipe_ropeballot,Rope Coil
+##recipe_ropeballot_info,Is used in the fabrication of rope bridges and bows.
+##recipe_planks,Planks
+##recipe_planks_info,Main resource used to build wooden structures.
+##recipe_sentinelward,Sentinel Ward
+##recipe_sentinelward_info,This ward will attack nearby enemies.
+##recipe_healingward,Healing Ward
+##recipe_healingward_info,Any Bricktron in this ward's radius of influence will be healed over time.
+##recipe_captureward,Capture Ward
+##recipe_captureward_info,Placing this ward besides a shard will ensure it's capture.
+##recipe_lanternward,Lantern Ward
+##recipe_lanternward_info,This ward emits light. It will emit more light when connected to a power source.
+##recipe_pylonward,Pylon Ward
+##recipe_pylonward_info,This ward relays power to other wards.
+##recipe_sword,Sword
+##recipe_sword_info,Part of the knight kit.
+##recipe_shield,Shield
+##recipe_shield_info,Part of the knight kit.
+##recipe_helmet,Helmet
+##recipe_helmet_info,Part of the knight kit.
+##recipe_bow,Bow
+##recipe_bow_info,Part of the archer kit.
+##recipe_quiver,Quiver
+##recipe_quiver_info,Part of the archer kit.
+##recipe_cap,Cap
+##recipe_cap_info,Part of the archer kit.
+##recipe_arbalistweapon,Crossbow
+##recipe_arbalistweapon_info,Part of the arbalist kit.
+##recipe_arbalistpouch,BoltPouch
+##recipe_arbalistpouch_info,Part of the arbalist kit.
+##recipe_arbalistcap,Kepi
+##recipe_arbalistcap_info,Part of the arbalist kit.
+##recipe_alchemistpouch,Pouch
+##recipe_alchemistpouch_info,Part of the alchemist kit.
+##recipe_alchemisthat,Bonnet
+##recipe_alchemisthat_info,Part of the alchemist kit.
+##recipe_artificerstaff,Staff
+##recipe_artificerstaff_info,Part of the artificer kit.
+##recipe_artificersatchel,Satchel
+##recipe_artificersatchel_info,Part of the artificer kit.
+##recipe_artificerhat,Chapka
+##recipe_artificerhat_info,Part of the artificer kit.
+##recipe_poleaxe,Poleaxe
+##recipe_poleaxe_info,Part of the halberdier kit.
+##recipe_kettlehat,Kettle Hat
+##recipe_kettlehat_info,Part of the halberdier kit.
+##recipe_knightkit,Knight Kit
+##recipe_knightkit_info,"Knights are slow but robust melee units, their block ability excels against projectiles."
+##recipe_archerkit,Archer Kit
+##recipe_archerkit_info,"Archers are inexpensive, versatile long range units."
+##recipe_arbalistkit,Arbalist Kit
+##recipe_arbalistkit_info,"Arbalists are slower, but deal high damage at a very long range."
+##recipe_halberdierkit,Halberdier Kit
+##recipe_halberdierkit_info,Halberdiers are inexpensive melee combatants with high speed.
+##recipe_alchemistkit,Alchemist Kit
+##recipe_alchemistkit_info,Alchemists throw bombs that deal area of effect damage and break walls.
+##recipe_artificerkit,Artificer Kit
+##recipe_artificerkit_info,Artificers can either throw ranged projectiles with their staff or heal allies.
+,
+OPERABLES,
+##operable_craft,Craft
+##operable_resources_requirements,Required
+##operable_resources_finished,Finished
+##operable_queue,Queue
+##operable_queue_toggle_looping,Toggle Looping
+##operable_queue_toggle_looping_info,The crafting station will produce the selected item indefinitely.
+##operable_queue_clear,Clear
+##operable_queue_clear_info,Empties the crafting station queue.
+##operable_furnace,Furnace
+##operable_furnace_info,Allows Bricktrons to smelt.
+##operable_workbench,Workbench
+##operable_workbench_info,"The workbench is used to craft lanterns, halberdier kits and archer kits."
+##operable_choppingblock,Chopping Block
+##operable_choppingblock_info,Refine wood logs into planks at this station.
+##operable_laboratory,Laboratory
+##operable_laboratory_info,"Anything related to explosions can be crafted at this station, like explosive barrels, bombs and alchemist kits."
+##operable_loom,Loom
+##operable_loom_info,The loom allows you to refine plants into fabric and rope.
+##operable_forge,Forge
+##operable_forge_info,"The forge enables metalworking, turning iron ingots into knight kits or cogs."
+##operable_machineshop,Machine Shop
+##operable_machineshop_info,Contraptions requiring mechanical components like beartraps and arbalist kits can be crafted here.
+##operable_altar,Altar
+##operable_altar_info,"Items drawing from the mysterious energy emanating from crystals are built here, including wards and artificer kits."
+,
+TASKS,
+##task_build,Build
+##task_build_info,<color=#ffc50a>Build</color>\n\nTask for building blocks and structures.
+##task_quarry,Quarry
+##task_quarry_info,<color=#ffc50a>Quarry</color>\n\nTask for digging downward and harvesting rock.
+##task_cleanup,Cleanup
+##task_cleanup_info,<color=#ffc50a>Cleanup</color>\n\nTask to pick up materials littering the ground.
+##task_harvest,Harvest
+##task_harvest_info,<color=#ffc50a>Harvest</color>\n\nTask to collect materials from resource nodes.
+##task_repair,Repair
+##task_repair_info,<color=#ffc50a>Repair</color>\n\nTask to repair damaged walls and structures.
+##task_landscape,Flatten
+##task_landscape_info,<color=#ffc50a>Flatten</color>\n\nTask to flatten terrain.
+##task_tunnel,Tunnel
+##task_tunnel_info,<color=#ffc50a>Tunnel</color>\n\nTask for digging sideways and harvesting rock.
+##task_idle,Crystal
+##task_idle_info,<color=#ffc50a>Crystal</color>\n\nDefault task for Bricktrons who are just chilling.
+##task_goals,Goals
+##task_options,Options
+##task_all_goals,Goals
+##task_all_goals_info,<color=#ffc50a>Goals</color>\n\nNumber of objectives in this task
+,
+##task_build_blueprintclear,Clear Blueprint Selection
+##task_build_blueprintclear_info,<color=#ffc50a>Clear Blueprint Selection</color>\n\nClears currently selected blueprints.
+##task_build_blueprintactive,Toggle Blueprint Management
+##task_build_blueprintactive_info,<color=#ffc50a>Toggle Blueprint Management</color>\n\nActivates or deactivates blueprint management.
+##task_build_blueprintdelete,Delete Selected Blueprints
+##task_build_blueprintdelete_info,<color=#ffc50a>Delete Selected Blueprints</color>\n\nDeletes currently selected blueprints.
+##task_build_blueprintexpand,Expand Blueprint Selection
+##task_build_blueprintexpand_info,<color=#ffc50a>Expand Blueprint Selection</color>\n\nAllows for more blueprints to be added to the selection.
+##task_build_blueprintmove,Move Selected Blueprints
+##task_build_blueprintmove_info,<color=#ffc50a>Move Selected Blueprints</color>\n\nMove several blueprints around at once.
+##task_build_blueprintsplit,Split Selected Blueprints
+##task_build_blueprintsplit_info,<color=#ffc50a>Split Selected Blueprints</color>\n\nSplit selected blueprints into a new build task.
+##task_build_blueprintcopy,Copy Selected Blueprints
+##task_build_blueprintcopy_info,<color=#ffc50a>Copy Selected Blueprints</color>\n\nMakes a copy of current selection.
+,
+##task_priority,Priority
+,
+##task_actions,Actions
+##task_actions_ok,OK
+##task_actions_ok_info,<color=#ffc50a>OK</color>\n\nConfirm changes and close edit mode
+##task_actions_apply,Apply
+##task_actions_apply_info,<color=#ffc50a>Apply</color>\n\nConfirm changes
+##task_actions_cancel,Cancel
+##task_actions_cancel_info,<color=#ffc50a>Cancel</color>\n\nCancel changes
+##task_actions_delete,Delete
+##task_actions_delete_info,<color=#ffc50a>Delete</color>\n\nDelete the currently selected task
+##task_actions_select,Select Task
+##task_actions_select_info,<color=#ffc50a>Select Task</color>\n\nSelect this task
+##task_actions_selectcrew,Select Crew
+##task_actions_selectcrew_info,<color=#ffc50a>Select Crew</color>\n\nSelects these Bricktrons to give them orders
+##task_actions_deselect,Deselect
+##task_actions_deselect_info,<color=#ffc50a>Deselect</color>\n\nUnselects the Bricktrons associated with this task
+,
+##task_idle_crystal,Next Bricktron
+##task_idle_energy,Energy:
+##task_idle_maxenergy,Maximum Reached
+##task_idle_spawn,Spawn
+##task_idle_dead,Dead
+##task_idle_population,Population
+##task_idle_population_info,<color=#ffc50a>Population</color>\n\nYour current Bricktron population over the maximum allowed
+##task_idle_death,Dead Bricktrons
+##task_idle_death_info,<color=#ffc50a>Dead Bricktrons</color>\n\nThese Bricktrons will automatically respawn near your home crystal
+##task_idle_progress,Progress Bar
+##task_idle_progress_info,<color=#ffc50a>Progress Bar</color>\n\nProgress to next Bricktron
+##task_idle_spawnunit,Spawn Bricktron
+##task_idle_spawnunit_info,<color=#ffc50a>Spawn Bricktron</color>\n\nSummons a Bricktron to join your side
+,
+##task_build_goals,Blocks
+##task_build_goals_info,"<color=#ffc50a>Blocks</color>\n\nNumber of bricks, blocks and structures to build and place"
+,
+##task_harvest_options,Resource Types
+##task_harvest_goals,Resources
+##task_harvest_goals_info,<color=#ffc50a>Resources</color>\n\nNumber of resources scheduled to be harvested in this task
+##task_harvest_iron,Iron
+##task_harvest_iron_info,<color=#ffc50a>Iron</color>\n\nEnable or disable the harvest of iron in this task
+##task_harvest_iron_goals,Iron nodes
+##task_harvest_iron_goals_info,<color=#ffc50a>Iron nodes</color>\n\nNumber of iron nodes scheduled to be harvested in this task
+##task_harvest_plants,Plants
+##task_harvest_plants_info,<color=#ffc50a>Plants</color>\n\nEnable or disable the harvest of plants in this task
+##task_harvest_plants_goals,Plants
+##task_harvest_plants_goals_info,<color=#ffc50a>Plants</color>\n\nNumber of plants scheduled to be harvested in this task
+##task_harvest_brimstone,Brimstone
+##task_harvest_brimstone_info,<color=#ffc50a>Brimstone</color>\n\nEnable or disable the harvest of brimstone in this task
+##task_harvest_brimstone_goals,Brimstone nodes
+##task_harvest_brimstone_goals_info,<color=#ffc50a>Brimstone nodes</color>\n\nNumber of brimstone nodes scheduled to be harvested in this task
+##task_harvest_trees,Wood
+##task_harvest_trees_info,<color=#ffc50a>Wood</color>\n\nEnable or disable the harvest of wood in this task
+##task_harvest_trees_goals,Trees
+##task_harvest_trees_goals_info,<color=#ffc50a>Trees</color>\n\nNumber of trees scheduled to be harvested in this task
+##task_harvest_boulders,Stone
+##task_harvest_boulders_info,<color=#ffc50a>Stone</color>\n\nEnable or disable the harvest of stone in this task
+##task_harvest_boulders_goals,Boulders
+##task_harvest_boulders_goals_info,<color=#ffc50a>Boulders</color>\n\nNumber of boulders scheduled to be harvested in this task
+,
+##task_landscape_goals,Voxels
+##task_landscape_goals_info,<color=#ffc50a>Voxels</color>\n\nNumber of voxels projected to be removed or added
+##task_landscape_raise,Raise
+##task_landscape_raise_info,<color=#ffc50a>Raise</color>\n\nOrders the Bricktrons to raise the terrain at selected location
+##task_landscape_lower,Lower
+##task_landscape_lower_info,<color=#ffc50a>Lower</color>\n\nOrders the Bricktrons to lower the terrain at selected location
+,
+##task_tunnel_options,Next Tunnel
+##task_tunnel_goals,Voxels
+##task_tunnel_goals_info,<color=#ffc50a>Voxels</color>\n\nNumber of voxels projected to be removed
+##task_tunnel_up,Dig Up
+##task_tunnel_up_info,<color=#ffc50a>Dig Up</color>\n\nOrders the Bricktrons to dig in an upward direction
+##task_tunnel_down,Dig Down
+##task_tunnel_down_info,<color=#ffc50a>Dig Down</color>\n\nOrders the Bricktrons to dig in a downward direction
+##task_tunnel_straight,Dig Straight
+##task_tunnel_straight_info,<color=#ffc50a>Dig Straight</color>\n\nOrders the Bricktrons to dig straight forward
+##task_keepstone_info,<color=#ffc50a>Keep Stone</color>\n\nBricktrons will bring back harvested stone
+##task_keepiron_info,<color=#ffc50a>Keep Iron</color>\n\nBricktrons will bring back harvested iron
+##task_keepbrimstone_info,<color=#ffc50a>Keep Brimstone</color>\n\nBricktrons will bring back harvested brimstone
+,
+##task_quarry_goals,Voxels
+##task_quarry_goals_info,<color=#ffc50a>Voxels</color>\n\nNumber of voxels projected to be removed
+##task_quarry_stairs,Rotate Staircase
+##task_quarry_stairs_info,<color=#ffc50a>Rotate Staircase</color>\n\nRotates the projected stairs in the quarry
+,
+##task_repair_goals,Blocks
+##task_repair_goals_info,"<color=#ffc50a>Blocks</color>\n\nNumber of bricks, blocks and structures to repair"
+,
+##task_cleanup_goals,Chunks
+##task_cleanup_goals_info,<color=#ffc50a>Chunks</color>\n\nNumber of resource chunks that litter the ground
+,
+NEWS,
+##news_mastodonte,DECORATIONS & WINTER BIOME UPDATE!\nNOW AVAILABLE!
+##news_mastodonte_datetime,#datetime
+##news_mastodonte_info,"The Decorations & Winter Biome update is now live, adding lots of new blocks to the game; new pillars, paintings, a statue, windows, doors AND a brand new snowy biome to play and make maps with!\n\nEnjoy!"
+##news_mastodonte_start,PLAY THE TUTORIAL
+##news_mastodonte_start_info,
+##news_mastodonte_readmore,Read more
+##news_mastodonte_readmore_info,The full changelog on CastleStory.net
+,http://www.castlestory.net/en/update/6269-The-Quality-Of-Life-Update-11
+,
+,
+##temp_event_gtp,Capture the Pumpkins
+##temp_event_gtp_info,Capture the Pumpkins is a multiplayer game mode in which you must bring back pumpkins to your cooking pot. The team that brings back the most pumpkins to their cooking pot wins!
+##temp_event_gtp_intro,"Capture the Pumpkins is a gamemode where, in order to win, you must be the first faction to collect #gems_to_win gems and drop them at your cooking pot.
+Pick up pumpkins by selecting a worker and right-clicking a pumpkin that has appeared in its patch. Drop this delicious squash in your cooking pot by right-clicking it with the worker selected.
+Consider defending patches of pumpkins and hunting down enemy workers who are hauling them back to their base.
+Have fun and good luck!"
+##temp_event_gtp_gemscollected_one,You have managed to collect #gem_count pumpkin!
+##temp_event_gtp_gemscollected_many,You have managed to collect #gem_count pumpkins!
+##temp_event_gtp_timebeforenextgem,Time before next pumpkin:
+##temp_event_gtp_victory_info,You are victorious! You were the first faction to collect all the needed pumpkins. Fabulous! Outrageous!
+##temp_event_gtp_defeat_info,"You have been defeated.\n
+Another faction has managed to collect the needed pumpkins before you.\n
+May your powerless, squashless Bricktrons live in shame until you once again seize the opportunity to prove yourself!"
+##temp_event_gtp_mastodonte,CAPTURE THE PUMPKIN!
+##temp_event_gtp_mastodonte_info,"It's the return of the Halloween event! Once again, this year, Grab the Gems gets a healthy dash of spooky! Gems turned into pumpkins, your crystal is a bubbly cauldron and the moon doesn't look quite right! If you haven't tried the Grab the Gems/Capture the Pumpkin gamemode, be sure to give it a try, it's tons of fun!\n\nYou'll also notice the Bricktrons have put on their best costumes! Share a screenshot of your favorite one on social media with the tag #castlestory!\n\nHappy Halloween!\n\n-Team Sauropod"

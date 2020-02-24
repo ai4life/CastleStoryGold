@@ -1,0 +1,2304 @@
+Keys,French (Canada)
+NEW GAME MENU,
+##mainmenu_newgame,Nouvelle partie
+##mainmenu_start,Lancer la partie
+##mainmenu_back,Retour
+##mainmenu_cancel,Annuler
+##mainmenu_select,Sélectionner
+##mainmenu_selectmap,Sélectionner la carte
+##mainmenu_selectamap,Sélectionner une carte
+##mainmenu_play,Jouer
+##mainmenu_edit,Modifier
+##mainmenu_update,Actualiser
+##mainmenu_nomap,Aucune carte
+,
+##mainmenu_update_waiting_title,Mise à jour
+##mainmenu_update_waiting_content,Veuillez patienter.
+##mainmenu_update_waiting_cancel,Canceler
+,
+##mainmenu_update_timeout_title,La mise à jour a pris trop de temps
+##mainmenu_update_timeout_content,La mise à jour n'a pas pu se completer. Veuillez réessayer ou contacter le support.
+##mainmenu_update_timeout_ok,Ok
+,
+##mainmenu_update_success_title,La mise à jour est un succcès
+##mainmenu_update_success_content,Super!\nL'original a été déplacé ici:
+##mainmenu_update_success_ok,Ok
+,
+##mainmenu_update_failure_title,La mise à jour a échouée
+##mainmenu_update_failure_content,La mise à jour n'a pas pu se completer. Veuillez réessayer ou contacter le support.
+##mainmenu_update_failure_ok,Ok
+,
+LOBBY,
+##mainmenu_lobby,Lobby
+##mainmenu_lobby_playername,Nom
+##mainmenu_lobby_playername_info,Modifier votre nom
+##mainmenu_lobby_faction,Couleur
+##mainmenu_lobby_faction_info,Les joueurs d'une même couleur partage le contrôle
+##mainmenu_lobby_team,Équipe
+##mainmenu_lobby_team_info,Les joueurs d'une même équipe sont alliés
+##mainmenu_lobby_waitingforhost,En attente de l'hôte
+##mainmenu_lobby_waitingforplayers,En attente des joueurs
+##mainmenu_lobby_waitingforplayerdownloads,En attente de téléchargements
+##mainmenu_lobby_waitingfordownload,En attente du téléchargement
+##mainmenu_lobby_notready,Pas prêt
+##mainmenu_lobby_ready,Prêt
+##mainmenu_lobby_ready_info_host,Vous devez être prêt pour débuter la partie et permettre aux clients de télécharger la carte
+##mainmenu_lobby_ready_info_client,Vous devez être prêt pour permettre à l'hôte de débutter la partie
+##mainmenu_lobby_downloading,En téléchargement..
+##mainmenu_lobby_close,Quitter
+##mainmenu_lobby_close_info,Quitter et expulser tous les joueurs
+##mainmenu_lobby_leave,Quitter
+##mainmenu_lobby_start,Débuter
+##mainmenu_lobby_playerwaskicked,#x a été explulsé par l'hôte.
+,
+##mainmenu_newgame_header_official,Cartes Officielles
+##mainmenu_newgame_header_official_info,Cartes réalisées par Sauropod Studio
+##mainmenu_newgame_header_usergenerated,Générées par l'utilisateur
+##mainmenu_newgame_header_usergenerated_info,Produites à l'aide de l'éditeur de monde
+##mainmenu_newgame_header_steamworkshop,Steam Workshop
+##mainmenu_newgame_header_steamworkshop_info,Cartes auxquelles vous êtes abonné
+,
+##mainmenu_newgame_steambtn_info,Téléchargez des cartes \nfaites par d'autres joueurs!
+##mainmenu_newgame_steambtn_title,Steam Workshop
+##mainmenu_newgame_steambtn_description,Parcourir
+,
+##mainmenu_language_steambtn_title,Parcourir
+##mainmenu_language_steambtn_description,Steam Workshop
+##mainmenu_language_steambtn_send,Envoyer au workshop
+##mainmenu_language_steambtn_resend,Renvoyer au Workshop
+##mainmenu_language_steambtn_go,Ouvrir sur le Workshop
+##mainmenu_language_unnamed,<Localisation sans nom>
+,
+MAPS,
+##map,Carte
+##map_noneselected,Aucune selection
+,
+##map_creditisland_name,Ile de la Renommée
+##map_creditisland_description,Forgé de la bonne volonté et de la générosité de près de 30 000 âmes - la légende veut que creuser sous la croûte de l'ile de la renommée libérerait les âmes bienveillantes qui y sont piégées.
+##map_colibri_name,Colibri
+##map_colibri_description,"Deux villages Bricktrons en vue à vol d'oiseau l'un de l'autre, connectés par des chemins sinueux. Soyez vigilants."
+##map_komorebi_name,Komorebi
+##map_komorebi_description,Vite! L'ennemi approche! Vainquerez-vous vos adversaires sur l'ile de Komorebi?
+##map_orosivalley_name,Vallée des Orosis
+##map_orosivalley_description,Les rivalités entre Bricktrons se voient à travers les profondes cicatrices que leurs conflits ont causés dans cette région.
+##map_tortuga_name,Tortuga
+##map_tortuga_description,"Il y a longtemps, une force mystérieuse dévasta le centre de cette ile, ne laissant qu'un cratère et plusieurs petites iles en orbites les unes autout des autres."
+##map_plateau_name,Plateau Mont-Royal
+##map_plateau_description,"En son centre se trouve une plaine sur laquelle les Bricktrons de toutes les cultures se rassemblent. Cependant, tous ces rassemblements ne sont pas dans un but pacifique."
+##map_riverains_name,Riverains
+##map_riverains_description,Deux rives: deux villages bricktrons qui s'observent suspicieusement. Qui osera s'établir au centre?
+##map_tresmuertos_name,Tres Muertos
+##map_tresmuertos_description,Ça fait peur!
+##map_troubledheaps_name,Pagaille sur les Collines
+##map_troubledheaps_description,"Introduite avec le mode Invasion lors de la version 0.2, cette carte a pour objectif d'ériger un point de défense central."
+##map_zuma_name,Zuma
+##map_zuma_description,"Les Bricktrons défendent bravement leurs terres, mais ces forêts foisonnent de Corruptrons."
+##map_arecibo_name,Arecibo
+##map_arecibo_description,"Établi dans le cratère central d'Arecibo, les ennemis peuvent surgir de n'importe où avec aucun goulot d'étranglement à défendre. Votre château tiendra-t-il le coup?"
+##map_pineburg_name,Pin des Faubourgs
+##map_pineburg_description,"Cette carte fût révélée lors de la vidéo promotionnelle sur Kickstarter. Elle comprend un château déja construit à explorer, ainsi que plusieurs zones secondaires sur lesquelles bâtir."
+##map_steppingstones_name,Pierres de Gué
+##map_steppingstones_description,Des Bricktrons haut perchés jettent un regard hautain sur leurs semblables. Ces Bricktrons vont-ils se révolter?
+##map_bigisland_name,Grosse Ile
+##map_bigisland_description,Une surface d'un kilomètre carré pour mettre vos talents de constructeur à l'épreuve. Requiert un PC performant.
+##map_exile_name,Exile
+##map_exile_description,Cette ile aux reliefs tortueux et inhospitaliers est un goulag pour Bricktrons.
+##map_nova_name,Nova
+##map_nova_description,Les habitants de Nova sont passés maitres dans l'art de construire des ponts. Cet archipel n'est pas acceuillant pour les Bricktrons qui ont peur des hauteurs.
+##map_invictus_name,Invictus
+##map_invictus_description,"Perché sur un plateau, repoussez les attaques sur trois fronts différents."
+##map_kairos_name,Kairos
+##map_kairos_description,Le cratère au milieu de ces terres meurtries fut le théâtre de nombreuses batailles.
+##map_quasar_name,Quasar
+##map_quasar_description,Les pentes à différentes altitudes font de cette ile l'endroit idéal pour bâtir des chateaux au design vertical.
+##map_void_name,Vide
+##map_void_description,Le vide intersidéral.
+##map_newmap,Nouvelle Carte
+##map_newmap_description,Carte Vide
+##map_newmap_forest,Nouvelle Carte Forêt
+##map_newmap_forest_description,Carte Vierge avec un Biome de Forêt.
+##map_newmap_desert,Nouvelle Carte Désert
+##map_newmap_desert_description,Carte Vierge avec un Biome de Désert.
+##map_newmap_winter,Nouvelle Carte Hiver
+##map_newmap_winter_description,Carte Vierge avec un Biome Hivernal.
+##map_apex_name,Apex
+##map_apex_description,De délicates fleurs poussent sur les flancs de cette montagne en l'honneur d'anciens guerriers qui ont jadis combattu ici.
+##map_pioneerpass_name,Passage du Pionnier
+##map_pioneerpass_description,De brave pionniers bricktrons se retrouvent sur des terres inconnues. Quels dangers les attendent de l'autre coté de ce passage tortueux?
+##map_helix_name,Helix
+##map_helix_description,"Une grande montagne domine ces terres glaciales, surplombant les bricktrons aux alentours. Vont-ils réussir à l'escalader et conquérir son sommet?"
+,
+LOAD GAME MENU,
+##mainmenu_loadgame,Charger une partie
+##mainmenu_loadgame_info,Continuer une partie antérieure
+,
+SINGLEPLAYER MENU,
+##mainmenu_singleplayer,Nouvelle Partie
+##mainmenu_singleplayer_info,Débuter une partie à un seul joueur
+,
+MULTIPLAYER MENU,
+##mainmenu_multiplayer,Multijoueur
+##mainmenu_multiplayer_enterlobby,Joindre la partie
+##mainmenu_multiplayer_selectgame,Sélectionner une partie
+##mainmenu_multiplayer_info,Jouer avec des amis
+##mainmenu_multiplayer_joingame,Rejoindre
+##mainmenu_multiplayer_joingame_info,Rejoindre une partie
+##mainmenu_multiplayer_hostgame,Héberger
+##mainmenu_multiplayer_hostgame_info,Héberger une partie
+##mainmenu_multiplayer_hostnewgame,Héberger (Nouvelle Partie)
+##mainmenu_multiplayer_hostloadgame,Héberger (Charger une Partie)
+##mainmenu_multiplayer_backtolobby,Retour au lobby
+,
+##mainmenu_multiplayer_localservers,Liste de Serveurs Privés
+##mainmenu_multiplayer_localservers_info,Joindre une partie en réseau local
+##mainmenu_multiplayer_publicservers,Liste de Serveurs Publiques
+##mainmenu_multiplayer_publicservers_info,Explorer les parties publiques
+##mainmenu_multiplayer_noservers,Aucun serveur trouvé.
+##mainmenu_multiplayer_customaddress,Entrer une Adresse
+##mainmenu_multiplayer_customaddress_info,Connectez-vous à une addresse spécifique
+##mainmenu_multiplayer_customaddress_ip,Adresse IP
+##mainmenu_multiplayer_customaddress_none,Aucun
+##mainmenu_multiplayer_customaddress_port,Port
+##mainmenu_multiplayer_join,Rejoindre
+##mainmenu_multiplayer_cancel,Annuler
+##mainmenu_multiplayer_players,Joueurs
+##mainmenu_multiplayer_showfull,Afficher: plein
+##mainmenu_multiplayer_showfull_info,Afficher ou cacher les serveurs pleins
+,
+##mainmenu_multiplayer_customaddress_ip,Adresse IP
+##mainmenu_multiplayer_customaddress_port,Port
+##mainmenu_multiplayer_error,Erreur
+##mainmenu_multiplayer_error_join_failure,Échec de connexion au serveur.
+##mainmenu_multiplayer_error_host_failure,Échec d'initialisation du serveur. Le port #x est déjà occupé.
+##mainmenu_multiplayer_error_client_failure,Le serveur a cessé d'exister.
+##mainmenu_multiplayer_error_ok,Ok
+,
+##mainmenu_multiplayer_lobby,Lobby
+##mainmenu_multiplayer_lobby_ashost,Lobby (Comme hôte)
+##mainmenu_multiplayer_lobby_asclient,Lobby (en tant que client)
+##mainmenu_multiplayer_host,Hôte
+##mainmenu_multiplayer_playerjoined,#x a rejoint la partie.
+##mainmenu_multiplayer_playerleft,#x a quitté la partie.
+##mainmenu_multiplayer_playerrenamed,#x1 s'est renommé de #x2.
+##mainmenu_multiplayer_startgame,Lancer la partie
+##mainmenu_multiplayer_leave,Quitter
+##mainmenu_multiplayer_privacy,Intimité
+##mainmenu_multiplayer_privacy_private,Privée
+##mainmenu_multiplayer_privacy_friendsonly,Amis seulement
+##mainmenu_multiplayer_privacy_public,Publique
+##mainmenu_multiplayer_lobby_leaving,Sortie du lobby
+##mainmenu_multiplayer_lobby_leaving_info,Veuillez patentier...
+##mainmenu_multiplayer_lobby_player_kicked, s'est fait kicker par l'hôte.
+##mainmenu_multiplayer_chatbox_intro,"Appuyez sur ""Enter"" pour écrire aux autres joueurs."
+##mainmenu_multiplayer_chatbox_player_left, a quitté la partie.
+##mainmenu_multiplayer_chatbox_entertext,Écrivez votre message...
+,
+##mainmenu_multiplayer_error_playerkicked,Vous avez été éjecté par le hôte.\n(NetworkError.PlayerKicked)
+##mainmenu_multiplayer_error_badmessage,Le message ne contient pas de données.\n(NetworkError.BadMessage)
+##mainmenu_multiplayer_error_crcmismatch,La configuration de la connection n'est pas la même.\n(NetworkError.CRCMismatch)
+##mainmenu_multiplayer_error_dnsfailure,L'addresse n'est pas valide ou n'a pu être résolue.\n(NetworkError.DNSFailure)
+##mainmenu_multiplayer_error_messagetoolong,Le message était trop long pour le tampon.\n(NetworkError.MessageTooLong)
+##mainmenu_multiplayer_error_noresources,Il n'y a pas assez de resources pour répondre à la requête.\n(NetworkError.NoResources)
+##mainmenu_multiplayer_error_timeout,La connection est périmée.\n(NetworkError.Timeout)
+##mainmenu_multiplayer_error_usageerror,Une fonction a été appellée avec des paramètres érronés.\n(NetworkError.UsageError)
+##mainmenu_multiplayer_error_versionmismatch,La version des protocols n'est pas compatible. Mauvaises librairies?\n(NetworkError.VersionMismatch)
+##mainmenu_multiplayer_error_wrongchannel,Le canal spécifié n'existe pas.\n(NetworkError.WrongChannel)
+##mainmenu_multiplayer_error_wrongconnection,L'identifiant de connection n'existe pas.\n(NetworkError.WrongConnection)
+##mainmenu_multiplayer_error_wronghost,L'hôte n'est pas disponible.\n(NetworkError.WrongHost)
+##mainmenu_multiplayer_error_wrongoperation,L'opération n'est pas supportée.\n(NetworkError.WrongOperation)
+##mainmenu_multiplayer_error_ok,Ok
+,
+##mainmenu_multiplayer_hosting,Hôte de la Partie
+##mainmenu_multiplayer_abort,Abandonner
+,
+##mainmenu_creditisland,Ile de la Renommée
+##mainmenu_creditisland_info,En l'honneur de nos backers!
+,
+WORLD EDITOR,
+##mode_worldeditor_terrain,Terrain
+##mode_worldeditor_terrain_island,Ile
+##mode_worldeditor_terrain_island_help,Ajoute ou enlève une ile.
+##mode_worldeditor_terrain_island_islandbrush,Pinceau à Ile
+##mode_worldeditor_terrain_island_islandbrush_dontcreate,Ne pas créer
+##mode_worldeditor_terrain_island_islandbrush_dontlower,Ne pas baisser
+##mode_worldeditor_terrain_island_islandbrush_dontraise,Ne pas surélever
+,
+##mode_worldeditor_terrain_underside,Dessous d'Ile
+##mode_worldeditor_terrain_underside_help,Génère du terrain sous l'ile
+##mode_worldeditor_terrain_underside_actions,Actions de Dessous d'Ile
+##mode_worldeditor_terrain_underside_actions_generate,Générer du Dessous d'Ile
+##mode_worldeditor_terrain_underside_options,Options de Dessous d'Ile
+##mode_worldeditor_terrain_underside_options_thickness,Épaisseur
+##mode_worldeditor_terrain_underside_options_randomness,Bruit
+##mode_worldeditor_terrain_underside_options_level,Nivelage:
+##mode_worldeditor_terrain_underside_options_level_fromcamera,À Partir de la Grille
+##mode_worldeditor_terrain_underside_options_level_fromgrid,À Partir de la Caméra
+##mode_worldeditor_terrain_underside_options_level_custom,Sur Mesure
+##mode_worldeditor_terrain_underside_options_calculatedbounds,Limites
+##mode_worldeditor_terrain_underside_options_alignment,Alignement
+##mode_worldeditor_terrain_underside_options_alignment_none,Aucun
+##mode_worldeditor_terrain_underside_options_alignment_top,Sommet
+##mode_worldeditor_terrain_underside_options_alignment_middle,Milieu
+##mode_worldeditor_terrain_underside_options_alignment_bottom,Fond
+##mode_worldeditor_terrain_terraintype,Type de Terrain
+##mode_worldeditor_terrain_grass,Gazon
+##mode_worldeditor_terrain_snow,Neige
+##mode_worldeditor_terrain_pavement,Pavé
+##mode_worldeditor_terrain_thickgrass,Herbe Longue
+##mode_worldeditor_terrain_clover,Trèfle
+##mode_worldeditor_terrain_parchedearth,Terre Craquelé
+##mode_worldeditor_terrain_coarsesand,Sable Grossier
+##mode_worldeditor_terrain_sand,Sable
+##mode_worldeditor_terrain_finesand,Sable Fin
+##mode_worldeditor_terrain_compactedsnow,Chemin Glacé
+##mode_worldeditor_terrain_powderysnow,Dunes Venteuses
+##mode_worldeditor_terrain_crunchysnow,Poudre Compacte
+##mode_worldeditor_terrain_stickysnow,Neige Fraîche
+,
+##mode_worldeditor_terrain_elevation,Élévation
+##mode_worldeditor_terrain_elevation_help,Ajoute ou enlève du volume à l'ile.
+##mode_worldeditor_terrain_elevation_brush,Pinceau à Élévation
+,
+##mode_worldeditor_terrain_plateau,Plateau
+##mode_worldeditor_terrain_plateau_help,Aplanit l'Ile.
+##mode_worldeditor_terrain_plateau_brush,Pinceau à Aplanissement
+##mode_worldeditor_terrain_plateau_brush_lockheight,Verrouiller la Hauteur
+,
+##mode_worldeditor_terrain_smooth,Lisser
+##mode_worldeditor_terrain_smooth_help,Lisse l'Ile.
+##mode_worldeditor_terrain_smooth_brush,Pinceau à Lissage
+,
+##mode_worldeditor_terrain_grass,Gazon
+##mode_worldeditor_terrain_grass_help,Ajoute ou enlève du gazon.
+##mode_worldeditor_terrain_grass_brush,Pinceau à Gazon
+,
+##mode_worldeditor_terrain_tree,Arbre
+##mode_worldeditor_terrain_tree_help,Ajoute ou enlève des arbres.
+##mode_worldeditor_terrain_tree_brush,Pinceau à Arbres
+,
+##mode_worldeditor_terrain_plant,Plante
+##mode_worldeditor_terrain_plant_help,Ajoute ou enlève des plantes
+##mode_worldeditor_terrain_plant_brush,Pinceau à Plantes
+##mode_worldeditor_terrain_plant_brush_onlyongrass,Seulement sur du gazon.
+##mode_worldeditor_terrain_planttype,Type de Plante
+##mode_worldeditor_terrain_plant1,Siderasis
+##mode_worldeditor_terrain_plant2,Polygatum
+##mode_worldeditor_terrain_plant3,Monstera
+##mode_worldeditor_terrain_plant4,Trille
+##mode_worldeditor_terrain_plant5,Hosta
+##mode_worldeditor_terrain_plant6,Aloès
+##mode_worldeditor_terrain_desertplant1,Siderasis
+##mode_worldeditor_terrain_desertplant2,Opuntia
+##mode_worldeditor_terrain_desertplant3,Salicorne
+##mode_worldeditor_terrain_desertplant4,Trille
+##mode_worldeditor_terrain_desertplant5,Hosta
+##mode_worldeditor_terrain_desertplant6,Aloès
+##mode_worldeditor_terrain_winterplant1,Siderasis
+##mode_worldeditor_terrain_winterplant2,Busserole
+##mode_worldeditor_terrain_winterplant3,Artemisia
+##mode_worldeditor_terrain_winterplant4,Trille
+##mode_worldeditor_terrain_winterplant5,Cerastium
+##mode_worldeditor_terrain_winterplant6,Aloès
+,
+##mode_worldeditor_terrain_boulder,Rocher
+##mode_worldeditor_terrain_boulder_help,Ajoute ou enlève des rochers.
+##mode_worldeditor_terrain_boulder_brush,Pinceau à Rochers
+,
+##mode_worldeditor_terrain_iron,Fer
+##mode_worldeditor_terrain_iron_help,Ajoute ou enlève du fer.
+##mode_worldeditor_terrain_iron_brush,Pinceau à Fer
+,
+##mode_worldeditor_terrain_brimstone,Soufre
+##mode_worldeditor_terrain_brimstone_help,Ajoute ou enlève du soufre
+##mode_worldeditor_terrain_brimstone_brush,Pinceau à Soufre
+,
+##mode_worldeditor_terrain_brush_size,Taille
+##mode_worldeditor_terrain_brush_intensity,Intensité
+##mode_worldeditor_terrain_brush_leveloverride,Moyenne au nivelage
+##mode_worldeditor_terrain_brush_useoverride,Utiliser la moyenne au nivelage
+##mode_worldeditor_terrain_brush_edgedistance,Distance de la bordure
+,
+##mode_worldeditor_markers,Marqueurs
+##mode_worldeditor_markers_player,Joueur
+##mode_worldeditor_markers_player_spawns,Points de Départ du Joueur
+##mode_worldeditor_markers_player_marker,Cristal - Point de Départ du Joueur
+##mode_worldeditor_markers_player_help,Ajoute ou enlève des points de départ pour le joueur.
+,
+##mode_worldeditor_markers_crystal,Cristal
+##mode_worldeditor_markers_crystal_locations,Cristaux
+##mode_worldeditor_markers_crystal_marker,Fragment
+##mode_worldeditor_markers_crystal_help,Ajoute ou enlève des cristaux.
+,
+##mode_worldeditor_markers_enemy,Ennemi
+##mode_worldeditor_markers_enemy_spawns,Points de Départ Ennemi
+##mode_worldeditor_markers_enemy_marker,Point de Départ Ennemi
+##mode_worldeditor_markers_enemy_help,Ajoute ou enlève des points de Départ pour Corruptrons.
+,
+##mode_worldeditor_time,Temps
+##mode_worldeditor_time_pause,Pause
+##mode_worldeditor_time_now,Maintenant
+,
+##mode_worldeditor_map,Carte
+##mode_worldeditor_map_preview,Prévisualisation
+,
+##mode_worldeditor_grid,Grille
+##mode_worldeditor_grid_visible,Visible
+##mode_worldeditor_grid_opacity,Opacité
+##mode_worldeditor_grid_heightlocks,Hauteur basée sur la caméra
+##mode_worldeditor_grid_height,Hauteur
+,
+##mode_worldeditor_modes,Modes
+##mode_worldeditor_modes_requirements,Requis
+##mode_worldeditor_modes_playerstart,Point de Départ du Joueur
+##mode_worldeditor_modes_corruptronspawn,Point de Départ des Corruptrons
+,
+##mode_worldeditor_save,Sauvegarder
+##mode_worldeditor_save_title,Titre & Description
+##mode_worldeditor_save_update,Mise à Jour
+,
+##mode_worldeditor_workshop_steam,Steam Workshop
+##mode_worldeditor_workshop,Workshop
+##mode_worldeditor_workshop_notes,Steam Workshop: Changements
+##mode_worldeditor_workshop_notes_info,Spécifiez vos changements apportés à cette version de l'item.
+##mode_worldeditor_workshop_csonsteam,Castle Story sur Steam
+##mode_worldeditor_workshop_info,Info
+##mode_worldeditor_workshop_info_text,Utilisez le Steam Workshop pour partagez vos cartes facilement.
+##mode_worldeditor_workshop_visibility,Visibilité
+##mode_worldeditor_workshop_visibility_private,Privé
+##mode_worldeditor_workshop_visibility_friends,Amis
+##mode_worldeditor_workshop_visibility_public,Publique
+##mode_worldeditor_workshop_savecreate,"Sauvegarder, Créer et Publier."
+##mode_worldeditor_workshop_savepublish,Sauvegarder et Publier
+##mode_worldeditor_workshop_publishmenu_publish,Publier
+##mode_worldeditor_workshop_publishmenu_cancel,Annuler
+##mode_worldeditor_workshop_publishmenu_warnings,Alertes
+##mode_worldeditor_workshop_publishmenu_cannotpublish,Impossible de sauvegarder:
+##mode_worldeditor_workshop_publishmenu_invalidtitle,Titre invalide.
+##mode_worldeditor_workshop_disabled_error,Erreur
+##mode_worldeditor_workshop_disabled_error_text,Ouvrez Steam et connectez-vous sur le Workshop pour publier.
+##mode_worldeditor_workshop_steamworkshop_gotoitem,Ouvrir l'item sur le Workshop
+##mode_worldeditor_workshop_steamworkshop_done,Terminé
+##mode_worldeditor_workshop_none,Aucun
+##mode_worldeditor_workshop_error,Erreur
+##mode_worldeditor_workshop_error_eula_info,"Une erreur est survenue lors du processus de chargement de votre item sur le Workshop.\n<b>Steam vous demande de bien vouloir signer leurs termes et conditions du contrat de licence destiné à l'utilisateur final (CLUF).</b>\n\nSi le boutton ci-bas ne fonctionne pas, visitez le:\nhttp://steamcommunity.com/workshop/workshoplegalagreement/?appid=227860"
+##mode_worldeditor_workshop_error_eula_open,Ouvrir le CLUF dans Steam
+##mode_worldeditor_workshop_error_eula_ok,Ok
+##mode_worldeditor_workshop_item_open,Ouvrir la page de l'item dans Steam
+##mode_worldeditor_workshop_item,Item
+##mode_worldeditor_workshop_publish_info,Veuillez patienter...\nVotre item est en processus de création et de publication vers le Steam Workshop.
+##mode_worldeditor_workshop_saved,Sauvegardé sur le disque.
+##mode_worldeditor_workshop_created,Créé sur le Workshop.
+##mode_worldeditor_workshop_creating,En création sur le Workshop...
+##mode_worldeditor_workshop_published,Publié sur le Workshop.
+##mode_worldeditor_workshop_publishing,En publication sur le Workshop...
+##mode_worldeditor_workshop_error_timeoutcreate,Erreur: Échec lors de la création
+##mode_worldeditor_workshop_error_timeoutcreate_info,La création a échoué. Le délai d'attente maximal a été rencontré (> #xs).
+##mode_worldeditor_workshop_error_timeoutpublish,Erreur: Échec lors de la publication
+##mode_worldeditor_workshop_error_timeoutpublish_info,La publication a échoué. Le délai d'attente maximal a été rencontré (> #xs).
+##mode_worldeditor_workshop_error_publish,Erreur: Échec lors de la publication
+##mode_worldeditor_workshop_error_publish_info,La publication a échoué.\nL'erreur reçue est la suivante: <b>#x</b>.\nLe workshop de Castle Story est en beta. Veuillez nous envoyer cette erreur pour que nous puissions vous aider.
+##mode_worldeditor_workshop_error_ok,Ok
+,
+##mode_worldeditor_letters,Lettres
+,
+##mode_worldeditor_actions,Actions
+##mode_worldeditor_options,Options
+##mode_worldeditor_help,Aide
+##mode_worldeditor_close,Fermer
+,
+OPTIONS,
+##mainmenu_options,Options
+##mainmenu_options_apply,Appliquer
+##mainmenu_options_back,Retour
+##mainmenu_options_settings,Réglages
+##mainmenu_options_settings_info,Options générales
+,
+##mainmenu_options_general,Général
+##mainmenu_options_general_info,Paramètres généraux
+##mainmenu_options_general_welcomescreen,Écran de bienvenue
+##mainmenu_options_general_welcomescreen_info,Montrer l'écran de bienvenue en début de partie
+##mainmenu_options_general_showhelpatgamestart,Astuces
+##mainmenu_options_general_showhelpatgamestart_info,Montrer les astuces contextuelles
+##mainmenu_options_general_pausegame,Pause lorsque hors fenêtre
+##mainmenu_options_general_pausegame_info,Mettre sur pause lorsque hors fenêtre
+##mainmenu_options_general_specialassets,Objets thématiques
+##mainmenu_options_general_specialassets_info,Activer les objets thématiques (ex: durant les fêtes)
+##mainmenu_options_general_gamemodes,Modes de jeu non supportés
+##mainmenu_options_general_gamemodes_info,Afficher les modes de jeu non supportés
+##mainmenu_options_general_enabledebugmode,Mode Débogage
+##mainmenu_options_general_enabledebugmode_info,Activer le mode Débogage
+,
+##mainmenu_options_graphics,Graphiques
+##mainmenu_options_graphics_info,Paramètres visuels
+##mainmenu_options_graphics_fullscreen,Plein Écran
+##mainmenu_options_graphics_fullscreen_info,Plein écran ou format fenêtre
+##mainmenu_options_graphics_screenresolution,Résolution
+##mainmenu_options_graphics_screenresolution_info,Ajustez la résolution de votre écran
+##mainmenu_options_graphics_quality,Qualité des Graphiques
+##mainmenu_options_graphics_quality_standard,Standard
+##mainmenu_options_graphics_framecap,Cadence d'Images Limite
+##mainmenu_options_graphics_framecap_info,Limitez la cadence d'images à un IPS spécifique
+##mainmenu_options_graphics_framecap_unlimited,Illimité
+##mainmenu_options_graphics_framecap_fps,IPS
+##mainmenu_options_graphics_levelofdetail,Niveau de Détail
+##mainmenu_options_graphics_levelofdetail_info,La distance à laquelle le jeu réduit la qualité du terrain
+##mainmenu_options_graphics_levelofdetail_low,Bas
+##mainmenu_options_graphics_levelofdetail_medium,Moyen
+##mainmenu_options_graphics_levelofdetail_high,Élevé
+##mainmenu_options_graphics_terrain,Accélération du Terrain
+##mainmenu_options_graphics_terrain_info,Basculez l'accélération faite par la carte graphique au niveau du calcul de terrain
+##mainmenu_options_graphics_terrain_autodetect,Auto-détection
+##mainmenu_options_graphics_terrain_autodetect_info,"Dans ce mode, le multi-threading ne sera utilisé pour calculer le terrain que si votre ordinateur est assez puissant."
+##mainmenu_options_graphics_terrain_never,Jamais
+##mainmenu_options_graphics_terrain_never_info,"Dans ce mode, le multi-threading ne sera jamais utilisé pour calculer le terrain."
+##mainmenu_options_graphics_terrain_always,Toujours
+##mainmenu_options_graphics_terrain_always_info,"Dans ce mode, le multi-threading sera toujours utilisé pour calculer le terrain. Si votre ordinateur ne rencontre pas les requis minimaux, vous pourriez rencontrer une multitude de comportements non souhaités."
+##mainmenu_options_graphics_fogofwar,Opacité du Brouillard de Guerre
+##mainmenu_options_graphics_fogofwar_info,Ajustez l'opacité du brouillard de guerre
+##mainmenu_options_graphics_canvasscale,Échelle de taille de l'IU
+##mainmenu_options_graphics_canvasscale_info,Ajuster l'échelle de taille de l'interface usager (IU)
+##mainmenu_options_graphics_ssao,Occlusion ambiante
+##mainmenu_options_graphics_ssao_info,Changez la qualité de l'effet d'ombres volumétriques.
+##mainmenu_options_graphics_ssao_high,Maximale
+##mainmenu_options_graphics_ssao_medium,Intermédiaire
+##mainmenu_options_graphics_ssao_low,Limitée
+##mainmenu_options_graphics_ssao_off,Désactivée
+##mainmenu_options_graphics_bloom,Flou lumineux
+##mainmenu_options_graphics_bloom_info,Activez l'effet de flou lumineux.
+##mainmenu_options_graphics_colorcorrection,Correction des couleurs
+##mainmenu_options_graphics_colorcorrection_info,Activez l'effet de balance des couleurs.
+##mainmenu_options_graphics_shadowquality,Ombres
+##mainmenu_options_graphics_shadowquality_info,Changez la qualité des contours d'ombres (les silhouettes demandent plus de performance).
+##mainmenu_options_graphics_shadowquality_all,Contours et silhouettes
+##mainmenu_options_graphics_shadowquality_hardonly,Contours seulement
+##mainmenu_options_graphics_shadowquality_disable,Désactivées
+##mainmenu_options_graphics_shadowresolution,Résolution des ombres
+##mainmenu_options_graphics_shadowresolution_info,Changez la résolution des ombres affichées dans le jeu s'il y a lieu.
+##mainmenu_options_graphics_shadowresolution_veryhigh,Très élevée
+##mainmenu_options_graphics_shadowresolution_high,Élevée
+##mainmenu_options_graphics_shadowresolution_medium,Intermédiaire
+##mainmenu_options_graphics_shadowresolution_low,Limitée
+,
+##mainmenu_options_audio,Audio
+##mainmenu_options_audio_info,Paramètres audio
+##mainmenu_options_audio_mastervolume,Volume maître
+##mainmenu_options_audio_mastervolume_info,Ajustez le volume de toute la musique et des sons
+##mainmenu_options_audio_muteallsounds,Couper tous les sons
+##mainmenu_options_audio_muteallsounds_info,Basculez la coupure de toute la musique et des sons
+##mainmenu_options_audio_userinterface,Interface Usager
+##mainmenu_options_audio_userinterface_info,Ajustez le volume de l'interface usager
+##mainmenu_options_audio_soundeffects,Effets Sonores
+##mainmenu_options_audio_soundeffects_info,Ajustez le volume des effets spéciaux
+##mainmenu_options_audio_voices,Voix
+##mainmenu_options_audio_voices_info,Ajustez le volume des voix
+##mainmenu_options_audio_environment,Environnement
+##mainmenu_options_audio_environment_info,Ajustez le volume des sons environnants
+##mainmenu_options_audio_music,Musique
+##mainmenu_options_audio_music_info,Ajustez le volume de la musique
+,
+##mainmenu_options_gameplay,Jouabilité
+##mainmenu_options_gameplay_info,Paramètres de jouabilité
+,
+##mainmenu_options_networkport,Port multijoueur
+##mainmenu_options_networkport_info,Assigner votre port multijoueur
+,
+##mainmenu_options_language,Langue
+##mainmenu_options_language_info,Choisissez votre langue
+##mainmenu_options_languages,Langues
+##mainmenu_options_language_ok,Ok
+##mainmenu_options_language_cancel,Annuler
+##mainmenu_options_language_english,Anglais
+##mainmenu_options_language_english_english,English
+##mainmenu_options_language_french,Français
+##mainmenu_options_language_french_english,French
+,
+##mainmenu_options_mouseinput,Souris
+##mainmenu_options_mouseinput_scrollfactor,Vitesse du curseur
+##mainmenu_options_mouseinput_scrollfactor_info,Ajustez le facteur de vitesse du curseur
+##mainmenu_options_mouseinput_invertscroll,Inverser le défilement du curseur
+##mainmenu_options_mouseinput_invertscroll_info,Basculez l'inversion du défilement du curseur
+##mainmenu_options_mouseinput_lockinside,Verrouillage du curseur à l'écran
+##mainmenu_options_mouseinput_lockinside_info,Verrouiller le curseur à l'intérieur de la fenêtre de jeu
+##mainmenu_options_mouseinput_edgenudge,Activer le contrôle de l'écran avec la souris
+##mainmenu_options_mouseinput_edgenudge_info,Basculez le contrôle de l'écran avec la souris
+,
+##mainmenu_options_keybindings,Contrôles
+##mainmenu_options_keybindings_info,Ajustez vos contrôles
+,
+##mainmenu_options_keybindings_command,Global
+##mainmenu_options_keybindings_command_info,Caméra et sélection
+##mainmenu_options_keybindings_taskpanel,Panneau de Tâches
+##mainmenu_options_keybindings_taskpanel_info,Sélectionner une tâche
+##mainmenu_options_keybindings_blocks,Blocs
+##mainmenu_options_keybindings_blocks_info,Sélectionner un bloc
+##mainmenu_options_keybindings_structures,Structures
+##mainmenu_options_keybindings_structures_info,Sélectionner un structure
+##mainmenu_options_keybindings_worldeditor,Éditeur de Monde
+##mainmenu_options_keybindings_worldeditor_info,Exclusif à l'éditeur de monde
+##mainmenu_options_keybindings_crafting,Artisanat
+##mainmenu_options_keybindings_crafting_info,Relié aux stations d'artisanat
+##mainmenu_options_keybindings_blueprint,Gestion de Plans
+##mainmenu_options_keybindings_blueprint_info,Mode gestion de plans
+##mainmenu_options_keybindings_taskselected,Tâche Sélectionnée
+##mainmenu_options_keybindings_taskselected_info,Actions génériques de tâches
+,
+##mainmenu_options_keybindings_primary,Primaire
+##mainmenu_options_keybindings_alternate,Alternatif
+##mainmenu_options_keybindings_moveforward,Avancer la Caméra
+##mainmenu_options_keybindings_movebackward,Reculer la Caméra
+##mainmenu_options_keybindings_moveleft,Bouger la Caméra vers la Gauche
+##mainmenu_options_keybindings_moveright,Bouger la Caméra vers la Droite
+##mainmenu_options_keybindings_rotateup,Rotation vers le Haut
+##mainmenu_options_keybindings_rotatedown,Rotation vers le Bas
+##mainmenu_options_keybindings_rotateleft,Rotation vers la Gauche
+##mainmenu_options_keybindings_rotateright,Rotation vers la Droite
+##mainmenu_options_keybindings_toggleautoground,Enchâsser Caméra au Sol
+##mainmenu_options_keybindings_zoomin,Zoom Avant
+##mainmenu_options_keybindings_zoomout,Zoom Arrière
+##mainmenu_options_keybindings_moveup,Monter la Caméra
+##mainmenu_options_keybindings_movedown,Descendre la Caméra
+##mainmenu_options_keybindings_mousemovement,Mouvement Libre de la Caméra
+##mainmenu_options_keybindings_mousealtaction,Action Alternative de la Souris 1
+##mainmenu_options_keybindings_mousesecondary,Action Alternative de la Souris 2
+##mainmenu_options_keybindings_displayoverheads,Afficher les Noms des Personnages
+##mainmenu_options_keybindings_togglebuildmode,Commuter le Mode Construction
+##mainmenu_options_keybindings_mouseaction1,Curseur Action 1
+##mainmenu_options_keybindings_mouseaction2,Curseur Action 2
+##mainmenu_options_keybindings_mouserotate,Rotation de la Caméra
+##mainmenu_options_keybindings_bricktronhold,Bricktron: Rester en Place
+##mainmenu_options_keybindings_bricktronstop,Stop
+##mainmenu_options_keybindings_bricktronstance,Changement de Tactique
+##mainmenu_options_keybindings_pause,Mettre sur Pause
+##mainmenu_options_keybindings_selectproject1,Sélection du Projet 1
+##mainmenu_options_keybindings_selectproject2,Sélection du Projet 2
+##mainmenu_options_keybindings_selectproject3,Sélection du Projet 3
+##mainmenu_options_keybindings_selectproject4,Sélection du Projet 4
+##mainmenu_options_keybindings_selectproject5,Sélection du Projet 5
+##mainmenu_options_keybindings_selectproject6,Sélection du Projet 6
+##mainmenu_options_keybindings_selectproject7,Sélection du Projet 7
+##mainmenu_options_keybindings_selectproject8,Sélection du Projet 8
+##mainmenu_options_keybindings_selectproject9,Sélection du Projet 9
+##mainmenu_options_keybindings_selectproject10,Sélection du Projet 10
+##mainmenu_options_keybindings_openchat,Ouvrir le Clavardier
+##mainmenu_options_keybindings_createproject,Nouvelle Tâche
+##mainmenu_options_keybindings_createharvest,Tâche de Récolte
+##mainmenu_options_keybindings_createharvestwood,Tâche de Récolte de Bois
+##mainmenu_options_keybindings_createharvestboulder,Tâche de Récolte de Pierre
+##mainmenu_options_keybindings_createharvestiron,Tâche de Récolte de Fer
+##mainmenu_options_keybindings_createharvestbrimstone,Tâche de Récolte de Soufre
+##mainmenu_options_keybindings_createharvestplant,Tâche de Récolte de Plante
+##mainmenu_options_keybindings_createcleaning,Tâche de Ménage
+##mainmenu_options_keybindings_createquarry,Tâche de Carrière
+##mainmenu_options_keybindings_createrepair,Tâche de Réparation
+##mainmenu_options_keybindings_createbuild,Tâche de Construction
+##mainmenu_options_keybindings_createlandscape,Tâche d'Aplanissement
+##mainmenu_options_keybindings_createtunnel,Tâche de Tunnel
+##mainmenu_options_keybindings_raisepriority,Augmenter Priorité de Tâche
+##mainmenu_options_keybindings_lowerpriority,Baisser Priorité de Tâche
+,
+##mainmenu_options_keybindings_openblueprints,Ouvrir Gestion des Plans
+##mainmenu_options_keybindings_taskactionslot1,Tâche Action 1
+##mainmenu_options_keybindings_taskactionslot2,Tâche Action 2
+##mainmenu_options_keybindings_taskactionslot3,Tâche Action 3
+##mainmenu_options_keybindings_taskactionslot4,Tâche Action 4
+##mainmenu_options_keybindings_taskactionslot5,Tâche Action 5
+##mainmenu_options_keybindings_taskactionslot6,Tâche Action 6
+##mainmenu_options_keybindings_deletetask,Supprimer Tâche
+##mainmenu_options_keybindings_queueslot1,Station d'Artisanat Recette 1
+##mainmenu_options_keybindings_queueslot2,Station d'Artisanat Recette 2
+##mainmenu_options_keybindings_queueslot3,Station d'Artisanat Recette 3
+##mainmenu_options_keybindings_queueslot4,Station d'Artisanat Recette 4
+##mainmenu_options_keybindings_queueslot5,Station d'Artisanat Recette 5
+##mainmenu_options_keybindings_toggleloop,Fabrication en Boucle
+##mainmenu_options_keybindings_clearqueue,Vider la File
+,
+##mainmenu_options_keybindings_blueprints_duplicate,Dupliquer Plans Sélectionnés
+##mainmenu_options_keybindings_blueprints_delete,Supprimer Plans Sélectionnés
+##mainmenu_options_keybindings_blueprints_expand,Expanser Plans Sélectionnés
+##mainmenu_options_keybindings_blueprints_clear,Enlever Plans Sélectionnés
+,
+##mainmenu_options_keybindings_calltoarms,Aux Armes!
+##mainmenu_options_keybindings_backtowork,Retour au Travail
+##mainmenu_options_keybindings_buildstructures,Bâtir des Structures
+##mainmenu_options_keybindings_stockpile,Sélectionner Palette
+##mainmenu_options_keybindings_weaponrack,Sélectionner Râtelier
+##mainmenu_options_keybindings_workbench,Sélectionner Établi
+##mainmenu_options_keybindings_loom,Sélectionner Métier à Tisser
+##mainmenu_options_keybindings_choppingblock,Sélectionner Bloc de Coupe
+##mainmenu_options_keybindings_forge,Sélectionner Forge
+##mainmenu_options_keybindings_machineshop,Sélectionner Manufacture
+##mainmenu_options_keybindings_altar,Sélectionner Autel
+##mainmenu_options_keybindings_laboratory,Sélectionner Laboratoire
+##mainmenu_options_keybindings_ropebridge,Sélectionner Pont de Corde
+##mainmenu_options_keybindings_furnace,Sélectionner Fournaise
+##mainmenu_options_keybindings_catapult,Sélectionner Catapulte
+##mainmenu_options_keybindings_door,Sélectionner Porte
+##mainmenu_options_keybindings_pylonward,Sélectionner Balise de Relais
+##mainmenu_options_keybindings_sentinelward,Sélectionner Balise Sentinelle
+##mainmenu_options_keybindings_healingward,Sélectionner Balise de Guérison
+##mainmenu_options_keybindings_captureward,Sélectionner Balise de Capture
+##mainmenu_options_keybindings_lanternward,Sélectionner Balise Lanterne
+##mainmenu_options_keybindings_explosivebarrel,Sélectionner Baril Explosif
+##mainmenu_options_keybindings_beartrap,Sélectionner Piège à Ours
+##mainmenu_options_keybindings_buildblocks,Bâtir des Blocs
+##mainmenu_options_keybindings_doublebrick,Sélectionner Brique Double
+##mainmenu_options_keybindings_stairbrick,Sélectionner Escaliers
+##mainmenu_options_keybindings_halfstair,Sélectionner Demi-Escaliers
+##mainmenu_options_keybindings_stairspiralleft,Sélectionner Escaliers
+##mainmenu_options_keybindings_stairspiralright,Sélectionner Escaliers en Spirale (droite)
+##mainmenu_options_keybindings_staircornerleft,Sélectionner Escaliers en Spirale (gauche)
+##mainmenu_options_keybindings_staircornerright,Sélectionner Escaliers en Coin (droite)
+##mainmenu_options_keybindings_staircornersimple,Sélectionner Escaliers en Coin (gauche)
+##mainmenu_options_keybindings_plugbrick,Sélectionner Mortaise
+##mainmenu_options_keybindings_plugh,Sélectionner Mortaise en H
+##mainmenu_options_keybindings_plugl,Sélectionner Mortaise en L
+##mainmenu_options_keybindings_plugt,Sélectionner Mortaise en T
+##mainmenu_options_keybindings_plugx,Sélectionner Mortaise en X
+##mainmenu_options_keybindings_archbrick,Sélectionner Arche
+##mainmenu_options_keybindings_pillar,Sélectionner Pilier
+##mainmenu_options_keybindings_roundbrick,Sélectionner Brique Ronde
+##mainmenu_options_keybindings_roundright,Sélectionner Brique Ronde (droite)
+##mainmenu_options_keybindings_roundleft,Sélectionner Brique Ronde (gauche)
+##mainmenu_options_keybindings_roundhalf,Sélectionner Demie-Brique Ronde
+##mainmenu_options_keybindings_parapet,Sélectionner Parapet
+##mainmenu_options_keybindings_parapet2,Sélectionner Parapet2
+##mainmenu_options_keybindings_parapet3,Sélectionner Parapet3
+##mainmenu_options_keybindings_halfbrick,Sélectionner Demie-Brique
+##mainmenu_options_keybindings_plank,Sélectionner Planche
+##mainmenu_options_keybindings_corbel,Sélectionner Corbel
+##mainmenu_options_keybindings_corbel2,Sélectionner Corbel2
+##mainmenu_options_keybindings_woodenramp,Sélectionner Rampe
+##mainmenu_options_keybindings_log,Sélectionner Billot
+##mainmenu_options_keybindings_brace,Sélectionner Équerre
+##mainmenu_options_keybindings_rampjunction,Sélectionner Jonction
+##mainmenu_options_keybindings_woodcolumn,Sélectionner Colonne
+##mainmenu_options_keybindings_woodbeam,Sélectionner Poutre
+##mainmenu_options_keybindings_merlon,Sélectionner Merlon
+##mainmenu_options_keybindings_merlondouble,Sélectionner Merlon Double
+##mainmenu_options_keybindings_merloncorner,Sélectionner Merlon Convexe
+##mainmenu_options_keybindings_merlonconcave,Sélectionner Merlon Concave
+,
+##mainmenu_options_keybindings_terrain_menutoggle,Commuter menu de terrain
+##mainmenu_options_keybindings_markers_menutoggle,Commuter menu de marqueurs
+##mainmenu_options_keybindings_time_menutoggle,Commuter menu de temps
+##mainmenu_options_keybindings_map_menutoggle,Commuter menu de carte
+##mainmenu_options_keybindings_grid_menutoggle,Commuter menu de grille
+##mainmenu_options_keybindings_modes_menutoggle,Commuter menu des modes
+##mainmenu_options_keybindings_saves_menutoggle,Commuter menu de sauvegarde
+##mainmenu_options_keybindings_workshop_menutoggle,Commuter menu workshop
+##mainmenu_options_keybindings_letters_menutoggle,Commuter menu des lettres
+##mainmenu_options_keybindings_grid_toggle,Commuter grille
+,
+##mainmenu_options_keybindings_tool_underside,Outil à sous-sol
+##mainmenu_options_keybindings_tool_create,Outil à création d'ile
+##mainmenu_options_keybindings_tool_raise,Outil à élévation
+##mainmenu_options_keybindings_tool_flatten,Outil à aplanir
+##mainmenu_options_keybindings_tool_smooth,Outil à adoucissement
+##mainmenu_options_keybindings_tool_grass,Outil à gazon
+##mainmenu_options_keybindings_tool_tree,Outil à arbres
+##mainmenu_options_keybindings_tool_plant,Outil à plantes
+##mainmenu_options_keybindings_tool_boulder,Outil à rochers
+##mainmenu_options_keybindings_tool_iron,Outil à fer
+##mainmenu_options_keybindings_tool_brimstone,Outil à soufre
+,
+##mainmenu_options_keybindings_tool_player,Outil à joueur
+##mainmenu_options_keybindings_tool_enemy,Outil à ennemi
+##mainmenu_options_keybindings_tool_crystal,Outil à cristal
+,
+##mainmenu_options_key_space,Espace
+##mainmenu_options_key_leftshift,Shift gauche
+##mainmenu_options_key_rightshift,Shift droite
+##mainmenu_options_key_leftalt,Alt gauche
+##mainmenu_options_key_rightalt,Alt droite
+##mainmenu_options_key_leftctrl,Ctrl gauche
+##mainmenu_options_key_rightctrl,Ctrl droite
+##mainmenu_options_key_leftarrow,Flèche gauche
+##mainmenu_options_key_rightarrow,Flèche droite
+##mainmenu_options_key_uparrow,Flèche haut
+##mainmenu_options_key_downarrow,Flèche bas
+##mainmenu_options_key_delete,Retour arrière
+##mainmenu_options_key_insert,Inser
+##mainmenu_options_key_home,Accueil
+##mainmenu_options_key_end,Fin
+##mainmenu_options_key_mwu,Molette de la souris: Haut
+##mainmenu_options_key_mwd,Molette de la souris: Bas
+##mainmenu_options_key_mw,Molette de la souris
+##mainmenu_options_key_lmb,Touche gauche de la souris
+##mainmenu_options_key_rmb,Touche droite de la souris
+##mainmenu_options_key_mmb,Touche du milieu de la souris
+##mainmenu_options_key_xxxmb,Touche #xxx de la souris
+,
+##mainmenu_options_assignkeybind,Assignation d'une nouvelle touche
+##mainmenu_options_assignkeybind_message,Appuyez sur une touche pour l'assigner ou appuyez sur #xxx pour désassigner.
+##mainmenu_options_assignkeybind_conflict,Conflit
+##mainmenu_options_assignkeybind_unbindwarning,Appuyer sur Ok va désassigner les touches en conflit.
+##mainmenu_options_assignkeybind_ok,Ok
+##mainmenu_options_assignkeybind_cancel,Annuler
+##mainmenu_options_assignkeybind_none,Aucune
+,
+##mainmenu_options_revert,Réinitialiser
+##mainmenu_options_revert_message,Êtes-vous certain de vouloir vous débarasser de toutes vos configurations personalisées?
+##mainmenu_options_revert_message_ok,Oui - Réinitialiser aux configurations d'origine
+##mainmenu_options_revert_message_cancel,Non - Annuler
+,
+##mainmenu_options_unsaved,Changements non sauvegardés
+##mainmenu_options_unsaved_message,Vous vous apprêtez à quitter.\nDésirez-vous sauvegarder vos changements?
+##mainmenu_options_unsaved_apply,"Oui, appliquer."
+##mainmenu_options_unsaved_discard,"Non, renoncer."
+##mainmenu_options_unsaved_cancel,Décidez plus tard - De retour vers le menu d'options
+,
+##mainmenu_options_enabled,Activé
+##mainmenu_options_disabled,Désactivé
+,
+##mainmenu_ok,Ok
+##mainmenu_cancel,Annuler
+,
+##mainmenu_exit,Quitter
+##mainmenu_exit_message,Êtes-vous sûr de vouloir quitter?
+##mainmenu_exit_confirmexit,Quitter
+##mainmenu_exit_cancelexit,Annuler
+,
+##mainmenu_wiki,Wiki
+##mainmenu_home,Accueil
+##mainmenu_news,Nouvelles
+,
+LOADING,
+##loading_title_waitingplayers,En attente des autres joueurs
+##loading_title_waitinghost,En attente de l'hôte
+##loading_title_step1,Initialisation des scripts
+##loading_title_step2,Formation du terrain
+##loading_title_step3,Génération des arbres
+##loading_title_step4,Génération des cristaux
+##loading_title_step5,Entrée dans le monde...
+##loading_title_error,Erreur
+##loading_title_tips,Trucs et Astuces
+##loading_title_warning,Avertissement
+##loading,Chargement
+##loading_abort_message,":( Un problème s'est produit pendant le chargement. Si cette situation vous arrive régulièrement, contactez-nous sur support.castlestory.net"
+##loading_ok,Ok
+##loading_abort,Arrêter
+##loading_cancel,Annuler
+##loading_back,Retour au menu principal
+,
+GAME MENU,
+##gamemenu,Menu
+##gamemenu_help,Aide
+##gamemenu_return,Retour à la partie
+##gamemenu_savegame,Sauvegarder la partie
+##gamemenu_savegame_info,Sauvegarder votre progrès
+##gamemenu_savegame_newsave,Nouvelle sauvegarde
+##gamemenu_savegame_similar,Similaire
+##gamemenu_savegame_other,Autre
+##gamemenu_savegame_preview,Prévisualisation
+##gamemenu_savegame_fromcamera,À Partir de la Caméra
+##gamemenu_savegame_fromsave,À Partir de la Sauvegarde
+##gamemenu_savegame_save,Sauvegarder
+##gamemenu_savegame_overwrite,Sauvegarder (Écraser)
+##gamemenu_savegame_untitled_filename,SansNom
+##gamemenu_savegame_failure,Sauvegarde Échouée
+##gamemenu_savegame_failure_message,La sauvegarde a échouée. Réessaye donc pour voir.
+##gamemenu_savegame_failure_ok,Ah ok.
+##gamemenu_savegame_name,Nom
+##gamemenu_savegame_name_info,Assigner un nom à votre sauvegarde
+,
+##gamemenu_cancel,Annuler
+##gamemenu_quit,Quitter
+##gamemenu_quit_info,Retourner au menu principal
+##gamemenu_quit_game,Quitter la partie
+##gamemenu_quit_message,"Êtes-vous sûr de vouloir quitter la partie en cours?
+<color=red>Tous les changements non-sauvegardés seront perdus.</color>"
+##gamemenu_quit_exitdesktop,Quitter l'application
+##gamemenu_quit_leavegame,Quitter la partie
+,
+##gamemenu_score,Score
+##gamemenu_home,Menu
+##gamemenu_paused,Jeu en Pause
+##gamemenu_paused_text,Appuyez sur P pour revenir au jeu
+,
+,
+HELP POPUPS,
+##gamemenu_help_popup_intro,Premiers Pas
+##gamemenu_help_popup_intro_text,"Les <color=#ffc50a>Bulles d'Aide</color> suivantes vous enseignerons les premières étapes du jeu. \n
+Lorsque vous complétez les instructions dans une bulle d'aide, le <color=#ffc50a>bouton suivant</color> sera activé et vous pourrez ouvrir la prochaine. \n"
+##gamemenu_help_popup_intro_tooltip,<color=#ffc50a>Ceci est votre Cristal Principal</color>
+##gamemenu_help_popup_movecamera,Bouger la Caméra
+##gamemenu_help_popup_movecamera_text,"- Utilisez les touches <color=#ffc50a>W, A, S et D</color> pour bouger la caméra."
+##gamemenu_help_popup_rotatecamera,Tourner la Caméra
+##gamemenu_help_popup_rotatecamera_text,"- Tenez enfoncé le <color=#ffc50a>Bouton du Milieu de la Souris</color> pour tourner la caméra sur n'importe que axe. \n
+- Vous pouvez aussi utiliser les touches <color=#ffc50a>Q, E, PgUp et PgDn</color> pour tourner la caméra."
+##gamemenu_help_popup_homecrystal,Cristal Principal
+##gamemenu_help_popup_homecrystal_text,
+##gamemenu_help_popup_homecrystal_tooltip,Ceci est votre <color=#ffc50a>Cristal Principal</color>. Protégez-le à tout prix!
+##gamemenu_help_popup_harvestwood,Récolter du Bois
+##gamemenu_help_popup_harvestwood_text,"- Cliquez sur la <color=#ffc50a>Pioche</color> dans le coin en bas à gauche de votre écran. \n
+- Sélectionnez la <color=#ffc50a>Tâche de Récolte de Bois</color>. \n
+- Placez-la sur des arbres. \n
+- Cliquez sur le <color=#00ff15>crochet vert</color> dans le coin en bas à gauche de votre écran, ou appuyez sur <color=#ffc50a>""Tab""</color> pour confirmer. \n
+Vos Bricktrons vont automatiquement commencer leur collecte de bois!"
+##gamemenu_help_popup_makechoppingblock,Faire des Planches
+##gamemenu_help_popup_makechoppingblock_text,"- Sélectionnez <color=#ffc50a>Structures</color>. \n
+- Dans la section <color=#ffc50a>Production</color>, sélectionnez le <color=#ffc50a>Bloc de Coupe</color>. \n
+- Placez-le par terre. \n
+Vous pouvez <color=#ffc50a>effacer vos plans</color> en faisant <color=#ffc50a>ctrl + clic</color> sur le plan en mode ""edition"". \n
+- Cliquez sur le <color=#00ff15>crochet vert</color> dans le coin en bas à gauche de votre écran, ou appuyez sur <color=#ffc50a>""Tab""</color> pour confirmer. \n
+Vos Bricktrons vont commencer à ramener du bois au bloc pour en faire des <color=#ffc50a>planches</color>."
+##gamemenu_help_popup_buildstockpiles,Construire des Palettes
+##gamemenu_help_popup_buildstockpiles_text,"- Sélectionnez <color=#ffc50a>Structures</color>. \n
+- Dans la section <color=#ffc50a>Storage</color>, sélectionnez la <color=#ffc50a>Palette</color>. \n
+- Placez-en plusieurs par terre. \n
+Vous pouvez <color=#ffc50a>effacer vos plans</color> en faisant <color=#ffc50a>ctrl + clic</color> sur le plan en mode construction. \n
+- Cliquez sur le <color=#00ff15>crochet vert</color> dans le coin en bas à gauche de votre écran, ou appuyez sur <color=#ffc50a>""Tab""</color> pour confirmer. \n
+Si vos Bricktrons refusent de travailler, c'est souvent parce que vous n'avez pas de palettes libres."
+##gamemenu_help_popup_harveststone,Creuser une Carrière
+##gamemenu_help_popup_harveststone_text,"- Cliquez sur la <color=#ffc50a>Pioche</color> dans le coin en bas à gauche de votre écran. \n
+- Sélectionnez la <color=#ffc50a>Tâche D'Excavation</color>. \n
+- Placez-la sur le <color=##fc50a>sol</color>. \n
+- Cliquez sur le <color=#00ff15>crochet vert</color> dans le coin en bas à gauche de votre écran, ou appuyez sur <color=#ffc50a>""Tab""</color> pour confirmer. \n
+Lorsqu'une palette est remplie de garnotte, cette garnotte va se transformer en <color=#ffc50a>4 blocs de pierre</color>."
+##gamemenu_help_popup_buildtips,Astuces de Construction
+##gamemenu_help_popup_buildtips_text,"Voici quelques astuces de construction. \n
+Vous pouvez <color=#ffc50a>tourner vos blocs</color> avant de les placer en appuyant sur <color=#ffc50a>Clic-Droit</color>. \n
+Vous pouvez <color=#ffc50a>effacer vos plans</color> en faisant <color=#ffc50a>ctrl + clic</color> sur le plan en mode ""edition"". \n
+Vous pouvez demander à vos Bricktrons de <color=#ffc50a>détruire une construction</color> en faisant <color=#ffc50a>ctrl + clic</color> quand vous êtes dans une Tâche de Construction. \n
+Vous pouvez <color=#ffc50a>dupliquer, bouger et manipuler les plans</color> en utilisant les outils de planification sous l'onglet ""Plans"" au milieu à gauche de votre écran lorsque vous êtes dans une Tâche de Construction."
+##gamemenu_help_popup_buildfurnace,Bâtir une Fournaise
+##gamemenu_help_popup_buildfurnace_text,"- Sélectionnez <color=#ffc50a>Structures</color>. \n
+- Sélectionnez la <color=#ffc50a>Fournaise</color>. \n
+- Placez-en une en cliquant sur le sol. \n
+Vous pouvez <color=#ffc50a>tourner vos blocs</color> avant de les placer en appuyant sur <color=#ffc50a>Clic-Droit</color>. \n
+- Cliquez sur le <color=#00ff15>crochet vert</color> dans le coin en bas à gauche de votre écran, ou appuyez sur <color=#ffc50a>""Tab""</color> pour confirmer. \n
+Vous pouvez maintenant transformer votre soufre et votre fer en lingots de fer."
+##gamemenu_help_popup_harvestbrimstoneiron,Obtenir du Fer et du Soufre
+##gamemenu_help_popup_harvestbrimstoneiron_text,"Le Fer et le Soufre sont nécéssaires pour produire des lingots de fer, ceux-ci étant utilisés dans la fabrication de balises et d'autres structures. \n
+Vous devez récolter du fer ET du Soufre. \n
+- Cliquez sur le <color=#ffc50a>Pioche</color> dans le coin en bas à gauche de votre écran. \n
+- Sélectionnez la <color=#ffc50a>Tâche de Récolte de Fer ou celle de Soufre</color>. \n
+- Placez-la sur une veine de fer ou de soufre. \n
+- <color=#00ff15>Confirmez</color>. \n
+Vous devez ramasser les <color=#ffc50a>deux ressources.</color> \n
+<b>Assurez-vous d'avoir assez de palettes vides! </b>"
+##gamemenu_help_popup_buildworkbench,Construire un Établi
+##gamemenu_help_popup_buildworkbench_text,"- Assurez-vous d'avoir des planches dans une palette. \n
+- Sélectionnez <color=#ffc50a>Structures</color>. \n
+- Dans la section <color=#ffc50a>Crafting</color>, sélectionnez L'<color=#ffc50a>Établi</color>. \n
+- Placez-le par terre. \n
+- <color=#00ff15>Confirmez</color>. \n
+L'Établi vous permettra de fabriquer des kits d'archer et d'hallebardier."
+##gamemenu_help_popup_queueironingots,Obtenir des Lingots de Fer
+##gamemenu_help_popup_queueironingots_text,"- Sélectionnez la <color=#ffc50a>Fournaise</color>. \n
+- Une fenêtre contextuelle s'ouvrira en bas de votre écran. \n
+- <color=#ffc50a>Cliquez sur le Lingot de Fer.</color> \n
+- Vous pouvez ajouter plusieurs lingots à la file de production. \n
+<color=#ffc50a>Assurez-vous d'avoir des palettes vides pour entreposer vos lingots.</color>"
+##gamemenu_help_popup_buildweaponrack,Construire un Râtelier
+##gamemenu_help_popup_buildweaponrack_text,"- Assurez-vous d'avoir des planches dans une palette. \n
+- Sélectionnez <color=#ffc50a>Structures</color>. \n
+- Dans la section Storage, sélectionnez le <color=#ffc50a>Râtelier</color>. \n
+- Placez-le par terre. \n
+- <color=#00ff15>Confirmez</color>. \n
+Vos Bricktrons entreposeront l'équipement militaire que vous fabriquez dans ces râteliers pour usage ultérieur."
+##gamemenu_help_popup_queuehalberdier,Fabriquer un Kit D'Hallebardier
+##gamemenu_help_popup_queuehalberdier_text,"- <color=#ffc50a>Sélectionnez L'Établi.</color> \n
+- Au bas de votre écran, avec la fenêtre contextuelle de l'établi, vous pouvez sélectionner ce que vous désirez produire. \n
+- <color=#ffc50a>Cliquez sur le le Kit d'Hallebardier.</color> pour commencer la production \n
+- Vous pouvez ajouter plusieurs kits à la file de production en cliquant sur l'icône plusieurs fois. \n
+<color=#ffc50a>Assurez vous d'avoir un râtelier vide pour entreposer vos kits.</color> \n
+Les râteliers peuvent entreposer jusqu'à <color=#ffc50a>4 kits de la même sorte par râtelier</color>."
+##gamemenu_help_popup_equiphalberdier,Équiper un Hallebardier
+##gamemenu_help_popup_equiphalberdier_text,"- Sélectionnez un <color=#ffc50a>Bricktron</color>. \n
+- Faites <color=#ffc50a>Clic-Droit</color> sur le <color=#ffc50a>râtelier contenant un kit d'hallebardier</color>. \n
+Pour le déséquiper, faites Clic-Droit à nouveau sur un râtelier."
+##gamemenu_help_popup_craftlantern,Fabriquer une Lanterne
+##gamemenu_help_popup_craftlantern_text,"Le monde de Castle Story a un <color=#ffc50a>cycle circadien</color>. \n
+Heureusement, vous pouvez fabriquer des <color=#ffc50a>Lanternes</color> pour augmenter votre visibilité. \n
+- Sélectionnez l'<color=#ffc50a>Établi</color> et ouvrez le menu contextuel. \n
+- Choisissez la <color=#ffc50a>Lanterne</color>. \n
+La lanterne requiert un lingot et du soufre pour être fabriquée."
+##gamemenu_help_popup_placelantern,Placer une Lanterne
+##gamemenu_help_popup_placelantern_text,
+##gamemenu_help_popup_buildingwall,Construire un Mur
+##gamemenu_help_popup_buildingwall_text,"- Sélectionnez l'onglet <color=#ffc50a>Blocs de Pierre</color>. \n
+- Sélectionnez la <color=#ffc50a>Brique</color>. \n
+Vous pouvez placez ces blocs les uns par dessus les autres pour faire un mur! N'hésitez pas à utiliser les autres blocs pour bâtir des structures plus complexes.."
+##gamemenu_help_popup_buildingwall_tooltip,
+##gamemenu_help_popup_plantsloom,Métier à Tisser et Fibre Végétale
+##gamemenu_help_popup_plantsloom_text,"Le métier à tisser vous permettra de transformer de la fibre végétale en corde ou en textile, utile dans la confection d'équipement militaire.
+- Placez une <color=#ffc50a>Tâche de Récolte</color> sur des plantes et <color=#00ff15>confirmez</color>. \n
+<color=#ffc50a>Assurez-vous d'avoir des palettes vides pour entreposer vos plantes.</color> \n
+- Placez le <color=#ffc50a>Métier à Tisser</color> sur le sol et <color=#00ff15>confirmez</color>. Vous le trouverez dans l'onglet Structures dans la section Production.
+"
+##gamemenu_help_popup_fabricrope,Faire de la Corde et du Textile
+##gamemenu_help_popup_fabricrope_text,"Maintenant que vous avez de la fibre végétale, vous pouvez entreprendre la confection de corde et de textile. \n
+- Sélectionnez le Métier à Tisser. \n
+- Au bas de votre écran, avec la fenêtre contextuelle de l'établi, vous pouvez sélectionner ce que vous désirez produire. \n
+- Cliquez sur la <color=#ffc50a>Corde</color> pour produire un ballot de corde. \n
+Après avoir obtenu de la corde, sélectionnez le métier à tisser et cliquez sur le <color=#ffc50a>Textile</color> pour produire un rouleau de textile. \n
+<color=#ffc50a>Assurez-vous d'avoir des palettes vides pour entreposer votre corde et votre textile.</color>"
+##gamemenu_help_popup_queuearcher,Fabriquer un Kit D'Archer
+##gamemenu_help_popup_queuearcher_text,"- <color=#ffc50a>Sélectionnez L'Établi.</color> \n
+- Au bas de votre écran, avec la fenêtre contextuelle de l'établi, vous pouvez sélectionner ce que vous désirez produire. \n
+- <color=#ffc50a>Cliquez sur le le Kit d'Archer.</color> pour commencer la production \n
+- Vous pouvez ajouter plusieurs kits à la file de production en cliquant sur l'icone plusieurs fois. \n
+<color=#ffc50a>Assurez vous d'avoir un râtelier vide pour entreposer vos kits.</color> \n
+Les râteliers peuvent entreposer jusqu'à <color=#ffc50a>4 kits de la même sorte par râtelier</color>."
+##gamemenu_help_popup_equiparcher,Équiper un Archer
+##gamemenu_help_popup_equiparcher_text,"- Sélectionnez un <color=#ffc50a>Bricktron</color>. \n
+- Faites <color=#ffc50a>Clic-Droit</color> sur le <color=#ffc50a>râtelier contenant un kit d'archer</color>. \n
+Pour le déséquiper, faites Clic-Droit à nouveau sur un râtelier qui contient moins de 3 kits d'archer!"
+##gamemenu_help_popup_spawnbricktron,Invoquer un Bricktron
+##gamemenu_help_popup_spawnbricktron_text,"Pour invoquer des Bricktrons supplémentaires, vous devez accumuler des <color=#ffc50a>Feux-Follets</color>. Vous pouvez voir votre quantité totale de feux-follets sur le panneau en bas à gauche de l'écran. \n
+Lorsque cette barre est pleine, vous verrez un <color=#ffc50a>Feu-Follet Jaune</color> apparaitre autour de votre cristal principal. \n
+- Pour invoquer un Bricktron, <color=#ffc50a>Cliquez</color> sur <color=#ffc50a>l'icône du Bricktron</color> à côté de la barre de progression. \n"
+##gamemenu_help_popup_outro,Pour en savoir plus
+##gamemenu_help_popup_outro_text,"Si vous avez besoin de plus d'aide, jetez un coup d'oeil sur le menu d'aide en cliquant sur le point d'interrogation en haut à droite de votre écran. \n
+Vous pouvez aussi visiter le Wiki officiel de Castle Story sur <color=#ffc50a>http://wiki.castlestory.net</color> \n
+Vous pouvez trouver d'autres joueurs avec qui parler ou jouer sur le Discord officiel de Castle Story au <color=#ffc50a>http://castlestory.net/Discord</color>"
+##gamemenu_help_popup_nextsection,La Suite
+##gamemenu_help_popup_nextsection_text,"La prochaine section vous expliquera comment obtenir d'autres unités militaires et discutera de mécaniques plus avancées. \n
+<color=#ffc50a>Vous pouvez terminer ce tutoriel à n'importe quel moment dans le menu d'options (F10)</color>."
+##gamemenu_help_popup_startinvasion,Testez votre Force
+##gamemenu_help_popup_startinvasion_text,"Vous êtes maintenant libres de continuer à explorer le jeu. \n
+Vous voulez mettre vos Bricktrons à l'épreuve? Appuyez sur le <color=#ffc50a>bouton Vague de Corruptrons</color> sur le <color=#ffc50a>côté gauche de votre écran</color>. \n
+Une vague de Corruptron tentera d'attaquer votre Cristal. \n
+À combien de vagues pourrez vous résister?"
+,
+##gamemenu_help_popup_buildmorestockpiles,<color=#ff0064><size=12>Construisez plus de palettes!</size></color> Requis pour continuer à récolter des ressources.
+##gamemenu_help_popup_toomanytasks,<color=#ff0064><size=12>Vos Bricktrons ont trop de tâches!</size></color> Supprimez-en pour en créer des nouvelles.
+##gamemenu_help_popup_next,Continuer
+##gamemenu_help_popup_todisable,"<i>Pour désactiver ces astuces, allez dans les options générales en appuyant sur F10</i>"
+,
+Insert new tutorial sidebar strings below,
+##help_sidebar_welcometocastlestory_title,Guide du débutant
+##help_sidebar_welcometocastlestory_text1,Bienvenue sur Castle Story!
+##help_sidebar_welcometocastlestory_text2,"Avec ce tutoriel, nous allons vous enseigner les bases pour jouer au jeu.\n\nCastle Story est un jeu complexe, nous vous recommandons de suivre ce tutoriel dans son intégralité avant d'aller plus en profondeur dans les autres modes de jeu. \n<color=#ffc50a><b>Commençons!</b></color> \n"
+##help_sidebar_welcometocastlestory_text3,"<color=#ffc50a>Astuce:</color> Si vous ne voulez pas voir ce tutoriel, ouvrez le menu principal et désactivez le tutoriel dans <color=#ffc50a>options / général > désactiver tutoriel. </color>"
+##help_sidebar_welcometocastlestory_button,Continuer
+##help_sidebar_welcometocastlestory_tooltip_title,<size=10>Cristal Principal</size>
+##help_sidebar_welcometocastlestory_tooltip_text,Ceci est votre Cristal Principal. Défendez-le à tout prix!
+##help_sidebar_meetthebricktrons_title,Les Bases
+##help_sidebar_meetthebricktrons_text1,Rencontrez les Bricktrons!
+##help_sidebar_meetthebricktrons_text2,Les Bricktrons
+##help_sidebar_meetthebricktrons_text3,Les <color=#ffc50a>Bricktrons</color> sont de petites créatures jaunes amicales qui vont suivre vos ordres. Vous pouvez leur donner des ordres directement ou placer des tâches que les Bricktrons vont choisir de faire par eux-mêmes. 
+##help_sidebar_meetthebricktrons_text4,Votre Cristal Principal
+##help_sidebar_meetthebricktrons_text5,Le <color=#ffc50a>Cristal Principal</color> est le coeur de votre civilisation. Vous devez le défendre à tout prix contre les créatures en maraudage ou des villages bricktron ennemis. \n\nLe Cristal Principal est aussi <color=#ffc50a> votre source d'énergie</color> et aussi <color=#ffc50a>le seul endroit où vous pouvez obtenir plus de Bricktrons.</color>
+##help_sidebar_meetthebricktrons_button,Continuer
+##help_sidebar_controllingthecamera_title,Les Bases
+##help_sidebar_controllingthecamera_text1,Contrôler la caméra
+##help_sidebar_controllingthecamera_text2,Bouger la caméra
+##help_sidebar_controllingthecamera_text3,Utilisez les touches <color=#ffc50a>#hotkeys</color> pour bouger la caméra à l'horizontale.
+##help_sidebar_controllingthecamera_text4,<color=#ffc50a>Astuce:</color> Vous pouvez activer le contrôle de l'écran avec la souris dans le menu option/jouabilité.
+##help_sidebar_controllingthecamera_text5,Rotation de la caméra
+##help_sidebar_controllingthecamera_text6,Utilisez les touches <color=#ffc50a>#hotkeys</color> ou le <color=#ffc50a>bouton du milieu de la souris</color> pour bouger la caméra autour du pivot.
+##help_sidebar_controllingthecamera_text7,Zoom avant et arrière
+##help_sidebar_controllingthecamera_text8,Utilisez les touches <color=#ffc50a>#hotkeys</color> ou la <color=#ffc50a> roulette de la souris</color> pour faire un zoom avant ou arrière avec la caméra.
+##help_sidebar_controllingthecamera_text9,Changer l'élévation
+##help_sidebar_controllingthecamera_text10,Utilisez <color=#ffc50a>Shift avec la molette de la souris</color> ou <color=#ffc50a>#hotkeys</color> pour changer l'élévation du pivot de la caméra.
+##help_sidebar_controllingthecamera_text11,<color=#ffc50a>Astuce:</color> Vous pouvez forcer <color=#ffc50a>l'ajustement automatique de la hauteur en appuyant sur #hotkeys</color>.
+##help_sidebar_controllingthecamera_button,Continuer
+##help_sidebar_issuingorders_title,Les Bases
+##help_sidebar_issuingorders_text1,Émettre des ordres
+##help_sidebar_issuingorders_text2,Sélectionner les Bricktrons
+##help_sidebar_issuingorders_text3,"Utilisez le <color=#ffc50a>bouton de gauche de la Souris</color> pour sélectionner un Bricktron.\n\nVous pouvez aussi <color=#ffc50a>cliquer, maintenir enfoncer et glisser</color> pour sélectionner plusieurs Bricktons à la fois."
+##help_sidebar_issuingorders_text4,"<color=#ffc50a>Astuce: En Double Cliquant</color> sur un Bricktron, tous ceux de la même classe vont être sélectionné (ex: travailleurs, archers, chevaliers, etc.)"
+##help_sidebar_issuingorders_text5,Donner des Ordres
+##help_sidebar_issuingorders_text6,"Avec un Brickton sélectionné, <color=#ffc50a>Clique Droit</color> sur le sol pour donner un <color=#ffc50a>Ordre de Bouger</color>.\n\nSi vous <color=#ffc50a>Control + Clique Droit</color> sur le sol, cela va émettre <color=#ffc50a>l'Ordre de Creuser</color>.\n\n<color=#ffc50a>Control + Clique Droit</color> sur des briques ou sur des structures va émettre <color=#ffc50a>l'Ordre de Détruire</color>."
+##help_sidebar_issuingorders_button,Continuer
+##help_sidebar_gatheringstuff_title,Ressources
+##help_sidebar_gatheringstuff_text1,Récolter des Ressources
+##help_sidebar_gatheringstuff_text2,"Dans Castle Story, vous récoltez des ressources en placant des tâches. Laissés à eux-mêmes, les Bricktrons vont choisir une tâche à exécuter basée sur la priorité, vous pouvez aussi les assigner vous-même à une tâche.\n\n<color=#ffc50a>Le bois est la première ressource que vous voulez récolter</color>."
+##help_sidebar_gatheringstuff_text3,Récolter du Bois
+##help_sidebar_gatheringstuff_text4,"<color=#ffc50a>Appuyez sur le bouton de Tâches</color> au centre à gauche de l'écran et choisissez la <color=#ffc50a>Tâche de Récolte de Bois</color>.\n\n<color=#ffc50a>Cliquez sur des arbres</color>. Vous devriez voir un cercle jaune apparaître, les arbres qui se trouvent dans le cercle sont alors sélectionnés.\n\n<color=#ffc50a>Cliquez sur Tab</color> ou sur le <color=#ffc50a>Crochet Vert</color> pour activer la tâche."
+##help_sidebar_gatheringstuff_text5,<color=#ffc50a>Astuce:</color> Vous pouvez <color=#ffc50a>changer le rayon</color> d'une tâche en cliquant+glisser le cercle jaune ou <color=#ffc50a>bouger la tâche</color> en glissant la poignée au centre de la zone affichée.
+##help_sidebar_gatheringstuff_button,Créez une tâche de récolte de bois pour continuer
+##help_sidebar_transformingrawresources_title,Ressources
+##help_sidebar_transformingrawresources_text1,Transformer les ressources brutes
+##help_sidebar_transformingrawresources_text2,"Vous avez maintenant plein de bûches, mais vos Bricktrons ne savent pas quoi en faire. \n\nAllons créer un <color=#ffc50a>Bloc de Coupe</color> pour les transformer en <color=#ffc50a>planches</color>!"
+##help_sidebar_transformingrawresources_text3,Créer un Bloc de Coupe
+##help_sidebar_transformingrawresources_text4,"<color=#ffc50a>Appuyez sur le bouton de Structure</color> au centre à gauche de l'écran et sélectionnez le <color=#ffc50a>Bloc de Coupe</color>.\n\n<color=#ffc50a>Cliquez sur le sol</color> pour placer votre structure. Vous devriez voir le Plan d'un Bloc de Coupe apparaître sur le sol.\n\n<color=#ffc50a>Appuyez sur Tab</color> ou le <color=#ffc50a>Crochet Vert</color> pour confirmer.\n\nL'un de vos Bricktrons devrait immédiatement prendre une bûche et la placer sur le plan, ce qui crée le Bloc de Coupe."
+##help_sidebar_transformingrawresources_button,Créez un bloc de coupe pour continuer
+##help_sidebar_stockpilingyourresources_title,Ressources
+##help_sidebar_stockpilingyourresources_text1,Entreposer Vos Ressources
+##help_sidebar_stockpilingyourresources_text2,La plupart des ressources ont besoin d'être entreposées afin que les Bricktrons puissent les utiliser.\n\nVous allez avoir besoin de<color=#ffc50a>beaucoup de palettes</color> pour parvenir à gérer votre village efficacement.
+##help_sidebar_stockpilingyourresources_text3,Création de palettes
+##help_sidebar_stockpilingyourresources_text4,<color=#ffc50a>Appuyez sur le bouton de Structure</color> et choississez  la <color=#ffc50a>Palette</color>.\n\n<color=#ffc50a>Placez quelques palettes</color> sur le sol.\n\n<color=#ffc50a>Appuyez sur Tab pour confirmer</color>.
+##help_sidebar_stockpilingyourresources_text5,<size=12><color=#ffc50a>Astuce:</color> Plusieurs blocs / structures peuvent être placer sur le sol simultanément en faisant <color=#ffc50a>clique+glisser</color>. Ceci est plus rapide que de les placer individuellement!</size>
+##help_sidebar_stockpilingyourresources_text6,Vous pouvez voir qu'une palette <color=#ffc50a>requiert 1 planche pour se faire constuire</color> et qu'elle peut <color=#ffc50a>contenir jusqu'à 12 planches</color>.
+##help_sidebar_stockpilingyourresources_button,Créez 6 Palettes pour continuer
+##help_sidebar_gatheringcraftingmaterials_title,Confection
+##help_sidebar_gatheringcraftingmaterials_text1,Récolter des matériaux de fabrication
+##help_sidebar_gatheringcraftingmaterials_text2,"Présentement, votre village est complètement sans défense. C'est un problème que nous devrions régler, vous ne croyez pas?\n\n<color=#ffc50a>Allons créer quelques armes!</color>\n\nPour ce faire, <color=#ffc50a>nous allons avoir besoin de métal.</color>"
+##help_sidebar_gatheringcraftingmaterials_text3,Récolte de Fer et de Soufre
+##help_sidebar_gatheringcraftingmaterials_text4,"Pour récolter du Fer brut, allez dans<color=#ffc50a> le menu de tâches</color>, trouvez la <color=#ffc50a>tâche de récolte de fer</color> et <color=#ffc50a>placez cette tâche sur une veine de fer près de vous</color>.\n\n<color=#ffc50a>Appuyez sur Tab</color> pour confirmer l'emplacement de la tâche.\n\nNous allons avoir besoin de faire fondre ce métal pour créer des lingots de fer. Le soufre est la ressource dont nous avons besoin.\n\nDans le <color=#ffc50a>menu de tâches</color>, cliquez sur la <color=#ffc50a>tâche de récolte de soufre</color> et <color=#ffc50a>placez-la sur une veine de soufre</color>."
+##help_sidebar_gatheringcraftingmaterials_button,Récoltez du Fer et du Soufre pour continuer
+##help_sidebar_thefurnace_title,Confection
+##help_sidebar_thefurnace_text1,La Fournaise
+##help_sidebar_thefurnace_text2,"Pour fondre du fer, vous avez besoin d'une <color=#ffc50a>Fournaise</color>. Les Fournaises nécessitent des blocs de pierre."
+##help_sidebar_thefurnace_text3,Récolter de la pierre
+##help_sidebar_thefurnace_text4,"Dans le <color=#ffc50a>menu de tâches</color>, cliquez sur  la <color=#ffc50a>Tâche de récolte de Pierre</color>, placez la tâche <color=#ffc50a>sur un tas de gros rochers</color>.\n\nVos Bricktrons devraient maintenant récolter toutes les ressources nécessaires pour construire une fournaise et produire des lingots de fer."
+##help_sidebar_thefurnace_text5,Construire une fournaise
+##help_sidebar_thefurnace_text6,"Dans le <color=#ffc50a>menu des Structures</color>, cliquez sur la <color=#ffc50a>Fournaise</color> et placez-la n'importe où sur le sol.\n\n<color=#ffc50a>Appuyez sur Tab</color> ou cliquez sur le <color=#ffc50a>Crochet Vert</color> pour confirmer."
+##help_sidebar_thefurnace_text7,<color=#ffc50a>Astuce: La fournaise nécéssite 4 blocs</color> pour pouvoir être construite. Assurez-vous d'en avoir assez!
+##help_sidebar_thefurnace_button,Construisez une fournaise pour continuer
+##help_sidebar_smeltingiron_title,Création
+##help_sidebar_smeltingiron_text1,La Fournaise
+##help_sidebar_smeltingiron_text2,Utiliser la fournaise
+##help_sidebar_smeltingiron_text3,"Une fois que votre fournaise est constuite, <color=#ffc50a>cliquez dessus</color>.\n\nAu bas de votre écran devrait apparraître le menu popup de la fournaise."
+##help_sidebar_smeltingiron_text4,Cliquez sur le lingot de fer pour pour l'ajouter à la file. Cliquez dessus 5 fois pour <color=#ffc50a>avoir 6 lingots de fer à la file</color>.
+##help_sidebar_smeltingiron_text5,"<color=#ffc50a>Astuce:</color> Vous pouvez <color=#ffc50a>cliquez sur le bouton de cycle</color> pour <color=#ffc50a>répéter la file de production actuelle continuellement</color>, ou jusqu'à ce que vous n'aillez plus de ressources ou que vos palettes soient pleines!"
+##help_sidebar_smeltingiron_button,Produisez 3 lingots de fer pour continuer
+##help_sidebar_smeltingiron_tooltip_title,Faire fondre des lingots de fer
+##help_sidebar_smeltingiron_tooltip_text,Utilisez la fournaise pour ajouter des lingots de fer à la file de production.
+##help_sidebar_workbenches_title,Création
+##help_sidebar_workbenches_text1,Établis
+##help_sidebar_workbenches_text2,"<color=#ffc50a>L'établi</color> est la station de travail de base, avec l'établi vous pouvez fabriquer des kits d'Hallebardier, des kits d'Archers et des lanternes.\n\nAllons fabriquer un kit d'Hallebardier!"
+##help_sidebar_workbenches_text3,Création d'un établi
+##help_sidebar_workbenches_text4,"Dans le <color=#ffc50a>menu de structures</color>, cliquez sur l'<color=#ffc50a>établi</color> et placez le <color=#ffc50a>n'importe où sur le sol</color>."
+##help_sidebar_workbenches_text5,"<color=#ffc50a>Astuce:</color> En faisant <color=#ffc50a>Clic-Droit</color> avant de placer votre structure au sol, vous pouvez changer son axe."
+##help_sidebar_workbenches_text6,"Avant de poursuivre et fabriquer notre kit d'Hallebardier, nous avons besoin d'un râtelier pour pouvoir l'entreposer."
+##help_sidebar_workbenches_button,Créez un établi pour continuer
+##help_sidebar_weaponrack_title,Création
+##help_sidebar_weaponrack_text1,Râtelier
+##help_sidebar_weaponrack_text2,"Avant de fabriquer notre <color=#ffc50a>kit d'Hallebardier</color>, nous avons besoin d'un <color=#ffc50a>râtelier</color> pour l'entreposer."
+##help_sidebar_weaponrack_text3,Création d'un râtelier
+##help_sidebar_weaponrack_text4,"Dans le <color=#ffc50a>menu de structures</color>, cliquez sur le <color=#ffc50a>râtelier</color> et placez le <color=#ffc50a>n'importe où sur le sol</color>.\n\nChaque râtelier peut contenir jusqu'à <color=#ffc50a>4 kits de la même classe.</color>"
+##help_sidebar_weaponrack_text5,"<color=#ffc50a>Astuce:</color> Pour permettre aux Bricktrons de se procurez les kits militaires plus rapidement, <color=#ffc50a>assurez-vous de laisser assez d'espace de chaque côté de votre râtelier</color>!"
+##help_sidebar_weaponrack_button,Créez un râtelier pour continuer
+##help_sidebar_firstsoldier_title,Création
+##help_sidebar_firstsoldier_text1,Créer votre premier soldat
+##help_sidebar_firstsoldier_text2,Créer un kit d'Hallebardier
+##help_sidebar_firstsoldier_text3,"Retrouvez votre <color=#ffc50a>établi</color> et <color=#ffc50a>cliquez dessus.</color>\nDans la barre de tâche de l'établi, cliquez sur le <color=#ffc50a>Kit d'Hallebardier</color>.\nUn Bricktron va bientôt commencer la fabrication du kit. Le travailleur va fabriquer deux morceaux: <color=#ffc50a>Une Lance</color> et <color=#ffc50a>Un Casque.</color> Les pièces vont être entreposées dans une râtelier."
+##help_sidebar_firstsoldier_text4,<color=#ffc50a>Astuce: Vous avez besoin d'espace dans votre râtelier pour que le kit puisse se fabriquer.</color>
+##help_sidebar_firstsoldier_text5,Équippez le kit
+##help_sidebar_firstsoldier_text6,"Une fois que les deux morceaux sont entreposés dans le râtelier, <color=#ffc50a>sélectionnez un Bricktron</color> et faites <color=#ffc50a>clic-droit sur le râtelier.</color> Félicitation, vous avez votre premier soldat!"
+##help_sidebar_firstsoldier_text7,<color=#ffc50a>Astuce:</color> Les soldats ne peuvent pas se faire assigner à des tâches et ne peuvent pas transporter du matériel. 
+##help_sidebar_firstsoldier_button,Créez un Hallebardier pour continuer
+##help_sidebar_firstsoldier_tooltip_title,Mettez à la file un kit d'Hallebardier
+##help_sidebar_firstsoldier_tooltip_text,Utilisez l'établi pour ajouter un kit d'hallebardier à la file de production.
+##help_sidebar_craftinganarcher_title,Création
+##help_sidebar_craftinganarcher_text1,Créer un archer
+##help_sidebar_craftinganarcher_text2,Allons fabriquer un kit d'archer!
+##help_sidebar_craftinganarcher_text3,Récolter des plantes
+##help_sidebar_craftinganarcher_text4,La corde et le textile sont fabriqués avec de la fibre végétale. Placez une tâche de récolte de plantes sur de la végétation près de votre base. 
+##help_sidebar_craftinganarcher_text5,<color=#ffc50a>Astuce: Assurez vous d'avoir quelques palettes vides pour la fibre végétale!</color> 
+##help_sidebar_craftinganarcher_text6,Créer un Métier à Tisser
+##help_sidebar_craftinganarcher_text7,"Dans le menu de structures, <color=#ffc50a>sélectionnez le Métier à Tisser</color> et placez le n'importe où. \n\nUne fois construit, cliquez dessus et avec la barre de tâches du métier à tisser, <color=#ffc50a>placez à la file de production, 1 ballot de corde et 1 rouleau de textile</color>."
+##help_sidebar_craftinganarcher_text8,Créer un kit d'Archer
+##help_sidebar_craftinganarcher_text9,"Avec l'établi, <color=#ffc50a>placez à la file de production 1 kit d'archer.</color>"
+##help_sidebar_craftinganarcher_button,Équippez un archer pour continuer
+##help_sidebar_craftinganarcher_tooltip_title,Fabriquer un kit d'archer
+##help_sidebar_craftinganarcher_tooltip_text,Utilisez l'établi pour ajouter un kit d'archer à la file de production.
+##help_sidebar_spawningnewworkers_title,Constuire votre château
+##help_sidebar_spawningnewworkers_text1,Invoquer plus de travailleurs
+##help_sidebar_spawningnewworkers_text2,"<color=#ffc50a>Votre cristal principal génère de l'énergie passivement.</color> Cette énergie peut être utilisée pour invoquer de nouveaux Bricktrons. \nVous pouvez voir cette énergie sous forme de <color=#3a7bff>Feu-Follet Bleu</color> volant autour de votre cristal. Une fois qu'il y a assez de feu-follet bleu, ils vont former ensemble un <color=#ffc50a>Feu-Follet Jaune.</color>\n\nVous pouvez voir combien d'énergie vous avez de besoin avant d'aquiérir un nouveau Bricktron dans la barre de tâche sous votre cristal principal."
+##help_sidebar_spawningnewworkers_text3,Invoquer un Bricktron
+##help_sidebar_spawningnewworkers_text4,<color=#ffc50a>Cliquez sur le bouton du Bricktron</color> dans la barre de tâche au bas de l'écran à gauche. Un travailleur devrait apparaître instantanément près de votre Cristal Principal.
+##help_sidebar_spawningnewworkers_text5,<color=#ffc50a>Astuce:</color> Vous pouvez capturer des <color=#ffc50a>fragments de cristal sur la map</color> pour récolter de l'énergie plus rapidement.
+##help_sidebar_spawningnewworkers_button,Invoquez un nouveau Bricktron pour continuer
+##help_sidebar_spawningnewworkers_tooltip_title,Invoquer un Bricktron
+##help_sidebar_spawningnewworkers_tooltip_text,Ouvrez le menu contextuel sur votre cristal principal pour invoquer un Bricktron.
+##help_sidebar_makingbricks_title,Construire votre château
+##help_sidebar_makingbricks_text1,Faire des briques
+##help_sidebar_makingbricks_text2,"<color=#ffc50a>Nous allons avoir besoin de pierres pour faire des briques</color>, beaucoup de briques! Allons faire une carrière pour récolter plus de pierres."
+##help_sidebar_makingbricks_text3,Créer une Carrière
+##help_sidebar_makingbricks_text4,"Dans le menu des tâches, <color=#ffc50a>selectionnez la Carrière.</color>\n\nMaintenant <color=#ffc50a>cliquez sur une partie vide du sol</color> pour placer la carrière. Un contour jaune d'un trou dans le sol va apparaître, ainsi que des escaliers."
+##help_sidebar_makingbricks_text5,<color=#ffc50a>Astuce: Ne placez pas votre carrière sous une structure ou trop près de votre cristal.</color> Les Bricktrons risque de ne pas réussir à creuser le sol s'il y a des obstacles.
+##help_sidebar_makingbricks_text6,Vous pouvez <color=#ffc50a>bouger ou changer les dimensions</color> d'une carrière en glissant les poignées sur les côtés du contour jaune.\nVous pouvez aussi <color=#ffc50a>changer l'emplacement des escaliers</color> dans la barre de tâche de la carrière.\n<color=#ffc50a>Appuyez sur Tab</color> ou le <color=#00ff15>Crochet Vert</color> pour activer la carrière.
+##help_sidebar_makingbricks_button,Créez une carrière pour continuer
+##help_sidebar_yourfirstwall_title,Construire votre Château
+##help_sidebar_yourfirstwall_text1,Constuire votre premier mur
+##help_sidebar_yourfirstwall_text2,Allons placer quelques blocs pour créer un mur!
+##help_sidebar_yourfirstwall_text3,Créer un mur
+##help_sidebar_yourfirstwall_text4,"Cliquez sur le <color=#ffc50a>menu de Blocs</color> au centre à la gauche de l'écran. Choississez la <color=#ffc50a>Brique Standard.</color>Passer la souris sur le sol va révélera un contour bleu d'une brique. Ceci est un <color=#ffc50a>Plan.</color> \n<color=#ffc50a>Clic-Gauche</color> une fois pour placer une brique. \n<color=#ffc50a>Clic-Droit</color> pour changer la direction du plan de la brique. \n<color=#ffc50a>Clic et maintenir enfoncé-Glisser</color> pour placer une ligne de briques. \n<color=#ffc50a>Ctrl-Clic</color> sur un bloc pour l'enlever. Si la brique est déjà en place, un Bricktron viendra la détruire."
+##help_sidebar_yourfirstwall_text5,<color=#ffc50a>Astuce:</color> Vous êtes dans le mode de construction lorsque vous placez vos briques. <color=#ffc50a>Vous ne pouvez faire la sélection de Bricktrons dans ce mode</color>.
+##help_sidebar_yourfirstwall_text6,<color=#ffc50a>Appuyez sur Tab</color> ou sur le <color=#00ff15>Crochet Vert</color> pour confirmer votre construction et sortir du mode de construction.
+##help_sidebar_yourfirstwall_button,Placez quelques blocs pour continuer
+##help_sidebar_yourfirstwall_tooltip_title,Construire un Mur
+##help_sidebar_yourfirstwall_tooltip_text,Construisez un mur autour de votre cristal principal pour le protéger contre les Corruptrons!
+##help_sidebar_addingdoors_title,Construire votre château
+##help_sidebar_addingdoors_text1,Ajouter des portes
+##help_sidebar_addingdoors_text2,"<color=#ffc50a>Les meilleurs murs devraient au moins être 2 briques de haut</color> et ne devraient pas avoir de trous. \n\nPar contre, avec un mur sans trous, les Bricktrons ne seront pas capable d'entrer ou de sortir de votre château. Ajoutons-y une porte!"
+##help_sidebar_addingdoors_text3,Créer une porte
+##help_sidebar_addingdoors_text4,"Pour créer une porte, assurez vous d'avoir des <color=#ffc50a>Planches et des Lingots de Fer.</color>\n\nCliquez sur le <color=#ffc50a>menu de structures, choississez la Porte</color> et placez-la où vous voulez que l'entrer de votre château soit."
+##help_sidebar_addingdoors_text5,"<color=#ffc50a>Astuce:</color> Si vous avez à placer une porte dans un mur déjà existant, vous pouvez faire <color=#ffc50a>Ctrl-Clic</color> sur les blocs afin de créer un trou."
+##help_sidebar_addingdoors_text6,<color=#ffc50a>Appuyez sur Tab</color> ou le <color=#00ff15>Crochet Vert</color> pour confirmer votre construction.
+##help_sidebar_addingdoors_button,Continuer
+##help_sidebar_addinglanterns_title,Construire votre château
+##help_sidebar_addinglanterns_text1,Ajouter des lanternes
+##help_sidebar_addinglanterns_text2,"La nuit approche, si elle n'est pas déjà arrivée! Vous allez sûrement vouloir illuminer votre château pour pouvoir continuer de travailler."
+##help_sidebar_addinglanterns_text3,Créer des lanternes
+##help_sidebar_addinglanterns_text4,"<color=#ffc50a>Les lanternes sont fabriquées dans l'établi.\n\nUne lanterne nécessite 1 soufre et 1 lingot de fer.</color>\n\nUne fois fabriquée, elle va devoir être entreposée dans une palette, assurez-vous d'avoir une palette vide dans votre base!\n\nUne fois construite, ouvrez le menu de structure, sélectionnez la lanterne et placez-là n'importe où."
+##help_sidebar_addinglanterns_text5,<color=#ffc50a>Astuce:</color> Les lanternes peuvent être placées directement sur le sol ou sur un mur.
+##help_sidebar_addinglanterns_text6,<color=#ffc50a>Appuyez sur Tab</color> ou sur le <color=#00ff15>Crochet Vert</color> pour confirmer votre construction.
+##help_sidebar_addinglanterns_button,Continuer
+##help_sidebar_endofachapter_title,Fin
+##help_sidebar_endofachapter_text1,À L'Aventure!
+##help_sidebar_endofachapter_text2,"Ceci est la fin du tutoriel. \n\nVous avez encore beaucoup à apprendre, jeune guerrier. Le monde de Castle Story est vaste, complexe et regorge de mystères! Consultez l'encyclopédie du savoir universel de Castle Story à l'adresse suivante: \n <color=#ffc50a>http://wiki.castlestory.net</color> \n\nNotre chaine Youtube sur la liste ""How to"": \n <color=#ffc50a>http://youtube.com/SauropodStudio</color> \n\nVous pouvez aussi parler à d'autres joueurs sur notre serveur Discord officiel: \n <color=#ffc50a>http://castlestory.net/Discord</color> \n\nAmusez-vous à explorer le monde de Castle Story!"
+,
+,
+##gamemenu_actionwheel_jumpoff,Descendre
+##gamemenu_actionwheel_jumpoff_text,Ordonne au Bricktron de descendre de son perchoir.
+##gamemenu_actionwheel_cleanup,Nettoyer
+##gamemenu_actionwheel_cleanup_text,Collecte les ressources qui gisent à l'endroit ciblé immédiatement.
+##gamemenu_actionwheel_cleanupsimilar,Nettoyer
+##gamemenu_actionwheel_cleanupsimilar_text,Collecte seulement les items du type choisi
+##gamemenu_actionwheel_digvoxel,Creuser le Voxel
+##gamemenu_actionwheel_digvoxel_text,Brise un voxel individuel et collecte ses ressources.
+##gamemenu_actionwheel_moveattack,Offensive
+##gamemenu_actionwheel_moveattack_text,Se déplace à l'endroit désiré en attaquant tout ennemi sur son chemin.
+##gamemenu_actionwheel_detonate,Faire Exploser
+##gamemenu_actionwheel_detonate_text,Envoie le Bricktron faire exploser ce baril
+##gamemenu_actionwheel_holdfire,Cessez le Feu
+##gamemenu_actionwheel_holdfire_text,Se retient de tirer des flèches.
+##gamemenu_actionwheel_holdfireoff,Tire Automatique
+##gamemenu_actionwheel_holdfireoff_text,Tire sur les ennemis à proximité.
+##gamemenu_actionwheel_holdposition,Tenir sa Position
+##gamemenu_actionwheel_holdposition_text,Ne bouge seulement que sur ordre du joueur.
+##gamemenu_actionwheel_holdpositionoff,Mode Automatique
+##gamemenu_actionwheel_holdpositionoff_text,Cherche activement du travail.
+##gamemenu_actionwheel_defendon,Mode Défensif
+##gamemenu_actionwheel_defendon_text,Tient sa position et bloque les projectiles.
+##gamemenu_actionwheel_defendoff,Mode Aggressif
+,
+,
+##gamemenu_actionwheel_artificer_heal,Mantra de Soin
+##gamemenu_actionwheel_artificer_heal_text,Active un aura qui guérit les unités alliés
+##gamemenu_actionwheel_artificer_fire,Mantra de Combat
+##gamemenu_actionwheel_artificer_fire_text,Attaque les ennemis à proximité avec des projectiles magiques
+##gamemenu_actionwheel_defendoff_text,Cherche à engager le combat avec les ennemis à proximité
+##gamemenu_actionwheel_shootat,Tirer Vers
+##gamemenu_actionwheel_shootat_text,Tire une flèche à l'endroit ciblé.
+##gamemenu_actionwheel_pickup,Ramasser
+##gamemenu_actionwheel_pickup_text,Se déplace vers l'item ciblé et tente de le ramasser.
+##gamemenu_actionwheel_dropload,Déposer Cargo
+##gamemenu_actionwheel_dropload_text,Se déplace et dépose sa cargaison à l'endroit ciblé.
+##gamemenu_actionwheel_turntowards,Se Tourner Vers
+##gamemenu_actionwheel_turntowards_text,Se tourne vers l'endroit ciblé.
+##gamemenu_actionwheel_moveto,Se Déplacer Vers
+##gamemenu_actionwheel_moveto_text,Marche ou cours vers l'endroit ciblé.
+##gamemenu_actionwheel_jointask,Joindre Tâche
+##gamemenu_actionwheel_jointask_text,Assigne les Bricktrons sélectionnés à cette tâche.
+##gamemenu_actionwheel_takefrom,Prendre De
+##gamemenu_actionwheel_takefrom_text,Se déplace vers la cible et en ramasse 1 unité.
+##gamemenu_actionwheel_droploadinto,Déposer Cargo
+##gamemenu_actionwheel_droploadinto_text,Se déplace et dépose sa cargaison à l'endroit ciblé.
+##gamemenu_actionwheel_equipfromrack,S'équiper
+##gamemenu_actionwheel_equipfromrack_text,S'équipe de ce que contient le râtelier.
+##gamemenu_actionwheel_unequipintorack,Déséquiper
+##gamemenu_actionwheel_unequipintorack_text,Déséquipe le Bricktron dans un râtelier.
+##gamemenu_actionwheel_equiptools,S'Équiper d'Outils
+##gamemenu_actionwheel_equiptools_text,S'équipe d'outils pour obtenir de nouvelles habiletés.
+##gamemenu_actionwheel_unequiptools,Déséquiper Outils
+##gamemenu_actionwheel_unequiptools_text,Laisse tomber son équipement pour devenir un travailleur.
+##gamemenu_actionwheel_breakobject,Briser l'Objet
+##gamemenu_actionwheel_breakobject_text,"Détruit cet objet, RAWRRR!"
+##gamemenu_actionwheel_cuttree,Couper l'Arbre
+##gamemenu_actionwheel_cuttree_text,Coupe cet arbre en 3 bûches.
+##gamemenu_actionwheel_harvestrocks,Récolter Roche
+##gamemenu_actionwheel_harvestrocks_text,Piochez sur ces roches pour en récolter des fragments.
+##gamemenu_actionwheel_harvestcrystals,Récolter Cristaux
+##gamemenu_actionwheel_harvestcrystals_text,Piochez sur ces minerais pour en récolter des fragments.
+##gamemenu_actionwheel_harvestplants,Récolter Plantes
+##gamemenu_actionwheel_harvestplants_text,Coupez ces plantes pour les récolter.
+##gamemenu_actionwheel_armbeartrap,Armer Piège
+##gamemenu_actionwheel_armbeartrap_text,Crinque le loquet à ressort du piège.
+,
+##gamemenu_stockpilewheel_autoconvertstone,Auto Conversion
+##gamemenu_stockpilewheel_autoconvertstone_text,La roche sera automatiquement convertie en blocs de pierre.
+##gamemenu_stockpilewheel_manualconvert,Conversion Manuelle
+##gamemenu_stockpilewheel_acceptnone,Garder Vide
+##gamemenu_stockpilewheel_acceptnone_text,Vos Bricktrons ignoreront cette palette
+##gamemenu_stockpilewheel_acceptall,Tout Accepter
+##gamemenu_stockpilewheel_acceptall_text,Cette palette accepte toutes les ressources
+,
+##gamemenu_stockpilewheel_exclusivity_hub,Accepter Seulement
+##gamemenu_stockpilewheel_exclusivity_hub_text,Voir toutes les ressources brutes
+,
+##gamemenu_stockpilewheel_stone,Pierre
+##gamemenu_stockpilewheel_stone_text,Accepte seulement la pierre
+##gamemenu_stockpilewheel_brick,Brique
+##gamemenu_stockpilewheel_brick_text,Accepte seulement les briques
+##gamemenu_stockpilewheel_wood,Bois
+##gamemenu_stockpilewheel_wood_text,Accepte seulement les billots de bois
+##gamemenu_stockpilewheel_plank,Planche
+##gamemenu_stockpilewheel_plank_text,Accepte seulement les planches
+##gamemenu_stockpilewheel_plant,Plante
+##gamemenu_stockpilewheel_plant_text,Accepte seulement les plantes
+##gamemenu_stockpilewheel_iron,Fer
+##gamemenu_stockpilewheel_iron_text,Accepte seulement le fer
+##gamemenu_stockpilewheel_brimstone,Soufre
+##gamemenu_stockpilewheel_brimstone_text,Accepte seulement le soufre
+##gamemenu_stockpilewheel_bluecrystal,Crystal Bleu
+##gamemenu_stockpilewheel_bluecrystal_text,Accepte seulement le cristal bleu
+##gamemenu_stockpilewheel_iron_ingot,Lingot de Fer
+##gamemenu_stockpilewheel_iron_ingot_text,Accepte seulement les lingots de fer
+##gamemenu_stockpilewheel_rope,Corde
+##gamemenu_stockpilewheel_rope_text,Accepte seulement les ballots de corde
+##gamemenu_stockpilewheel_fabric,Textile
+##gamemenu_stockpilewheel_fabric_text,Accepte seulement les rouleaux de textile
+##gamemenu_stockpilewheel_glass,Verre
+##gamemenu_stockpilewheel_glass_text,Accepte seulement les blocs de verre
+##gamemenu_stockpilewheel_cog,Engrenage
+##gamemenu_stockpilewheel_cog_text,Accepte seulement les engranages
+##gamemenu_stockpilewheel_bomb,Bombe
+##gamemenu_stockpilewheel_bomb_text,Accepte seulement les bombes
+##gamemenu_stockpilewheel_explosivebarrel,Baril Explosif
+##gamemenu_stockpilewheel_explosivebarrel_text,Accepte seulement les barils explosifs
+,
+##gamemenu_stockpilewheel_sentinel_ward,Balise Sentinelle
+##gamemenu_stockpilewheel_sentinel_ward_text,Accepte seulement les balises sentinelles
+##gamemenu_stockpilewheel_healing_ward,Balise de Guérison
+##gamemenu_stockpilewheel_healing_ward_text,Accepte seulement les balises de guérison
+##gamemenu_stockpilewheel_lantern_ward,Balise Lanterne
+##gamemenu_stockpilewheel_lantern_ward_text,Accepte seulement les balises lanternes
+##gamemenu_stockpilewheel_capture_ward,Balise de Capture
+##gamemenu_stockpilewheel_capture_ward_text,Accepte seulement les balises de capture
+##gamemenu_stockpilewheel_pylon_ward,Balise de Relais
+##gamemenu_stockpilewheel_pylon_ward_text,Accepte seulement les balises de relais
+##gamemenu_stockpilewheel_trap,Pière à Ours
+##gamemenu_stockpilewheel_trap_text,Accepte seulement les pièges à ours
+,
+,
+##gamemenu_crystalwheel_spawnworker,Invoquer Ouvrier
+##gamemenu_crystalwheel_spawnworker_text,Utilise de l'énergie pour invoquer un travailleur Bricktron.
+##gamemenu_crystalwheel_recallworkers,Rappel
+##gamemenu_crystalwheel_recallworkers_text,Donne l'ordre aux travailleurs de retourner rapidement à leur cristal principal.
+##gamemenu_crystalwheel_calltoarms,Aux Armes!
+##gamemenu_crystalwheel_calltoarms_text,Ordonne aux ouvriers de s'armer pour défendre leur territoire
+##gamemenu_crystalwheel_backtowork,Retour au Travail
+##gamemenu_crystalwheel_backtowork_text,Ordonne à vos Bricktrons de déposer leur équipement dans un râtelier
+,
+##gamemenu_doorwheel_lock,Barrer
+##gamemenu_doorwheel_lock_text,Barre cette porte pour protéger vos Bricktrons.
+##gamemenu_doorwheel_unlock,Débarrer
+##gamemenu_doorwheel_unlock_text,Débarre cette porte pour laisser passer vos Bricktrons.
+,
+##gamemenu_catapultwheel_cleartarget,Désengager
+##gamemenu_catapultwheel_cleartarget_text,Annule les ordres d'exécution de la catapulte.
+##gamemenu_catapultwheel_settarget,Cibler
+##gamemenu_catapultwheel_settarget_text,Cliquez sur un emplacement pour en faire la cible de la catapulte.
+##gamemenu_catapultwheel_fire,Tirer
+##gamemenu_catapultwheel_fire_text,Lance le projectile de la catapulte en l'air.
+##gamemenu_catapultwheel_holdfire,Cessez le Feu
+##gamemenu_catapultwheel_holdfire_text,Se retient de tirer.
+##gamemenu_catapultwheel_fireonce,Tirer une Seule Fois
+##gamemenu_catapultwheel_fireonce_text,Tire un seul projectile.
+##gamemenu_catapultwheel_fireatwill,Feu à Volonté
+##gamemenu_catapultwheel_fireatwill_text,Recharge et tire chaque baril à proximité.
+##gamemenu_catapultwheel_assignto,Assigner À
+##gamemenu_catapultwheel_assignto_text,Assigne un Bicktron pour opérer cette catapulte.
+##gamemenu_catapultwheel_load,Charger
+##gamemenu_catapultwheel_load_text,Charge la catapulte avec des munitions.
+##gamemenu_catapultwheel_unload,Décharger
+##gamemenu_catapultwheel_unload_text,Décharge les munitions de la catapulte.
+##gamemenu_catapultwheel_work,Crinquer et Viser
+##gamemenu_catapultwheel_work_text,Prépare la catapulte à tirer.
+,
+##gamemenu_generictaskwheel_selectworkers,Sélectionner les Travailleurs
+##gamemenu_generictaskwheel_selectworkers_text,Sélectionne tous les Bricktrons sur cette tâche.
+##gamemenu_generictaskwheel_removeworkers,Retirer les Travailleurs
+##gamemenu_generictaskwheel_removeworkers_text,Retire tous les Bricktrons de cette tâche.
+##gamemenu_generictaskwheel_deletetask,Supprimer la Tâche
+##gamemenu_generictaskwheel_deletetask_text,Supprime la tâche sélectionnée.
+,
+##gamemenu_toolrackwheel_exclusivityhub,Accepte seulement
+##gamemenu_toolrackwheel_exclusive_none,Garder vide
+##gamemenu_toolrackwheel_exclusive_none_text,Ignorer ce râtelier
+##gamemenu_toolrackwheel_exclusive_all,Tout accepter
+##gamemenu_toolrackwheel_exclusive_all_text,Enlever toute restriction sur ce râtelier
+##gamemenu_toolrackwheel_exclusive_knight,Chevalier
+##gamemenu_toolrackwheel_exclusive_knight_text,N'entrepose que des kits de chevalier
+##gamemenu_toolrackwheel_exclusive_archer,Archer
+##gamemenu_toolrackwheel_exclusive_archer_text,N'entrepose que des kits d'archer
+##gamemenu_toolrackwheel_exclusive_arbalest,Arbalétrier
+##gamemenu_toolrackwheel_exclusive_arbalest_text,N'entrepose que des kits d'arbalétrier
+##gamemenu_toolrackwheel_exclusive_geomancer,Artificier
+##gamemenu_toolrackwheel_exclusive_geomancer_text,N'entrepose que des kits d'artificier
+##gamemenu_toolrackwheel_exclusive_alchemist,Alchimiste
+##gamemenu_toolrackwheel_exclusive_alchemist_text,N'entrepose que des kits d'alchimiste
+##gamemenu_toolrackwheel_exclusive_halberdier,Hallebardier
+##gamemenu_toolrackwheel_exclusive_halberdier_text,N'entrepose que des kits d'hallebardier
+,
+##gamemenu_selecttaskwheel_repairtask,Réparation
+##gamemenu_selecttaskwheel_repairtask_text,Répare toutes les briques dans les environs.
+##gamemenu_selecttaskwheel_landscapetask,Aplanir
+##gamemenu_selecttaskwheel_landscapetask_text,Aplanit le terrain.
+##gamemenu_selecttaskwheel_constructiontask,Construction
+##gamemenu_selecttaskwheel_constructiontask_text,Construisez des structures et placez des blocs.
+##gamemenu_selecttaskwheel_quarry,Excavation
+##gamemenu_selecttaskwheel_quarry_text,Extrait de la pierre du sol.
+##gamemenu_selecttaskwheel_harvestask,Récolte
+##gamemenu_selecttaskwheel_harvestask_text,Récolte des ressources et les stockent sur des palettes.
+##gamemenu_selecttaskwheel_cleaningtask,Ménage
+##gamemenu_selecttaskwheel_cleaningtask_text,Ramasse les ressources qui gisent sur le sol.
+##gamemenu_selecttaskwheel_tunnel,Tunnel
+##gamemenu_selecttaskwheel_tunnel_text,Extrait de la pierre des murs et des collines.
+##gamemenu_selecttaskwheel_deselectgroup,Désélectionner
+##gamemenu_selecttaskwheel_deselectgroup_text,Désélectionne le groupe actuel.
+,
+##gamemenu_constructionwheel_brickshub,Maçonnerie
+##gamemenu_constructionwheel_brickshub_text,Contient des variantes de blocs tels que des escaliers et des piliers.
+##gamemenu_constructionwheel_brick,Brique
+##gamemenu_constructionwheel_brick_text,La brique standard 1 par 2 utilisée pour construire des murs.
+##gamemenu_constructionwheel_halfbrick,Demi Brique
+##gamemenu_constructionwheel_halfbrick_text,Un bloc 1 par 1 utilisé pour boucher des trous dans les murs.
+##gamemenu_constructionwheel_arch,Arche
+##gamemenu_constructionwheel_arch_text,Les Bricktrons peuvent passer en dessous ou au dessus.
+##gamemenu_constructionwheel_stair,Brique Escalier
+##gamemenu_constructionwheel_stair_text,Permet de construire en hauteur.
+##gamemenu_constructionwheel_stairsingle,Bloc Escalier
+##gamemenu_constructionwheel_stairsingle_text,Seulement les marches d'une brique escalier.
+##gamemenu_constructionwheel_stairspiralleft,Colimaçon Gauche
+##gamemenu_constructionwheel_stairspiralleft_text,Une brique d'escalier en colimaçon.
+##gamemenu_constructionwheel_stairspiralright,Colimaçon Droit
+##gamemenu_constructionwheel_stairspiralright_text,Une brique d'escalier en colimaçon.
+##gamemenu_constructionwheel_staircornerleft,Escalier en Coin Gauche
+##gamemenu_constructionwheel_staircornerleft_text,Une brique d'escalier en coin.
+##gamemenu_constructionwheel_staircornerright,Escalier en Coin Droit
+##gamemenu_constructionwheel_staircornerright_text,Une brique d'escalier en coin.
+##gamemenu_constructionwheel_staircornersingle,Bloc Escalier en Coin Intérieur
+##gamemenu_constructionwheel_staircornersingle_text,Seulement les marches d'une brique d'escalier en coin.
+##gamemenu_constructionwheel_invertstaircornersingle,Bloc Escalier en Coin Extérieur
+##gamemenu_constructionwheel_invertstaircornersingle_text,Un bloc pour les coins extérieurs d'escalier
+##gamemenu_constructionwheel_curvedright,Courbe à Droite
+##gamemenu_constructionwheel_curvedright_text,Une brique 1 par 2 courbée vers la droite.
+##gamemenu_constructionwheel_curvedleft,Courbe à Gauche
+##gamemenu_constructionwheel_curvedleft_text,Une brique 1 par 2 courbée vers la gauche.
+##gamemenu_constructionwheel_curvedbrick,Brique Courbée
+##gamemenu_constructionwheel_curvedbrick_text,Une brique 1 par 2 courbée.
+##gamemenu_constructionwheel_stonecolumn_basic,Colonne de Pierre
+##gamemenu_constructionwheel_stonecolumn_basic_text,Le bloc recommandé pour du support solide.
+##gamemenu_constructionwheel_stonecolumn_fluted,Colonne Flutée
+##gamemenu_constructionwheel_stonecolumn_fluted_text,Cette colonne flutée est typique de la période hellenistique.
+##gamemenu_constructionwheel_stonecolumn_pillar,Pilier de Pierre
+##gamemenu_constructionwheel_stonecolumn_pillar_text,Un pilier de pierre grossièrement sculpté. Ça fait la job.
+##gamemenu_constructionwheel_stonecolumn_round,Colonne Ronde
+##gamemenu_constructionwheel_stonecolumn_round_text,Colonne circulaire à l'assise arroundie.
+##gamemenu_constructionwheel_stonecolumn_square,Colonne Carré
+##gamemenu_constructionwheel_stonecolumn_square_text,Pilier de pierre à la coupe plus svelte.
+##gamemenu_constructionwheel_roundbrick,Coin Rond
+##gamemenu_constructionwheel_roundbrick_text,Une brique 1 par 1 courbée.
+##gamemenu_constructionwheel_plugx,Mortaise en X
+##gamemenu_constructionwheel_plugx_text,Briques réceptacles pour poutres en bois.
+##gamemenu_constructionwheel_plugh,Mortaise en H
+##gamemenu_constructionwheel_plugh_text,Briques réceptacles pour poutres en bois.
+##gamemenu_constructionwheel_plugl,Mortaise en L
+##gamemenu_constructionwheel_plugl_text,Briques réceptacles pour poutres en bois.
+##gamemenu_constructionwheel_plugt,Mortaise en T
+##gamemenu_constructionwheel_plugt_text,Briques réceptacles pour poutres en bois.
+##gamemenu_constructionwheel_plug,Mortaise
+##gamemenu_constructionwheel_plug_text,Briques réceptacles pour poutres en bois.
+##gamemenu_constructionwheel_merlon,Merlon
+##gamemenu_constructionwheel_merlon_text,Un Merlon sépare deux créneaux dans une fortification.
+##gamemenu_constructionwheel_merloncorner,Merlon en Coin
+##gamemenu_constructionwheel_merloncorner_text,Un Merlon en coin.
+##gamemenu_constructionwheel_merlondouble,Merlon Double
+##gamemenu_constructionwheel_merlondouble_text,Un Merlon plus large.
+##gamemenu_constructionwheel_merlonconcave,Merlon Concave
+##gamemenu_constructionwheel_merlonconcave_text,Un Merlon en coin concave.
+##gamemenu_constructionwheel_corbel1,Corbeau 1
+##gamemenu_constructionwheel_corbel1_text,Un bloc de support ornemental.
+##gamemenu_constructionwheel_corbel2,Corbeau 2
+##gamemenu_constructionwheel_corbel2_text,Un bloc de support ornemental.
+##gamemenu_constructionwheel_parapet1,Parapet 1
+##gamemenu_constructionwheel_parapet1_text,Bloc qui sert de bordure de toit.
+##gamemenu_constructionwheel_parapet2,Parapet 2
+##gamemenu_constructionwheel_parapet2_text,Bloc qui sert de bordure de toit.
+##gamemenu_constructionwheel_parapet3,Parapet 3
+##gamemenu_constructionwheel_parapet3_text,Bloc qui sert de bordure de toit.
+,
+,
+,
+##gamemenu_constructionwheel_craftinghub,Artisanat
+##gamemenu_constructionwheel_craftinghub_text,Construisez des stations d'artisanat.
+##gamemenu_constructionwheel_explosivebarrel,Baril Explosif
+##gamemenu_constructionwheel_explosivebarrel_text,Un baril rempli de soufre qui peut exploser.
+##gamemenu_constructionwheel_beartrap,Piège à Ours
+##gamemenu_constructionwheel_beartrap_text,Un piège à ours ou à Corruptrons.
+##gamemenu_constructionwheel_structurehub,Structures
+##gamemenu_constructionwheel_structurehub_text,Construisez des portes et des catapultes.
+##gamemenu_constructionwheel_choppingblock,Bloc de coupe
+##gamemenu_constructionwheel_choppingblock_text,Permet de transformer du bois brut en planches.
+##gamemenu_constructionwheel_workbench,Établi
+##gamemenu_constructionwheel_workbench_text,Permet de fabriquer des kits d'archer et d'hallebardier
+##gamemenu_constructionwheel_furnace,Fournaise
+##gamemenu_constructionwheel_furnace_text,Permet de fondre des matériaux en biens.
+##gamemenu_constructionwheel_toolrack,Râtelier
+##gamemenu_constructionwheel_toolrack_text,Entrepose de l'équipement.
+##gamemenu_constructionwheel_loom,Métier à Tisser
+##gamemenu_constructionwheel_loom_text,Permet de fabriquer de la corde et du textile.
+##gamemenu_constructionwheel_forge,Forge
+##gamemenu_constructionwheel_forge_text,Sert à fabriquer de l'équipement pour chevalier.
+##gamemenu_constructionwheel_machineshop,Manufacture
+##gamemenu_constructionwheel_machineshop_text,Permet la construction d'équipement mécanique tel des kits d'arbalétriers.
+##gamemenu_constructionwheel_altar,Autel
+##gamemenu_constructionwheel_altar_text,Permet de fabriquer l'équipement d'artificier.
+##gamemenu_constructionwheel_laboratory,Laboratoire
+##gamemenu_constructionwheel_laboratory_text,Expérimentez avec des substances explosives sur cette station.
+##gamemenu_constructionwheel_ropebridge,Pont de Corde
+##gamemenu_constructionwheel_ropebridge_text,Pont flexible qui relie deux escarpements.
+##gamemenu_constructionwheel_catapult,Catapulte
+##gamemenu_constructionwheel_catapult_text,Lance des barils explosifs.
+##gamemenu_constructionwheel_door,Porte
+##gamemenu_constructionwheel_door_text,Les portes peuvent être barrées pour bloquer le chemin.
+##gamemenu_constructionwheel_shakydoor,Porte Déglinguée
+##gamemenu_constructionwheel_shakydoor_text,Porte brinquebalante à l'intégrité structurelle discutable.
+##gamemenu_constructionwheel_heavydoor,Porte Renforcée
+##gamemenu_constructionwheel_heavydoor_text,Porte renforcée de supports et charnières métalliques. Du solide.
+##gamemenu_constructionwheel_window,Fenêtre
+##gamemenu_constructionwheel_window_text,Permet aux Bricktrons de voir à l'extérieur de leur forteresse.
+##gamemenu_constructionwheel_doublewindow,Fenêtre Double
+##gamemenu_constructionwheel_doublewindow_text,Laisse entrer beaucoup de lumière.
+##gamemenu_constructionwheel_stockpile,Palette
+##gamemenu_constructionwheel_stockpile_text,Les palettes servent à entreposer des ressources.
+##gamemenu_constructionwheel_healingward,Balise de Guérison
+##gamemenu_constructionwheel_healingward_text,"Projete un aura de guérison sur les alliés à proximité.
+<color=yellow> 1 lingot de fer + 20 soufre </color>"
+##gamemenu_constructionwheel_sentinelward,Balise Sentinelle
+##gamemenu_constructionwheel_sentinelward_text,"Attaque les ennemis avec des feux-follets.
+<color=yellow> 1 lingot de fer + 40 soufre </color>"
+##gamemenu_constructionwheel_lanternward,Balise Lanterne
+##gamemenu_constructionwheel_lanternward_text,Révèle et illumine les environs. <color=yellow> 1 lingot de fer + 5 soufre </color>
+##gamemenu_constructionwheel_pylonward,Balise de Relais
+##gamemenu_constructionwheel_pylonward_text,Transmet de l'énergie entre le cristal et les balises. <color=yellow> 1 lingot de fer + 10 soufre </color>
+##gamemenu_constructionwheel_captureward,Balise de Capture
+##gamemenu_constructionwheel_captureward_text,"Capture les cristaux et fragments à proximité.
+<color=yellow> 1 lingot de fer + 40 soufre </color>"
+##gamemenu_constructionwheel_knightstatue,Statue de Chevalier
+##gamemenu_constructionwheel_knightstatue_text,Une statue à l'effigie du courage et de la ténacité caractéristiques des Bricktrons.
+##gamemenu_constructionwheel_paintingsmall,Petit Tableau
+##gamemenu_constructionwheel_paintingsmall_text,Ce château témoigne du caractère industrieux des Bricktrons.
+##gamemenu_constructionwheel_paintingbig,Grand Tableau
+##gamemenu_constructionwheel_paintingbig_text,Paysage peint par le célèbre peintre Bricktron Ross.
+##gamemenu_constructionwheel_paintingwide,Paysage
+##gamemenu_constructionwheel_paintingwide_text,Ces massives statues ont confondues les archéologues bricktrons pendant des décénnies.
+##gamemenu_constructionwheel_paintingtall,Portrait
+##gamemenu_constructionwheel_paintingtall_text,Un Bricktron dans son habitat naturel.
+,
+##gamemenu_constructionwheel_woodhub,Bois D'Oeuvre
+##gamemenu_constructionwheel_woodhub_text,Construisez des billots et des planches.
+##gamemenu_constructionwheel_scaffolding,Échaffaudages
+##gamemenu_constructionwheel_log,Billot
+##gamemenu_constructionwheel_log_text,Une colonne en bois pour bâtir des échafaudages.
+##gamemenu_constructionwheel_brace,Équerre
+##gamemenu_constructionwheel_brace_text,Une équerre augmente la portée d'une poutre de 4 unités
+##gamemenu_constructionwheel_woodcolumn,Colonne de Bois
+##gamemenu_constructionwheel_woodcolumn_text,Servent à supporter des échaffaudages.
+##gamemenu_constructionwheel_beam,Poutre
+##gamemenu_constructionwheel_beam_text,Les poutres permettent de bâtir des plateformes plus longues.
+##gamemenu_constructionwheel_plank,Planche
+##gamemenu_constructionwheel_plank_text,Les planches permettent de bâtir de solides plateformes rapidement.
+##gamemenu_constructionwheel_ramp,Rampe
+##gamemenu_constructionwheel_ramp_text,Permet une transition de niveau entre 2 plateformes.
+##gamemenu_constructionwheel_rampjunction,Jonction de Rampe
+##gamemenu_constructionwheel_rampjunction_text,Transition entre rampe et planche.
+##gamemenu_constructionwheel_applychanges,Appliquer les Changements
+##gamemenu_constructionwheel_applychanges_text,Applique les derniers changements à la tâche actuelle.
+,
+,
+##gamemenu_craftingwheel_nothing,Arrêter
+##gamemenu_craftingwheel_nothing_text,Vide la file de production et arrête les travaux en cours
+##gamemenu_craftingwheel_produce_planks,Planches
+##gamemenu_craftingwheel_produce_planks_text,Transforme du bois en planches
+##gamemenu_craftingwheel_produce_iron,Lingots de Fer
+##gamemenu_craftingwheel_produce_iron_text,Transforme du fer en lingots
+##gamemenu_craftingwheel_produce_glass,Blocs de Verre
+##gamemenu_craftingwheel_produce_glass_text,Transforme de la roche en verre
+,
+##gamemenu_craftingwheel_queue_sword,Ajouter une Épée
+##gamemenu_craftingwheel_queue_sword_text,Ordonne la fabrication d'une épée
+##gamemenu_craftingwheel_queue_helmet,Ajouter un Casque
+##gamemenu_craftingwheel_queue_helmet_text,Ordonne la fabrication d'un casque
+##gamemenu_craftingwheel_queue_shield,Ajouter un Bouclier
+##gamemenu_craftingwheel_queue_shield_text,Ordonne la fabrication d'un bouclier
+##gamemenu_craftingwheel_queue_bow,Ajouter un Arc
+##gamemenu_craftingwheel_queue_bow_text,Ordonne la fabrication d'un arc
+##gamemenu_craftingwheel_queue_quiver,Ajouter un Carquois
+##gamemenu_craftingwheel_queue_quiver_text,Ordonne la fabrication d'un carquois
+##gamemenu_craftingwheel_queue_cap,Ajouter un Chapeau
+##gamemenu_craftingwheel_queue_cap_text,Ordonne la fabrication d'un chapeau
+##gamemenu_craftingwheel_queue_halberdierkit,Kit de Hallebardier
+##gamemenu_craftingwheel_queue_halberdierkit_text,"Unité au corps-à-corps rapide
+<color=yellow> 1 lingots de fer + 1 planche </color>"
+##gamemenu_craftingwheel_queue_knightkit,Kit de Chevalier
+##gamemenu_craftingwheel_queue_knightkit_text,"Unité au corps-à-corps avec de bonnes défenses
+<color=yellow> 5 lingots de fer </color>"
+##gamemenu_craftingwheel_queue_archerkit,Kit d'Archer
+##gamemenu_craftingwheel_queue_archerkit_text,Unité d'attaque à longue portée rapide<color=yellow> 1 textile + 2 planches + 1 corde </color>
+##gamemenu_craftingwheel_queue_crossbowtronkit,Kit d'Arbalétrier
+##gamemenu_craftingwheel_queue_crossbowtronkit_text,Unité à courte portée durable et puissante <color=yellow> 2 engrenages + 2 fer + 1 corde + 1 textile </color>
+##gamemenu_craftingwheel_queue_geomancerkit,Kit d'Artificier
+##gamemenu_craftingwheel_queue_geomancerkit_text,Guérisseur <color=yellow> 1 fer + 80 soufre + 2 textile + 1 verre + 1 planche</color>
+##gamemenu_craftingwheel_queue_alchemistkit,Kit d'Alchimiste
+##gamemenu_craftingwheel_queue_alchemistkit_text,Bombarde les ennemis. <color=yellow> 3 textile + 30 soufre + 3 blocs de verre </color>
+,
+##gamemenu_craftingwheel_produce_rope,Ballot de Corde
+##gamemenu_craftingwheel_produce_rope_text,"Transforme les plantes en corde
+<color=yellow> 10 plantes </color>"
+##gamemenu_craftingwheel_produce_fabric,Rouleau de Textile
+##gamemenu_craftingwheel_produce_fabric_text,"Transforme les plantes en textiles
+<color=yellow> 10 plantes </color>"
+##gamemenu_craftingwheel_produce_cog,Engrenage
+##gamemenu_craftingwheel_produce_cog_text,"Transforme des lingots de fer en engrenages
+<color=yellow> 1 lingot de fer </color>"
+##gamemenu_craftingwheel_produce_bomb,Bombe
+##gamemenu_craftingwheel_produce_bomb_text,"Construit des bombes
+<color=yellow> 15 soufre </color>"
+##gamemenu_craftingwheel_queue_beartrap,Pière à Ours
+##gamemenu_craftingwheel_queue_beartrap_text,"Un piège à ours ou à Corruptrons.
+<color=yellow> 1 lingot de fer</color>"
+##gamemenu_craftingwheel_queue_explosivebarrel,Baril explosif
+##gamemenu_craftingwheel_queue_explosivebarrel_text,"Utilisé comme projectile pour la catapulte.
+<color=yellow> 1 planche + 10 soufre</color>"
+,
+##gamemenu_craftingwheel_clearqueue,Vider la File
+##gamemenu_craftingwheel_clearqueue_text,Vide la file de production
+##gamemenu_craftingwheel_assignto,Assigner
+##gamemenu_craftingwheel_assignto_text,Opère cette station
+##gamemenu_craftingwheel_work,Travaille
+##gamemenu_craftingwheel_work_text,Commence la production
+##gamemenu_craftingwheel_production,Ramasser
+##gamemenu_craftingwheel_production_text,Prend les biens produits dans son sac
+##gamemenu_craftingwheel_add,Ajouter
+##gamemenu_craftingwheel_add_text,Ajoute le contenu de son sac à la station
+##gamemenu_craftingwheel_take,Ramasser
+##gamemenu_craftingwheel_take_text,Prend les ressources dans son sac
+,
+##cursortip_beartrap,Piège à Ours
+##cursortip_explosivebarrel,Baril Explosif
+##cursortip_catapult,Catapulte
+##cursortip_door,Porte
+##cursortip_stockpile,Palette
+##cursortip_weaponstand,Râtelier
+##cursortip_captureward,Balise de Capture
+##cursortip_healingward,Balise de Guérison
+##cursortip_lanternward,Balise Lanterne
+##cursortip_sentinelward,Balise Sentinelle
+##cursortip_pylonward,Balise Pylône
+##cursortip_altar,Autel
+##cursortip_loom,Métier à Tisser
+##cursortip_furnace,Fournaise
+##cursortip_forge,Forge
+##cursortip_lab,Laboratoire
+##cursortip_machineshop,Manufacture
+##cursortip_choppingblock,Bloc de Coupe
+##cursortip_workbench,Établi
+##cursortip_ropebridge,Pont de Corde
+,
+TASKBAR,
+##gamemenu_taskbar_newtask,Nouvelle Tâche
+##gamemenu_taskbar_tasknumber,Tâches:
+##gamemenu_taskbar_idle,Ne Rien Faire
+##gamemenu_taskbar_construction,Construction
+##gamemenu_taskbar_maintenancetasks,Tâches d'Entretien
+##gamemenu_taskbar_miningtasks,Tâches d'Extraction
+##gamemenu_taskbar_harvesttasks,Tâches de Récolte
+##gamemenu_taskbar_constructiontasks,Tâches de Construction
+##gamemenu_taskbar_harvest,Récolte
+##gamemenu_taskbar_cleaning,Ménage
+##gamemenu_taskbar_tunnel,Tunnel
+##gamemenu_taskbar_repair,Réparation
+##gamemenu_taskbar_landscape,Aplanir
+##gamemenu_taskbar_quarry,Excavation
+##gamemenu_taskbar_blueprints,Plans
+##gamemenu_taskbar_storage,Entreposage
+##gamemenu_taskbar_production,Production
+##gamemenu_taskbar_crafting,Artisanat
+##gamemenu_taskbar_structures,Structures
+##gamemenu_taskbar_wards,Balises
+##gamemenu_taskbar_decorations,Décorations
+##gamemenu_taskbar_woodblocks,Blocs de Bois
+##gamemenu_taskbar_blocks,Blocs
+##gamemenu_taskbar_stoneblocks,Blocs de Pierre
+##gamemenu_taskbar_roundbricks,Briques Rondes
+##gamemenu_taskbar_crenelations,Créneaux
+##gamemenu_taskbar_plugs,Mortaises
+##gamemenu_taskbar_blueprints_operation,opération
+##gamemenu_taskbar_blueprints_move,Bouger
+##gamemenu_taskbar_blueprints_copy,Copier
+##gamemenu_taskbar_blueprints_split,Séparer
+##gamemenu_taskbar_blueprints_delete,Supprimer
+##gamemenu_taskbar_blueprints_selection,Sélection
+##gamemenu_taskbar_blueprints_expand,Agrandir
+##gamemenu_taskbar_blueprints_clear,Réinitialiser
+##gamemenu_taskbar_blueprintactions,Sauvegarder la sélection
+##gamemenu_taskbar_blueprintssaved,Archive des plans
+##gamemenu_taskbar_loadblueprint,Charger le plan
+##gamemenu_taskbar_publishblueprint,Publier au Workshop
+##gamemenu_taskbar_blueprintpublished,Plan publié au Workshop
+##gamemenu_taskbar_blueprintdelete,Supprimer le plan
+,
+##gamemenu_taskbar_goals,Objectifs
+##gamemenu_taskbar_stairs,Escaliers
+##gamemenu_taskbar_boulders,Pierres
+##gamemenu_taskbar_iron,Fer
+##gamemenu_taskbar_brimstone,Soufre
+##gamemenu_taskbar_trees,Arbres
+##gamemenu_taskbar_plants,Plantes
+##gamemenu_taskbar_raiseall,Niveler par le Haut
+##gamemenu_taskbar_digall,Niveler par le Bas
+##gamemenu_taskbar_stairs,Escaliers
+##gamemenu_taskbar_tunnel_straight,Ligne Droite
+##gamemenu_taskbar_tunnel_up,Haut
+##gamemenu_taskbar_tunnel_down,Bas
+##gamemenu_taskbar_build,Construction
+##gamemenu_taskbar_structures,Structures
+##gamemenu_taskbar_status_ok,Commettre
+##gamemenu_taskbar_status_apply,Appliquer
+##gamemenu_taskbar_status_cancel,Annuler
+##gamemenu_taskbar_status_delete,Effacer
+##gamemenu_taskbar_deletetask,Supprimer la Tâche
+##gamemenu_taskbar_required,Requis
+##gamemenu_taskbar_construction_topbar,Tâche de Construction
+##gamemenu_taskbar_construction,Construction
+##gamemenu_taskbar_construction_text,"Permet de placer des briques, des structures et des palettes."
+##gamemenu_taskbar_constructioncrew,GroupeConstruction
+##gamemenu_taskbar_constructioncrew_text,"Sélectionne vos travailleurs.
+Shift-Clique pour augmenter la priorité de la tâche.
+Ctrl-Clique pour diminuer la priorité de la tâche."
+##gamemenu_taskbar_quarry_topbar,Tâche d'Excavation
+##gamemenu_taskbar_quarry,Carrière
+##gamemenu_taskbar_quarry_text,Cliquez ici pour changer la taille de cette tâche.
+##gamemenu_taskbar_quarrycrew,GroupeCarrière
+##gamemenu_taskbar_quarrycrew_text,"Sélectionne vos travailleurs.
+Shift-Clique pour augmenter la priorité de la tâche.
+Ctrl-Clique pour diminuer la priorité de la tâche."
+##gamemenu_taskbar_cleanup_topbar,Tâche de Ménage
+##gamemenu_taskbar_cleanup,Ménage
+##gamemenu_taskbar_cleanup_text,Cliquez ici pour changer la taille de cette tâche.
+##gamemenu_taskbar_cleanupcrew,GroupeMénage
+##gamemenu_taskbar_cleanupcrew_text,"Sélectionne vos travailleurs.
+Shift-Clique pour augmenter la priorité de la tâche.
+Ctrl-Clique pour diminuer la priorité de la tâche."
+##gamemenu_taskbar_harvest_topbar,Tâche de Récolte
+##gamemenu_taskbar_harvest,Récolte
+##gamemenu_taskbar_harvest_text,Cliquez ici pour changer la taille de cette tâche.
+##gamemenu_taskbar_harvestcrew,GroupeRécolte
+##gamemenu_taskbar_harvestcrew_text,"Sélectionne vos travailleurs.
+Shift-Clique pour augmenter la priorité de la tâche.
+Ctrl-Clique pour diminuer la priorité de la tâche."
+##gamemenu_taskbar_repair_topbar,Tâche de Réparation
+##gamemenu_taskbar_repair,Réparation
+##gamemenu_taskbar_repair_text,Cliquez ici pour choisir quelles briques doivent êtres réparées.
+##gamemenu_taskbar_repaircrew,GroupeRéparation
+##gamemenu_taskbar_repaircrew_text,"Sélectionne vos travailleurs.
+Shift-Clique pour augmenter la priorité de la tâche.
+Ctrl-Clique pour diminuer la priorité de la tâche."
+##gamemenu_taskbar_landscape_topbar,Tâche d'aplanissement
+##gamemenu_taskbar_landscape,Aplanir
+##gamemenu_taskbar_landscape_text,Cliquez ici pour choisir où aplanir le sol.
+##gamemenu_taskbar_landscapecrew,GroupeAplanir
+##gamemenu_taskbar_landscapecrew_text,"Sélectionne vos travailleurs.
+Shift-Clique pour augmenter la priorité de la tâche.
+Ctrl-Clique pour diminuer la priorité de la tâche."
+##gamemenu_taskbar_tunnel_topbar,Tâche de tunnel
+##gamemenu_taskbar_tunnel,Tunnel
+##gamemenu_taskbar_tunnel_text,Cliquez ici pour créer de nouveaux tunnels à excaver.
+##gamemenu_taskbar_tunnelcrew,GroupeExcavation
+##gamemenu_taskbar_tunnelcrew_text,"Sélectionne vos travailleurs.
+Shift-Clique pour augmenter la priorité de la tâche.
+Ctrl-Clique pour diminuer la priorité de la tâche."
+##gamemenu_taskbar_idle,Ouvriers
+##gamemenu_taskbar_idle_text,"Vos ouvriers sont affichés ici.
+Les ouvriers passifs sont à gauche.
+Les ouvriers actifs sont à droite."
+##gamemenu_taskbar_idlecrew,Ouvriers Passifs
+##gamemenu_taskbar_idlecrew_text,"Vos ouvriers passifs sont affichés ici.
+Si vous donnez un ordre à un ouvrier, il devient passif. Les ouvriers passifs Retournent au travail après quelques secondes."
+##gamemenu_taskbar_active,Ouvriers Actifs
+##gamemenu_taskbar_active_text,"Vos ouvriers actifs sont affichés ici.
+Ils choisissent eux-mêmes sur quelle tâche travailler."
+##gamemenu_taskbar_newtask,Nouvelle Tâche
+##gamemenu_taskbar_newtask_text,"Cliquez ici pour créer une nouvelle tâche.
+Pour des briques et des palettes, utilisez la tâche de construction.
+Pour ramasser des ressources, utilisez la tâche de récolte."
+##gamemenu_taskbar_meleeunits,Mêlée
+##gamemenu_taskbar_meleeunits_text,"Vos unités de combat au corps-à-corps sont affichées ici.
+"
+##gamemenu_taskbar_rangedunits,Portée
+##gamemenu_taskbar_rangedunits_text,"Vos unités d'attaque à distance sont affichées ici.
+"
+##gamemenu_taskbar_select,Sélection
+##gamemenu_taskbar_priority,Priorité
+##gamemenu_taskbar_locked,Barré
+##gamemenu_taskbar_low,Basse
+##gamemenu_taskbar_medium,Medium
+##gamemenu_taskbar_high,Élevée
+##gamemenu_taskbar_edit,Modifier
+##gamemenu_taskbar_close,Fermer
+##task_actions_lowerpriority,Baisser priorité
+##task_actions_lowerpriority_info,<color=#ffc50a>Baisser priorité</color>\n\nRend la tâche moins urgente
+##task_actions_raisepriority,Monter priorité
+##task_actions_raisepriority_info,<color=#ffc50a>Monter priorité</color>\n\nRend la tâche plus urgente
+,
+##gamemenu_topmenu_settings,Options
+##gamemenu_topmenu_toggledebug,Interrupteur Affichage Debug
+##gamemenu_topmenu_fogofwar,Brouillard de Guerre
+##gamemenu_topmenu_mainmenu,Menu Principal
+##gamemenu_topmenu_xray,Rayon X
+##gamemenu_topmenu_mute,Muet
+##gamemenu_topmenu_screenshot,Capture d'Écran
+##gamemenu_topmenu_quicksave,Sauvegarde Rapide
+##gamemenu_topmenu_pause,Pause
+##gamemenu_topmenu_Alerts,Alertes
+##gamemenu_topmenu_editorcamera,Caméra Mode Éditeur
+##gamemenu_topmenu_speedx2,Vitesse x2
+##gamemenu_topmenu_audiodebug,Debug Audio
+##gamemenu_topmenu_gc,Collecte Mémoire
+,
+DEBUG,
+##gamemenu_debug_modedisplay,Mode Debug
+##gamemenu_debug_title,Debug
+##gamemenu_debug_disclaimer,Certains outils dans ce panneau de debug peuvent causer une baisse de performance ou briser le jeu. Considérez faire une copie de votre sauvegarde avant de l'utiliser.
+##gamemenu_debug_instantbuild,Construction Instantanée
+##gamemenu_debug_timex2,Vitesse x2
+##gamemenu_debug_timeofday,Temps de la journée
+##gamemenu_debug_pausedaytime,Arrêt du Cycle Circadien
+##gamemenu_debug_currenttime,Heure Actuelle
+##gamemenu_debug_spawnbricktrons,Créer des Bricktrons
+##gamemenu_debug_worker,Travailleur
+##gamemenu_debug_knight,Chevalier
+##gamemenu_debug_archer,Archer
+##gamemenu_debug_halberdier,Hallebardier
+##gamemenu_debug_arbalist,Arbalétrier
+##gamemenu_debug_artificer,Artificier
+##gamemenu_debug_alchemist,Alchimiste
+##gamemenu_debug_spawncorruptrons,Créer des Corruptrons
+##gamemenu_debug_minitron,Minitron
+##gamemenu_debug_corruptron,Corruptron
+##gamemenu_debug_biftron,Biftron
+##gamemenu_debug_magitron,Sorcier
+,
+GENERIC SYSTEM STRINGS,
+##faction_blue,Bleu
+##faction_red,Rouge
+##faction_green,Vert
+##faction_orange,Orange
+##faction_corruptrons,Corruptrons
+##faction_spectators,Spectateurs
+##faction_neutral,Neutre
+,
+##team_a,Équipe A
+##team_b,Équipe B
+##team_c,Équipe C
+##team_d,Équipe D
+,
+##saved_map,Carte Sauvegardée
+##saved_game,Partie Sauvegardée
+,
+GAMEMODES,
+##mode,Mode
+##mode_sandbox,Construction Libre
+##mode_sandbox_info,Le mode de jeu fait pour les créatifs et pacifistes. Pas d'enemis veut dire que vous pouvez construire ce dont vous voulez et ce à votre rythme.
+##mode_sandbox_intro,"Ceci est le mode <b>Construction Libre</b>.
+
+Ici, vous pouvez faire ce que vous voulez.
+Il n'y a ni limite de temps ni Corruptrons, alors vous pouvez bâtir sans inquiétudes.
+Utilisez ce mode pour explorer le jeu et pratiquer l'art de construire des châteaux. 
+
+Amusez-vous!"
+##mode_sandbox_intro_start,Je suis prêt!
+##mode_sandbox_intro_start_info,Commencez la partie
+##mode_conquest,Conquête
+##mode_conquest_info,Des troupeaux de corruptrons parcourent le paysage. Pouvez-vous amasser une force assez puissante pour les éjecter?
+##mode_conquest_intro,"Les Corruptrons ont finalement mis pieds sur terre sur votre ile. Dans peu de temps, ils auront étendu leur influence corrompue auprès de tous les cristaux magiques de l'ile.\nSeul vous pouvez les en empêcher.\n\nEn êtes vous capable?"
+##mode_conquest_intro_start,Je suis prêt!
+##mode_conquest_intro_start_info,Commencez la partie
+##mode_conquest_victory,Victoire!
+##mode_conquest_victory_info,Vous avez écrasé toute opposition à votre régime. Votre génie stratégique et votre ingénierie supérieure ont eu raison de vos adversaires et vous contrôlez maintenant les Îles. Vous serez éternellement commémoré glorieusement comme un dirigeant sans égal.
+##mode_conquest_victory_quit,Quitter
+##mode_conquest_victory_quit_info,Retourner au menu principal
+##mode_conquest_defeat,Défaite!
+##mode_conquest_defeat_info,"Vos ennemis ont conquis votre Cristal.
+Les Bricktrons qui survécurent furent exilés. Ils poursuivent maintenant de nouveaux horizons et cherchent une nouvelle ile où habiter."
+##mode_conquest_defeat_quit,Quitter
+##mode_conquest_defeat_quit_info,Retourner au menu principal
+##mode_conquest_defeat_continue,Rester
+##mode_conquest_defeat_continue_info,Continuer comme spectateur
+##mode_invasion,Invasion
+##mode_invasion_info,Des corruptrons attaquent votre château en vagues de plus en plus difficiles. Vos prouesses et votre determination sont vos meilleures armes.
+##mode_invasion_intro,Votre temps est compté.\n\nDes hordes de Corruptrons enragés sont à l'horizon. Chaque vague deviendra de plus en plus difficile. Votre seule option est d'ériger des fortifications autour de votre cristal et d'espérer la clémence de vos ennemis.\n\nBonne chance!
+##mode_invasion_intro_start,Je suis prêt!
+##mode_invasion_intro_start_info,Commencez la partie
+##mode_invasion_victory,Victoire!
+##mode_invasion_victory_info,"Avec votre coeur au ventre et votre détermination devant l'adversité, vous avez triomphé du mode <b>Invasion</b>. Vous pouvez continuer à jouer, mais le nombre croissant de Corruptrons aura éventuellement raison de votre ordinateur."
+##mode_invasion_victory_quit,Quitter
+##mode_invasion_victory_quit_info,Retourner au menu principal
+##mode_invasion_victory_continue,Continuer
+##mode_invasion_victory_continue_info,Continuez de jouer
+##mode_invasion_defeat,Défaite!
+##mode_invasion_defeat_info,"Ainsi, la jadis glorieuse contrée sur laquelle règnait les Bricktrons fût conquise par les impitoyables Corruptrons."
+##mode_invasion_defeat_quit,Quitter
+##mode_invasion_defeat_quit_info,Retourner au menu principal
+##mode_invasion_nextwave,Prochaine vague débute dans:
+##mode_invasion_skip,Escamoter
+##mode_invasion_hidden,(Caché)
+##mode_invasion_wave,Vague
+##mode_invasion_killcount,Ennemis vaincus: 
+##mode_invasion_wavesurvived_one,Vous avez survécu à #waves_survived vague.
+##mode_invasion_wavesurvived_many,Vous avez survécu à #waves_survived vagues.
+##mode_worldeditor,Éditeur de Monde
+##mode_worldeditor_info,Créer ou modifier une carte existante
+##mode_creditisland,Ile de la Renommée
+##mode_creditisland_intro,"La légende dit que ces iles contiennent les âmes perdues de 30 000 backers. Ces âmes, emprisonnées sous plusieurs couches de roc solide, n'attendent que le jour où elles seront libérées!"
+##mode_creditisland_intro_start,Je suis prêt!
+##mode_creditisland_intro_start_info,Commencez la partie
+##mode_unsupported,Non supporté
+##mode_noneselected,Aucun selectionné
+##mode_nonesupported,Aucun supporté
+##mode_gtg,Ramasse les Gemmes
+##mode_gtg_info,Ramasse les Gemmes est un mode multijoueur dans lequel vous devez ramener des gemmes à votre cristal principal. L'équipe qui ramène le plus de gemmes gagne!
+##mode_gtg_intro,"Pour gagner la partie dans le mode Ramasse les Gemmes, vous devez ramasser #gems_to_win gemmes et les déposer dans votre cristal principal.
+Utilisez un ouvrier pour ramasser une gemme dans son carré en faisant clic-droit. Déposez une gemme dans votre cristal en faisant clic-droit avec un ouvrier qui en transporte une.
+Considérez défendre les carrés de gemmes et chasser les travailleurs ennemis qui tentent de ramener des gemmes à leur cristal.
+Amusez-vous et bonne chance!"
+##mode_gtg_intro_start,Je suis prêt!
+##mode_gtg_intro_start_info,À la chasse!
+##mode_gtg_gemscollected_one,Vous avez ramassé #gem_count gemme!
+##mode_gtg_gemscollected_many,Vous avez ramassé #gem_count gemmes!
+##mode_gtg_timebeforenextgem,Prochaine gemme dans:
+##mode_gtg_victory,Victoire!
+##mode_gtg_victory_info,Vous êtes victorieux! Vous êtes le premier à avoir ramassé toutes les gemmes nécéssaires. Fabuleux! Outrageux!
+##mode_gtg_victory_quit,Quitter la partie
+##mode_gtg_victory_quit_info,Retourner au menu principal
+##mode_gtg_defeat,Défaite!
+##mode_gtg_defeat_info,"Vous avez perdu. \n
+Une autre faction que la vôtre a ramassées les gemmes nécéssaires avant vous.\n
+Vos Brickrons, privés du pouvoir que leur confèrent les gemmes, vivront dans la honte jusqu'à la prochaine bataille!"
+##mode_gtg_defeat_quit,Quitter la partie
+##mode_gtg_defeat_quit_info,Retourner au menu principal
+,
+PRESETS,
+##mode_preset,Préréglage
+##mode_preset_noneselected,Aucun selectionné
+##mode_sandbox_preset_lightsout,Mode Obscurité
+##mode_sandbox_default,Défaut
+##mode_conquest_preset_easy,Facile
+##mode_conquest_preset_normal,Normal
+##mode_conquest_preset_hard,Difficile
+##mode_conquest_preset_normallightsout,Normal Mode Obscurité
+##mode_conquest_preset_versus,Versus
+##mode_conquest_preset_coopeasy,Coopératif Facile
+##mode_conquest_preset_coopnormal,Coopératif Normal
+##mode_conquest_preset_coophard,Coopératif Difficile
+##mode_conquest_preset_coopnormallightsout,Coopératif Normal Mode Obscurité
+##mode_invasion_preset_easy,Facile
+##mode_invasion_preset_normal,Normal
+##mode_invasion_preset_normallightsout,Normal Mode Obscurité
+##mode_invasion_preset_hard,Difficile
+##mode_invasion_preset_very_hard,Very Difficile
+##mode_invasion_preset_coop_easy,Coopératif Facile
+##mode_invasion_preset_coop_normal,Coopératif Normal
+##mode_invasion_preset_coop_normallightsout,Coopératif Normal Mode Obscurité
+##mode_invasion_preset_coop_hard,Coopératif Difficile
+##mode_worldeditor_preset_default,Défaut
+##mode_creditisland_preset_default,Ile de la Renommée
+##mode_gtg_preset_default,Défaut
+##mode_gtg_preset_default_info,Présélection par défaut.
+##mode_gtg_preset_extended,Prolongé
+##mode_gtg_preset_extended_info,Les gemmes vont prendre plus de temps à apparaître
+,
+##mode_tutorial,Tutoriel
+##mode_tutorial_info,
+##mode_tutorial_preset_default,Défaut
+##mode_tutorial_sendcorruptron,Vague de Corruptrons
+,
+##mapmenu_size,Taille
+##mapmenu_size_small,Petite
+##mapmenu_size_medium,Moyenne
+##mapmenu_size_large,Grande
+,
+##mapmenu_maxplayers,Max de Joueurs
+,
+##gamemenu_corrupted,Corrompu
+##gamemenu_player,Joueur
+,
+##mapmenu_delete,Effacer
+##mapmenu_delete_info,Supprimer la sauvegarde de votre disque.
+##mapmenu_delete_confirmation,Effacer Confirmation
+##mapmenu_delete_confirmation_message,Cette action va effacer ce fichier pour toujours.\nVous ne pourrez pas revenir en arrière.\nContinuer?
+##mapmenu_delete_confirmation_confirm,Oui! Effacer.
+##mapmenu_delete_confirmation_cancel,Annuler
+,
+##mainmenu_none,Écrivez votre message
+,
+DATETIME,
+##datetime_dateformat,#weekday le #monthday #month #year
+,
+##datetime_month_january,Janvier
+##datetime_month_february,February
+##datetime_month_march,Mars
+##datetime_month_april,Avril
+##datetime_month_may,Mai
+##datetime_month_june,Juin
+##datetime_month_july,Juillet
+##datetime_month_august,Aout
+##datetime_month_september,Septembre
+##datetime_month_october,Octobre
+##datetime_month_november,Novembre
+##datetime_month_december,Decembre
+,
+##datetime_weekday_sunday,Dimanche
+##datetime_weekday_monday,Lundi
+##datetime_weekday_tuesday,Mardi
+##datetime_weekday_wednesday,Mercredi
+##datetime_weekday_thursday,Jeudi
+##datetime_weekday_friday,Vendredi
+##datetime_weekday_saturday,Samedi
+,
+THOUGHTS,
+##thought_unknown,Hmm
+##thought_cant_repair,Je ne peux pas réparer cela
+##thought_cant_transformlog,Je ne peux pas équarrir cette bûche
+##thought_works_accounted,Les autres se débrouillent
+##thought_reach_destination,Je ne peux pas atteindre ma destination
+##thought_cant_choptrees,Je ne peux pas bûcher du bois
+##thought_nothingtodo,Je n'ai rien à faire
+##thought_thinking,Je réfléchis...
+##thought_cant_break,Je ne peux pas briser de bloc en ce moment
+##thought_looking_for_storage,Je cherche un espace de stockage
+##thought_could_not_find_storage,Aucun espace de stockage
+##thought_inventory_empty,Mon inventaire est vide
+##thought_storage_full,Mon espace de stockage prévu est plein
+##thought_storage_noexist,Mon lieu d'entreposage n'existe plus
+##thought_cant_find,Je ne trouve pas ce dont j'ai besoin
+##thought_cant_collect_plants,Je ne peux pas cueillir des plantes en ce moment
+##thought_inventory_full,Je suis trop chargé
+##thought_already_enough_workers_doing_goal,Il y a suffisamment d'ouvriers sur cette tâche
+##thought_job_notforme,Ce travaille n'est pas pour moi
+##thought_enough_workers_in_project,Il n'y a plus de place pour moi
+##thought_carrying_toomuch_todig,Je suis trop chargé pour creuser
+##thought_not_grounded,Wouhhouhh!
+##thought_target_is_too_far_away,Ma cible est trop éloignée
+##thought_object_has_changed_container,Quelqu'un m'a pris mes ressources!
+##thought_object_was_converted,Mes ressources ont été converties
+##thought_object_in_someone_else_bag,Ce dont j'ai besoin est dans le sac de quelqu'un d'autre
+##thought_will_not_betray_my_friends,Je ne trahirai pas mes amis
+##thought_target_is_dead,Arrêtez! Y'est déjà mort!
+##thought_voxel_was_built_over,On a bâti sur mon voxel
+##thought_area_is_too_dangerous,Cet endroit est trop dangereux
+##thought_looking_for_path_to_tree,J'essaie d'atteindre les arbres
+,
+##loading_tip_right_click_pie_menu,Maintient le bouton droit de la souris sur différents objets tel que la fournaise pour afficher un menu contextuel. Le menu offre différentes actions selon ce qui est selectionné et ce qui se trouve sous le pointeur.
+##loading_tip_move_attack,Shift + Clic-Droit avec des unités militaires sélectionnées pour leur donner l'ordre de bouger et attaquer.
+##loading_tip_discord,Rejoignez le serveur Discord officiel de Castle Story pour rencontrer d'autres joueurs! www.castlestory.net/Discord
+##loading_tip_alchemist_ammo,Rechargez les munitions d'un Alchimiste en le sélectionnant et en faisant Clic-Droit sur une palette contenant des bombes.
+##loading_tip_bear_traps,Mettez des pièges à ours dans un goulot d'étranglement pour ralentir les ennemis et permettre à vos unités d'attaque à distance de les éliminer avant qu'ils n'atteignent votre château.
+##loading_tip_quarry_stairs,Vous pouvez changer la position des escaliers dans une carrière avant d'avoir confirmé la tâche en cliquant sur l'option correspondante dans le menu contextuel au bas de votre écran.
+##loading_tip_tunnels_direction,Vous pouvez creuser des tunnels ascendants ou descendants en cliquant sur l'option correspondante dans le menu contextuel au bas de votre écran.
+##loading_tip_xray,Activez le mode Rayon-X dans le panneau réglages en haut à droite de votre écran. Utilisez Shift + Roulette pour voir au travers des montagnes et des blocs.
+##loading_tip_repair_task,Placez une tâche de réparation sur des blocs de pierre ou de bois pour qu'ils soient réparés en cas de dommages.
+##loading_tip_missing_storage,"Si vos Bricktrons refusent de travailler, assurez-vous d'avoir l'espace de rangement adéquat (palettes et râteliers)."
+##loading_tip_toggle_artificer,Appuyez sur H pour alterner entre le mode Guérison ou Attaque de l'Artificier.
+##loading_tip_toggle_knight,"Appuyez sur H pour alterner entre le mode Attaque ou Défense du chevalier, où ils peuvent bloquer les projectiles."
+##loading_tip_funny_first_name,Les Bricktrons préfèrent être appellés par leur prénom.
+##loading_tip_funny_reboot,"Lorsque deux Bricktrons deviennent amis, c'est pour la vie, ou jusqu'à ce que vous redémarriez votre ordinateur."
+##loading_tip_funny_courtship,Le rituel de parade nuptiale des Bricktrons est à la fois raffiné et subtil.
+##loading_tip_funny_high_tower,Perdue fût la capacité des Bricktrons à parler de façon intelligible lorsqu'ils construisirent une tour un peu trop haute.
+##loading_tip_funny_mirror_image,Les Bricktrons ne reconnaissent pas leur propre reflet dans le miroir.
+##loading_tip_funny_bycocket,Le type de chapeau porté par les hallebardiers bricktrons est un chapel de Montauban. Sans blague.
+##loading_tip_archers_range,Les archers et arbalistes gagnent un bonus de portée lorsque perchés en hauteur. Placez les  sur vos murs.
+##loading_tip_piemenu_stockpiles,Utilisez le menu contextuel sur vos palettes pour restreindre les ressources qu'elles peuvent contenir.
+##loading_tip_landscape,Vous pouvez utiliser la tâche d'aplanissement pour aplanir du terrain inégal.
+##loading_tip_braces,Vous pouvez construire des poutres plus longues si vous placez des équerres en dessous.
+##loading_tip_funny_bougre,b0uGr3 waZ H3eR
+,
+RESOURCES,
+##resource_empty,Vide
+##resource_empty_info,Vide
+##resource_stoneblock,Brique
+##resource_stoneblock_info,Bloc principalement utilisé dans la construction de châteaux.
+##resource_woodblock,Bûche
+##resource_woodblock_info,Peut être coupé en planches au bloc de coupe.
+##resource_plankblock,Planche
+##resource_plankblock_info,Principale ressource utilisée dans la construction de structures en bois.
+##resource_stones,Garnottes
+##resource_stones_info,La garnotte peut être combinée en briques ou transformée en verre.
+##resource_iron,Lingot de Fer
+##resource_iron_info,"Peut être forgé en divers objets, incluant armes, armures et engrenages."
+##resource_bluecrystal,Cristal Bleu
+##resource_bluecrystal_info,Y revient-tu ou y revient-tu pas??
+##resource_orangecrystal,Soufre
+##resource_orangecrystal_info,Sert de carburant pour la fournaise et dans la concoction d'explosifs.
+##resource_sentinelward,Balise Sentinelle
+##resource_sentinelward_info,Cette balise attaque les ennemis à proximité.
+##resource_healingward,Balise de Guérison
+##resource_healingward_info,Les Bricktrons dans la sphère d'influence de cette balise reprennent des points de vie.
+##resource_captureward,Balise de Capture
+##resource_captureward_info,Placez cette balise à côté d'un fragment pour le capturer.
+##resource_lanternward,Balise Lanterne
+##resource_lanternward_info,Cette balise émet de la lumière. Elle va émettre plus de lumière lorsque connectée à un cristal.
+##resource_pylonward,Balise Pylône
+##resource_pylonward_info,Cette balise transmet de l'énergie à d'autres balises.
+##resource_plant,Plante
+##resource_plant_info,La fibre végétale extraite de ces plantes sert à fabriquer de la corde et du textile.
+##resource_rope,Corde
+##resource_rope_info,Utilisée dans la fabrication de ponts de corde et d'arcs.
+##resource_fabric,Textile
+##resource_fabric_info,Requis pour fabriquer la plupart de l'équipement militaire.
+##resource_rawiron,Fer
+##resource_rawiron_info,Minerai non raffiné. Peut être fondu en lingots.
+##resource_glass,Verre
+##resource_glass_info,Sert dans la production de biens au laboratoire.
+##resource_cog,Engrenage
+##resource_cog_info,Sert à fabriquer la manufacture et des arbalètes.
+##resource_bomb,Bombe
+##resource_bomb_info,Sert de munition pour l'alchimiste.
+##resource_explosivebarrel,Baril Explosif
+##resource_explosivebarrel_info,Sert de munition pour la catapulte.
+,
+RECIPES,
+##recipe_requires,Requiert
+##recipe_none,Aucune
+##recipe_none_info,Aucune
+##recipe_ironingot,Lingot de Fer
+##recipe_ironingot_info,"Peut être forgé en divers objets, incluant armes, armures et engrenages."
+##recipe_glassingot,Verre
+##recipe_glassingot_info,Sert dans la production de biens au laboratoire.
+##recipe_cog,Engrenage
+##recipe_cog_info,Sert à fabriquer la manufacture et des arbalètes.
+##recipe_bomb,Bombe
+##recipe_bomb_info,Sert de munition pour l'alchimiste.
+##recipe_beartrap,Piège à Ours
+##recipe_beartrap_info,Le piège à ours immobilise temporairement quiconque met le pied dessus.
+##recipe_explosivebarrel,Baril Explosif
+##recipe_explosivebarrel_info,Sert de munition pour la catapulte.
+##recipe_fabricpile,Rouleau de Textile
+##recipe_fabricpile_info,Requis pour fabriquer la plupart de l'équipement militaire.
+##recipe_ropeballot,Ballot de Corde
+##recipe_ropeballot_info,Utilisée dans la fabvrication de ponts de corde et d'arcs.
+##recipe_planks,Planches
+##recipe_planks_info,Principale ressource utilisée dans la construction de structures en bois.
+##recipe_sentinelward,Balise Sentinelle
+##recipe_sentinelward_info,Cette balise attaque les ennemis à proximité.
+##recipe_healingward,Balise de Guérison
+##recipe_healingward_info,Les Bricktrons dans la sphère d'influence de cette balise reprennent des points de vie.
+##recipe_captureward,Balise de Capture
+##recipe_captureward_info,Placez cette balise à côté d'un fragment pour le capturer.
+##recipe_lanternward,Balise Lanterne
+##recipe_lanternward_info,Cette balise émet de la lumière. Elle va émettre plus de lumière lorsque connectée à un cristal.
+##recipe_pylonward,Balise Pylône
+##recipe_pylonward_info,Cette balise transmet de l'énergie à d'autres balises.
+##recipe_sword,Épée
+##recipe_sword_info,Partie intégrale du kit de chevalier.
+##recipe_shield,Bouclier
+##recipe_shield_info,Partie intégrale du kit de chevalier.
+##recipe_helmet,Armet Florentin
+##recipe_helmet_info,Partie intégrale du kit de chevalier.
+##recipe_bow,Arc
+##recipe_bow_info,Partie intégrale du kit d'archer.
+##recipe_quiver,Carquois
+##recipe_quiver_info,Partie intégrale du kit d'archer.
+##recipe_cap,Chapeau
+##recipe_cap_info,Partie intégrale du kit d'archer.
+##recipe_arbalistweapon,Arbalète
+##recipe_arbalistweapon_info,Partie intégrale du kit d'arbalétrier.
+##recipe_arbalistpouch,Carreaux
+##recipe_arbalistpouch_info,Partie intégrale du kit d'arbalétrier.
+##recipe_arbalistcap,Kepi
+##recipe_arbalistcap_info,Partie intégrale du kit d'arbalétrier.
+##recipe_alchemistpouch,Besace
+##recipe_alchemistpouch_info,Partie intégrale du kit d'alchimiste.
+##recipe_alchemisthat,Bonnet
+##recipe_alchemisthat_info,Partie intégrale du kit d'alchimiste.
+##recipe_artificerstaff,Bâton
+##recipe_artificerstaff_info,Partie intégrale du kit d'artificier.
+##recipe_artificersatchel,Sacoche
+##recipe_artificersatchel_info,Partie intégrale du kit d'artificier.
+##recipe_artificerhat,Chapka
+##recipe_artificerhat_info,Partie intégrale du kit d'artificier.
+##recipe_poleaxe,Hache D'Armes
+##recipe_poleaxe_info,Partie intégrale du kit d'hallebardier.
+##recipe_kettlehat,Chapel de Montauban
+##recipe_kettlehat_info,Partie intégrale du kit d'hallebardier.
+##recipe_knightkit,Kit de Chevalier
+##recipe_knightkit_info,Les chevaliers sont de lentes mais robustes unités de mêlée qui excellent à bloquer les projectiles.
+##recipe_archerkit,Kit D'Archer
+##recipe_archerkit_info,Les archers sont des unités à longue portée versatiles et peu coûteuses.
+##recipe_arbalistkit,Kit D'Arbalétrier
+##recipe_arbalistkit_info,"Les arbalétriers sont lents, mais infligent beacoup de dégâts à très longue portée."
+##recipe_halberdierkit,Kit D'Hallebardier
+##recipe_halberdierkit_info,Les hallebardiers sont des unités de mêlée rapides et peu coûteuses.
+##recipe_alchemistkit,Kit D'Alchimiste
+##recipe_alchemistkit_info,Les alchimistes lancent des bombes qui infligent des dégâts de zone et brisent les murs.
+##recipe_artificerkit,Kit D'Artificier
+##recipe_artificerkit_info,Les artificiers peuvent soit lancer des projectiles ou guérir leur alliés
+,
+OPERABLES,
+##operable_craft,Fabriquer
+##operable_resources_requirements,Requis
+##operable_resources_finished,Terminé
+##operable_queue,File d'attente
+##operable_queue_toggle_looping,Interrupteur de cyclage
+##operable_queue_toggle_looping_info,Cette station va produire l'item sélectionné indéfiniment.
+##operable_queue_clear,Effacer
+##operable_queue_clear_info,Vide la ligne de production.
+##operable_furnace,Fournaise
+##operable_furnace_info,Permet aux Bricktrons de fondre des métaux.
+##operable_workbench,Établi
+##operable_workbench_info,L'établi permet de fabriquer des lanternes.
+##operable_choppingblock,Bloc de Coupe
+##operable_choppingblock_info,Coupez vos billots en planches à cette station.
+##operable_laboratory,Laboratoire
+##operable_laboratory_info,"Tout matériel explosif est fabriqué à cette station, incluant barils explosifs, bombes et kits d'alchimiste."
+##operable_loom,Métier à Tisser
+##operable_loom_info,Cette station vous permet de tisser de la fibre végétale en corde et en textile.
+##operable_forge,Forge
+##operable_forge_info,La forge vous permet de transformer vos lingots en kits de chevalier et en engrenages.
+##operable_machineshop,Manufacture
+##operable_machineshop_info,"Toute contraption mécanique est fabriquée ici, comme les pièges à ours et les kits d'arbalétriers."
+##operable_altar,Autel
+##operable_altar_info,"Tout item puisant dans la mystérieuse source d'énergie qui émane des cristaux est fabriqué ici, incluant balises et kits d'artificier."
+,
+TASKS,
+##task_build,Bâtir
+##task_build_info,<color=#ffc50a>Bâtir</color>\n\nTâche de construction de blocs et structures.
+##task_quarry,Carrière
+##task_quarry_info,<color=#ffc50a>Carrière</color>\n\nTâche pour creuser le sol et récolter de la pierre.
+##task_cleanup,Ménage
+##task_cleanup_info,<color=#ffc50a>Ménage</color>\n\nPour ramasser les objets qui jonchent le sol.
+##task_harvest,Récolte
+##task_harvest_info,<color=#ffc50a>Récolte</color>\n\nTâche pour récolter des ressources à la surface.
+##task_repair,Réparation
+##task_repair_info,<color=#ffc50a>Réparation</color>\n\nPermet de réparer des structures ou blocs endommagés.
+##task_landscape,Aplanir
+##task_landscape_info,<color=#ffc50a>Aplanir</color>\n\nPermet d'aplanir le terrain.
+##task_tunnel,Tunnel
+##task_tunnel_info,<color=#ffc50a>Tunnel</color>\n\nPour creuser horizontalement.
+##task_idle,Cristal
+##task_idle_info,<color=#ffc50a>Cristal</color>\n\nTâche pour les Bricktrons qui relaxent.
+##task_goals,Buts
+##task_options,Options
+##task_all_goals,Buts
+##task_all_goals_info,<color=#ffc50a>Buts</color>\n\nNombre d'objectifs dans cette tâche
+,
+##task_build_blueprintclear,Nettoyer Sélection de Plan
+##task_build_blueprintclear_info,<color=#ffc50a>Nettoyer Sélection de Plan</color>\n\nNettoie la sélection actuelle de plans.
+##task_build_blueprintactive,Commuter Gestion de Plan
+##task_build_blueprintactive_info,<color=#ffc50a>Commuter Gestion de Plan</color>\n\nActive ou désactive la gestion de plans.
+##task_build_blueprintdelete,Effacer Plans Sélectionnés
+##task_build_blueprintdelete_info,<color=#ffc50a>Effacer Plans Sélectionnés</color>\n\nEfface les plans sélectionnés.
+##task_build_blueprintexpand,Expansion de Sélection de Plan
+##task_build_blueprintexpand_info,<color=#ffc50a>Expansion de Sélection de Plan</color>\n\nPermet d'ajouter d'autres plans à la sélection.
+##task_build_blueprintmove,Bouger Plans Sélectionnés
+##task_build_blueprintmove_info,<color=#ffc50a>Bouger Plans Sélectionnés</color>\n\nBougez plusieurs plans simultanément.
+##task_build_blueprintsplit,Séparer Plans Sélectionnés
+##task_build_blueprintsplit_info,<color=#ffc50a>Séparer Plans Sélectionnés</color>\n\nSépare la sélection dans une nouvelle tâche.
+##task_build_blueprintcopy,Copier Sélection de Plans
+##task_build_blueprintcopy_info,<color=#ffc50a>Copier Sélection de Plans</color>\n\nFait une copie de la sélection actuelle.
+,
+##task_priority,Priorité
+,
+##task_actions,Actions
+##task_actions_ok,OK
+##task_actions_ok_info,<color=#ffc50a>OK</color>\n\nConfirme les changements et ferme le mode édition
+##task_actions_apply,Appliquer
+##task_actions_apply_info,<color=#ffc50a>Appliquer</color>\n\nConfirmer les changements
+##task_actions_cancel,Annuler
+##task_actions_cancel_info,<color=#ffc50a>Annuler</color>\n\nAnnule les changements
+##task_actions_delete,Supprimer
+##task_actions_delete_info,<color=#ffc50a>Supprimer</color>\n\nSupprime la tâche sélectionnée
+##task_actions_select,Sélectionner Tâche
+##task_actions_select_info,<color=#ffc50a>Sélectionner Tâche</color>\n\nSélectionne cette tâche
+##task_actions_selectcrew,Sélectionner Groupe
+##task_actions_selectcrew_info,<color=#ffc50a>Sélectionner Groupe</color>\n\nSélectionne ces Bricktrons pour leur donner des ordres
+##task_actions_deselect,Désélectionner
+##task_actions_deselect_info,<color=#ffc50a>Désélectionner</color>\n\nDésélectionne les Bricktrons associés à cette tâche
+,
+##task_idle_crystal,Prochain Bricktron
+##task_idle_energy,Énergie:
+##task_idle_maxenergy,Maximum Atteint
+##task_idle_spawn,Invoquer
+##task_idle_dead,Morts
+##task_idle_population,Population
+##task_idle_population_info,<color=#ffc50a>Population</color>\n\nVotre population actuelle de Bricktrons sur le maximum permis
+##task_idle_death,Bricktrons Morts
+##task_idle_death_info,<color=#ffc50a>Bricktrons Morts</color>\n\nCes Bricktrons vont automatiquement ressusciter près de votre cristal principal
+##task_idle_progress,Barre de Progrès
+##task_idle_progress_info,<color=#ffc50a>Barre de Progrès</color>\n\nProgrès vers le prochain Bricktron
+##task_idle_spawnunit,Invoquer Bricktron
+##task_idle_spawnunit_info,<color=#ffc50a>Invoquer Bricktron</color>\n\nInvoque un Bricktron ouvrier
+,
+##task_build_goals,Blocs
+##task_build_goals_info,"<color=#ffc50a>Blocs</color>\n\nNombre de briques, blocs et structures à construire et à placer"
+,
+##task_harvest_options,Types de Ressources
+##task_harvest_goals,Ressources
+##task_harvest_goals_info,<color=#ffc50a>Ressources</color>\n\nNombre de ressources à récolter dans cette tâche
+##task_harvest_iron,Fer
+##task_harvest_iron_info,<color=#ffc50a>Fer</color>\n\nActiver ou désactiver la récolte de fer dans cette tâche
+##task_harvest_iron_goals,Veines de fer
+##task_harvest_iron_goals_info,<color=#ffc50a>Veines de fer</color>\n\nNombre de veines de fer à récolter dans cette tâche
+##task_harvest_plants,Plantes
+##task_harvest_plants_info,<color=#ffc50a>Plantes</color>\n\nActiver ou désactiver la récolte de plantes dans cette tâche
+##task_harvest_plants_goals,Plantes
+##task_harvest_plants_goals_info,<color=#ffc50a>Plantes</color>\n\nNombre de plantes à récolter dans cette tâche
+##task_harvest_brimstone,Soufre
+##task_harvest_brimstone_info,<color=#ffc50a>Soufre</color>\n\nActiver ou désactiver la récolte de soufre dans cette tâche
+##task_harvest_brimstone_goals,Veines de soufre
+##task_harvest_brimstone_goals_info,<color=#ffc50a>Veines de soufre</color>\n\nNombre de veines de soufre à récolter dans cette tâche
+##task_harvest_trees,Bois
+##task_harvest_trees_info,<color=#ffc50a>Bois</color>\n\nActiver ou désactiver la récolte de bois dans cette tâche
+##task_harvest_trees_goals,Arbres
+##task_harvest_trees_goals_info,<color=#ffc50a>Arbres</color>\n\nNombre d'arbres à récolter dans cette tâche
+##task_harvest_boulders,Pierre
+##task_harvest_boulders_info,<color=#ffc50a>Pierre</color>\n\nActiver ou désactiver la récolte de pierres dans cette tâche
+##task_harvest_boulders_goals,Rochers
+##task_harvest_boulders_goals_info,<color=#ffc50a>Rochers</color>\n\nNombre de rochers à récolter dans cette tâche
+,
+##task_landscape_goals,Voxels
+##task_landscape_goals_info,<color=#ffc50a>Voxels</color>\n\nNombre de voxels à enlever ou ajouter
+##task_landscape_raise,Niveler vers le haut
+##task_landscape_raise_info,<color=#ffc50a>Niveler vers le haut</color>\n\nOrdonne aux Bricktrons de surélever le terrain à l'endroit choisi
+##task_landscape_lower,Niveler vers le bas
+##task_landscape_lower_info,<color=#ffc50a>Niveler vers le bas</color>\n\nOrdonne aux Bricktrons de creuser le terrain à l'endroit choisi
+,
+##task_tunnel_options,Prochain Tunnel
+##task_tunnel_goals,Voxels
+##task_tunnel_goals_info,<color=#ffc50a>Voxels</color>\n\nNombre de voxels à enlever
+##task_tunnel_up,Creuser vers le haut
+##task_tunnel_up_info,<color=#ffc50a>Creuser vers le haut</color>\n\nOrdonne aux Bricktrons de creuser vers le haut
+##task_tunnel_down,Creuser vers le bas
+##task_tunnel_down_info,<color=#ffc50a>Creuser vers le bas</color>\n\nOrdonne aux Bricktrons de creuser vers le bas
+##task_tunnel_straight,Creuser de niveau
+##task_tunnel_straight_info,<color=#ffc50a>Creuser de niveau</color>\n\nOrdonne aux Bricktrons de creuser de niveau
+##task_keepstone_info,<color=#ffc50a>Garder la roche</color>\n\nLes Bricktrons entreposeront la roche récoltée
+##task_keepiron_info,<color=#ffc50a>Garder le fer</color>\n\nLes Bricktrons entreposeront le fer récolté
+##task_keepbrimstone_info,<color=#ffc50a>Garder la soufre</color>\n\nLes Bricktrons entreposeront le soufre récolté
+,
+##task_quarry_goals,Voxels
+##task_quarry_goals_info,<color=#ffc50a>Voxels</color>\n\nNombre de voxels à enlever
+##task_quarry_stairs,Tourner les Escaliers
+##task_quarry_stairs_info,<color=#ffc50a>Tourner les Escaliers</color>\n\nTourne les futurs escaliers de la carrière
+,
+##task_repair_goals,Blocs
+##task_repair_goals_info,"<color=#ffc50a>Blocs</color>\n\nNombre de briques, blocs et structures à réparer"
+,
+##task_cleanup_goals,Morceaux
+##task_cleanup_goals_info,<color=#ffc50a>Morceaux</color>\n\nNombre de morceaux de ressource qui jonchent le sol
+,
+NEWS,
+##news_mastodonte,MISE À JOUR DÉCORATIONS & BIOME D'HIVER!\nMAINTENANT DISPONIBLE!
+##news_mastodonte_datetime,#datetime
+##news_mastodonte_info,"La mise à jour décorations et biome d'hiver est en ligne, introduisant au jeu de nombreux blocs; de nouveaux piliers, tableaux, une statue, des fenêtres, des portes, ET un nouveau biome enneigé disponible pour jouer et dans l'éditeur de niveaux!\n\nAmusez-vous!"
+##news_mastodonte_start,JOUER AU TUTORIEL
+##news_mastodonte_start_info,
+##news_mastodonte_readmore,En savoir plus
+##news_mastodonte_readmore_info,Rendez-vous à CastleStory.net
+,
+,
+,
+##temp_event_gtp,Ramasse les Citrouilles
+##temp_event_gtp_info,Ramasse les Citrouilles est un mode multijoueur dans lequel vous devez ramener des citrouilles à votre marmite. L'équipe qui ramène le plus de citrouilles gagne!
+##temp_event_gtp_intro,"Pour gagner la partie dans le mode Ramasse les Citrouilles, vous devez ramasser #gems_to_win citrouilles et les déposer dans votre marmite.
+Utilisez un ouvrier pour ramasser une citrouille dans son carré en faisant clic-droit. Déposez cette délicieuse courge dans votre marmite en faisant clic-droit avec un ouvrier qui en transporte une.
+Considérez défendre les carrés de citrouilles et chasser les travailleurs ennemis qui tentent de les ramener à leur marmite.
+Amusez-vous et bonne chance!"
+##temp_event_gtp_gemscollected_one,Vous avez ramassé #gem_count citrouille!
+##temp_event_gtp_gemscollected_many,Vous avez ramassé #gem_count citrouilles!
+##temp_event_gtp_timebeforenextgem,Prochaine citrouille dans:
+##temp_event_gtp_victory_info,Vous êtes victorieux! Vous êtes le premier à avoir ramassé toutes les citrouilles nécéssaires. Fabuleux! Outrageux!
+##temp_event_gtp_defeat_info,"Vous avez perdu. \n
+Une autre faction que la vôtre a ramassées les citrouilles nécéssaires avant vous.\n
+Vos Brickrons, privés du pouvoir que leur confèrent les courges, vivront dans la honte jusqu'à la prochaine bataille!"
+##temp_event_gtp_mastodonte,RAMASSEZ LES CITROUILLES!
+##temp_event_gtp_mastodonte_info,"C'est le retour de l'événement d'Halloween! Cette année encore, Ramassez les Gemmes prend un air plus menaçant! Les gemmes se changent en citrouilles, le cristal devient un chaudron bouillonant et la lune n'a pas l'air tout à fait normale! Si vous n'avez pas encore essayé Ramassez les Gemmes/Citrouilles, tentez votre chance, c'est très amusant!\n\nVous remarquerez également que les Bricktrons portent leur meilleurs costumes! Partagez une capture d'écran de votre préféré sur les médias sociaux avec le tag #castlestory!\n\nJoyeuse Halloween!\n\n-L'équipe Sauropod"
