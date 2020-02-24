@@ -1,12 +1,12 @@
 # CasteStoryGold
 
+Add additional invasion difficulty Levels
+
 ![Image of Very Hard Difficulty](https://github.com/ai4life/CasteStoryGold/blob/master/veryHard.png)
 
 ## Installation
 
 ### Add Difficulty Presets
-Add additional invasion difficulty Levels
-
 Copy and paste 
 
 invasion_very_hard_201badec-a51a-4130-b5ea-c1cccdfbd343.json
