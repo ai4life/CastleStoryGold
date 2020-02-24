@@ -2,7 +2,7 @@
 
 Add additional invasion difficulty Levels
 
-![Image of Very Hard Difficulty](https://github.com/ai4life/CasteStoryGold/blob/master/veryHard.png)
+![Image of Very Hard Difficulty](https://github.com/ai4life/CasteStoryGold/blob/master/moreDifficulties.png)
 
 ## Installation
 
