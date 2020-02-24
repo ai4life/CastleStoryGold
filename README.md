@@ -11,4 +11,10 @@ into
 
 C:\Program Files (x86)\Steam\steamapps\common\Castle Story\Info\Lua\Gamemodes\invasion\Presets
 
+Languages (Directory)
+
+C:\Program Files (x86)\Steam\steamapps\common\Castle Story\Info\
+
+(Overwrite files)
+
 Restart Castle Story
