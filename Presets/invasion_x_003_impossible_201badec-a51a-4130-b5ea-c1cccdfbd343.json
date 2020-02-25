@@ -19,7 +19,7 @@
 	
 	"canManualTriggerWaves" : false,
 	
-	"startingWorkersCount" : 1,
+	"startingWorkersCount" : 2,
 	"startingKnightCount" : 0,
 	"startingArcherCount" : 0,
 	
