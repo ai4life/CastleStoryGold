@@ -1,0 +1,43 @@
+{
+	"__CODENAME" : "invasion_coophard_141ae0e5-cd73-4638-90e2-cfc35576bb50",
+	"__DISPLAYNAME" : "Hell",
+	"__DESCRIPTION" : "##mode_invasion_preset_coop_hard_info",
+	"__PRESET_GAMEMODE" : "invasion",
+	"__PRESET_ORDER" : 6,
+	"__PRESET_ISDEFAULT" : false,
+	"__ASSETVERSION": 1,
+	"__PLAYABLECONTEXT" : 2,
+	
+	"MP_MinTeams" : 1,
+	"MP_MaxTeams" : 4,
+	"MP_MinPlayersPerTeam" : 1,
+	"MP_MaxPlayersPerTeam" : -1,
+	"MP_AllowSharingTeam" : false,
+	
+	"MP_MinFactions" : 1,
+	"MP_MaxFactions" : 4,
+	"MP_MinPlayersPerFaction" : 0,
+	"MP_MaxPlayersPerFaction" : -1,
+	"MP_AllowSharingFaction" : true,
+	
+	"displayTimeBeforeWave" : false,
+	"firstWaveDurationBonus" : 0,
+	"waveDuration" : 240,
+	
+	"firstWaveBudget" : 17,
+	"additionalWaveBudget" : 8,
+	"waveBudgetMultiplier" : 4.5,
+	"waveBudgetRandom" : 0,
+	
+	"canManualTriggerWaves" : false,
+	
+	"startingWorkersCount" : 3,
+	"startingKnightCount" : 0,
+	"startingArcherCount" : 0,
+	
+	"canDigGround" : true,
+	
+	"blueCrystalDeeplayer" : false,
+	"orangeCrystalDeeplayer" : true,
+	"ironDeeplayer" : true,
+}
