@@ -1,0 +1,47 @@
+{
+	"__CODENAME" : "conquest_coop_hard_ea830f0f-e05e-44a7-bbf1-f80f4364579b",
+	"__DISPLAYNAME" : "Very Hard",
+	"__DESCRIPTION" : "##mode_conquest_preset_coophard_info",
+	"__PRESET_GAMEMODE" : "conquest",
+	"__PRESET_ORDER" : 4,
+	"__ASSETVERSION": 1,
+	"__PRESET_ISDEFAULT" : false,
+	"__PLAYABLECONTEXT" : 2,
+	
+	"MP_MinTeams" : 1,
+	"MP_MaxTeams" : 1,
+	"MP_MinPlayersPerTeam" : 1,
+	"MP_MaxPlayersPerTeam" : -1,
+	"MP_AllowSharingTeam" : true,
+	
+	"MP_MinFactions" : 1,
+	"MP_MaxFactions" : -1,
+	"MP_MinPlayersPerFaction" : -1,
+	"MP_MaxPlayersPerFaction" : -1,
+	"MP_AllowSharingFaction" : true,
+  "MP_RequiresCorruptrons" : true,
+	
+	"levelClockInterval" : 520,
+	"maximumEnemyLevel" : 10,
+	"baseCorruptronOffense" : 12,
+	"baseCorruptronDefense" : 24,
+	"offenseIncreasePerLevel" : 8,
+	"defenseIncreasePerLevel" : 3,
+	"playerAttackInterval" : 270,
+	"firstWaveDurationBonus" : 0,
+	"neutralAttackInterval" : 180,
+	"randomCorruptronCapture" : true,
+	
+	"hasRaidMissions" : true,
+
+	"startingWorkersCount" : 5,
+	"startingKnightCount" : 0,
+	"startingArcherCount" : 0,
+	
+	"canDigGround" : true,
+	"playerRelations" : 2,
+	
+	"blueCrystalDeeplayer" : false,
+	"orangeCrystalDeeplayer" : true,
+	"ironDeeplayer" : true,
+}
