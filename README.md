@@ -9,9 +9,13 @@ Add additional invasion difficulty Levels
 ### Add Difficulty Presets
 Copy and paste 
 
-Contents of **Presets** directory into 
+Contents of **invasion/Presets** directory into 
 
 C:\Program Files (x86)\Steam\steamapps\common\Castle Story\Info\Lua\Gamemodes\invasion\Presets
+
+Contents of **conquest/Presets** directory into 
+
+C:\Program Files (x86)\Steam\steamapps\common\Castle Story\Info\Lua\Gamemodes\conquest\Presets
 
 ### Add Language Localizations (only english and french, supported)
 Copy and paste 
