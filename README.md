@@ -17,18 +17,8 @@ Contents of **conquest/Presets** directory into
 
 C:\Program Files (x86)\Steam\steamapps\common\Castle Story\Info\Lua\Gamemodes\conquest\Presets
 
-### Add Language Localizations (only english and french, supported)
-Copy and paste 
-
-**Languages** Directory into
-
-C:\Program Files (x86)\Steam\steamapps\common\Castle Story\Info\
-
-(Overwrite files)
-
 ### Restart
 Restart Castle Story
-
 
 ## Increase Bricktron Cap
 
