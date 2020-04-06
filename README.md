@@ -1,4 +1,4 @@
-# CastleStoryGold
+# Castle Story Gold
 
 Add additional invasion difficulty Levels
 
